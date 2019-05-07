@@ -1,4 +1,4 @@
-
+# This actually just gets all the urls.
 
 import requests
 from bs4 import BeautifulSoup as soup

@@ -17,6 +17,8 @@ alburn = {
 
 Basically something like this for every city in America.
 
+    all.text
+
 Now we will use BeautifulSoup4, which is a Python dependency that allows for easy web scraping functionality.
 
 So we will look for postings that are current.
@@ -38,6 +40,8 @@ As so after this file is created.
 First we will search for duplicate posts and remove them.
 
 After that we will run a filter that searches for specific keywords.
+
+    filter.py
 
 After the file is put through these methods, there will be a file that has leads that are specific and relevent as well as being very current.
 
