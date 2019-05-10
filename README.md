@@ -1,58 +1,32 @@
 # Craglist Scrapper
 
-This is my scrapper.
+The scrapper currently does the following.
 
-Basically it will do the following.
+All the URLS are from Craiglist with only today listing selected.
 
-From the cl_url.txt turn the urls into a json object.
+So first if there are no listing then it will go to next URL.
 
-For example
+If there is listing then it looks to see if it is a nearby type.
 
-alburn = {
-    "type1":"https://auburn.craigslist.org/d/art-media-design/search/med",
-    "type2":"https://auburn.craigslist.org/d/web-html-info-design/search/web",
-    "type3":"https://auburn.craigslist.org/d/computer-gigs/search/cpg",
-    "type4":"https://auburn.craigslist.org/d/creative-gigs/search/crg"
-}
+Nearby types are going to be a duplicate eventually so we remove it.
 
-Basically something like this for every city in America.
+If it is not a nearby then we will print out the post.
 
-    all.text
+# Current issue
 
-Now we will use BeautifulSoup4, which is a Python dependency that allows for easy web scraping functionality.
+Currrently I have run into a problem where Craiglist after maybe 300 URLS it does a temporary block to my IP address maybe even related to MAC Address. 
 
-So we will look for postings that are current.
+The temporary block is because of things such as not having a user agent.
 
-For example today is 5/6 or May 6th.
+So to solve this problem I will need to use a headless brower.
 
-So the scrapper will look at the first type object.
+There will also need to be additional things added to the script to make it seem more like a human user.
 
-    "type1":"https://auburn.craigslist org/d/art-media-design/search/med",
+For example things such as images not being downloaded, page resources not downloaded in normal order, Pages being downloade faster than a human can read them, cookies not being set properly. Also things like mouse movements not human like.
 
-In the html page, the posts are ordered by date.
+To start just having the headless browser to trick Craiglist into thinking it is a browser will be nessessary.
 
-So all the posts that have the date: May 6th will be scrapped into a csv formatted file. 
+We can also try to fake a user agent for example here is a header field.
 
-As you can image there will be quite a lot of posts that are posted on Craiglist for every city in America.
-
-As so after this file is created.
-
-First we will search for duplicate posts and remove them.
-
-After that we will run a filter that searches for specific keywords.
-
-    filter.py
-
-After the file is put through these methods, there will be a file that has leads that are specific and relevent as well as being very current.
-
-From there you can start pulling out emails to start the email campaign.
-
-The important thing to remember is to treat each posting like a potential client. 
-
-So we will add them to the CRM, and starting with follow ups, etc.
-
-I think running this script 24/7 is the most efficent way to get these leads but it could use alot of bandwidth. 
-
-So to start out with might just be a better idea to just run this scrapper early morning and late afternoon/evening. 
-
-Also important to note to use a VPN.
+headers = { 'User-Agent': 'Mozilla/5.0 (Windows NT 6.0; WOW64; rv:24.0) Gecko/20100101 Firefox/24.0' }
+r = requests.get(url, headers=headers)
