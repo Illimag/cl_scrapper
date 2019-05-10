@@ -8,13 +8,12 @@ content = soup(r.content, "html.parser")
 
 linksArray = []
 pathArray = [
-    "d/computer-gigs/search/cpg",
-    "d/creative-gigs/search/crg",
-    "d/art-media-design/search/med",
-    "d/internet-engineering/search/eng",
-    "d/software-qa-dba-etc/search/sof",
-    "d/systems-networking/search/sad",
-    "d/web-html-info-design/search/web"
+    "search/cpg?is_paid=all&postedToday=1", # Gigs Computer gigs
+    "search/crg?is_paid=all&postedToday=1", # Gigs Creative gigs
+    "search/web?postedToday=1", # jobs Web Design
+    "search/med?postedToday=1", # jobs Media
+    "search/sof?postedToday=1", # jobs Software
+    "search/sad?postedToday=1" # jobs System/Networking
 ]
 
 print "\n"      # Two blank lines

@@ -1,0 +1,1263 @@
+
+
+test
+https://auburn.craigslist.org/search/cpg?is_paid=all&postedToday=1
+test
+https://auburn.craigslist.org/search/crg?is_paid=all&postedToday=1
+test
+https://auburn.craigslist.org/search/web?postedToday=1
+test
+https://auburn.craigslist.org/search/med?postedToday=1
+test
+https://auburn.craigslist.org/search/sof?postedToday=1
+test
+https://auburn.craigslist.org/search/sad?postedToday=1
+notest
+https://auburn.craigslist.org/search/sad?postedToday=1
+notest1
+https://auburn.craigslist.org/search/sad?postedToday=1
+<li class="result-row" data-pid="6883749393">
+<a class="result-image gallery empty" href="https://bham.craigslist.org/cpg/d/birmingham-us-home-business-earn-daily/6883749393.html"></a>
+<p class="result-info">
+<span class="icon icon-star" role="button">
+<span class="screen-reader-text">favorite this post</span>
+</span>
+<time class="result-date" datetime="2019-05-07 16:06" title="Tue 07 May 04:06:07 PM">May  7</time>
+<a class="result-title hdrlnk" data-id="6883749393" href="https://bham.craigslist.org/cpg/d/birmingham-us-home-business-earn-daily/6883749393.html">2018 #1 U.S. Home Business Earn $100-$500 Daily</a>
+<span class="result-meta">
+<span class="result-hood"> (Birmingham Al)</span>
+<span class="result-tags">
+                    img
+                    <span class="maptag" data-pid="6883749393">map</span>
+</span>
+<span class="banish icon icon-trash" role="button">
+<span class="screen-reader-text">hide this posting</span>
+</span>
+<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
+<a class="restore-link" href="#">
+<span class="restore-narrow-text">restore</span>
+<span class="restore-wide-text">restore this posting</span>
+</a>
+</span>
+</p>
+</li>
+test
+https://bham.craigslist.org/search/crg?is_paid=all&postedToday=1
+test
+https://bham.craigslist.org/search/web?postedToday=1
+test
+https://bham.craigslist.org/search/med?postedToday=1
+test
+https://bham.craigslist.org/search/sof?postedToday=1
+test
+https://bham.craigslist.org/search/sad?postedToday=1
+test
+https://dothan.craigslist.org/search/cpg?is_paid=all&postedToday=1
+test
+https://dothan.craigslist.org/search/crg?is_paid=all&postedToday=1
+test
+https://dothan.craigslist.org/search/web?postedToday=1
+test
+https://dothan.craigslist.org/search/med?postedToday=1
+test
+https://dothan.craigslist.org/search/sof?postedToday=1
+test
+https://dothan.craigslist.org/search/sad?postedToday=1
+test
+https://shoals.craigslist.org/search/cpg?is_paid=all&postedToday=1
+test
+https://shoals.craigslist.org/search/crg?is_paid=all&postedToday=1
+test
+https://shoals.craigslist.org/search/web?postedToday=1
+test
+https://shoals.craigslist.org/search/med?postedToday=1
+test
+https://shoals.craigslist.org/search/sof?postedToday=1
+test
+https://shoals.craigslist.org/search/sad?postedToday=1
+test
+https://gadsden.craigslist.org/search/cpg?is_paid=all&postedToday=1
+test
+https://gadsden.craigslist.org/search/crg?is_paid=all&postedToday=1
+test
+https://gadsden.craigslist.org/search/web?postedToday=1
+test
+https://gadsden.craigslist.org/search/med?postedToday=1
+test
+https://gadsden.craigslist.org/search/sof?postedToday=1
+test
+https://gadsden.craigslist.org/search/sad?postedToday=1
+test
+https://huntsville.craigslist.org/search/cpg?is_paid=all&postedToday=1
+notest
+https://huntsville.craigslist.org/search/cpg?is_paid=all&postedToday=1
+notest1
+https://huntsville.craigslist.org/search/cpg?is_paid=all&postedToday=1
+<li class="result-row" data-pid="6883583991">
+<a class="result-image gallery empty" href="https://huntsville.craigslist.org/crg/d/huntsville-iluustrate-childrens-book/6883583991.html"></a>
+<p class="result-info">
+<span class="icon icon-star" role="button">
+<span class="screen-reader-text">favorite this post</span>
+</span>
+<time class="result-date" datetime="2019-05-07 13:06" title="Tue 07 May 01:06:30 PM">May  7</time>
+<a class="result-title hdrlnk" data-id="6883583991" href="https://huntsville.craigslist.org/crg/d/huntsville-iluustrate-childrens-book/6883583991.html">Iluustrate a children's book for my son</a>
+<span class="result-meta">
+<span class="result-hood"> (Anywhere)</span>
+<span class="result-tags">
+<span class="maptag" data-pid="6883583991">map</span>
+</span>
+<span class="banish icon icon-trash" role="button">
+<span class="screen-reader-text">hide this posting</span>
+</span>
+<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
+<a class="restore-link" href="#">
+<span class="restore-narrow-text">restore</span>
+<span class="restore-wide-text">restore this posting</span>
+</a>
+</span>
+</p>
+</li>
+test1
+https://huntsville.craigslist.org/search/cpg?is_paid=all&postedToday=1
+<li class="result-row" data-pid="6883674319">
+<a class="result-image gallery empty" href="https://nashville.craigslist.org/crg/d/franklin-data-entry/6883674319.html"></a>
+<p class="result-info">
+<span class="icon icon-star" role="button">
+<span class="screen-reader-text">favorite this post</span>
+</span>
+<time class="result-date" datetime="2019-05-07 14:40" title="Tue 07 May 02:40:50 PM">May  7</time>
+<a class="result-title hdrlnk" data-id="6883674319" href="https://nashville.craigslist.org/crg/d/franklin-data-entry/6883674319.html">Data Entry I</a>
+<span class="result-meta">
+<span class="nearby" title="nashville, TN">(nsh &gt; Franklin, Tennessee)</span>
+<span class="result-tags">
+<span class="maptag" data-pid="6883674319">map</span>
+</span>
+<span class="banish icon icon-trash" role="button">
+<span class="screen-reader-text">hide this posting</span>
+</span>
+<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
+<a class="restore-link" href="#">
+<span class="restore-narrow-text">restore</span>
+<span class="restore-wide-text">restore this posting</span>
+</a>
+</span>
+</p>
+</li>
+test
+https://huntsville.craigslist.org/search/web?postedToday=1
+test
+https://huntsville.craigslist.org/search/med?postedToday=1
+test
+https://huntsville.craigslist.org/search/sof?postedToday=1
+test
+https://huntsville.craigslist.org/search/sad?postedToday=1
+test
+https://mobile.craigslist.org/search/cpg?is_paid=all&postedToday=1
+test
+https://mobile.craigslist.org/search/crg?is_paid=all&postedToday=1
+test
+https://mobile.craigslist.org/search/web?postedToday=1
+test
+https://mobile.craigslist.org/search/med?postedToday=1
+test
+https://mobile.craigslist.org/search/sof?postedToday=1
+test
+https://mobile.craigslist.org/search/sad?postedToday=1
+test
+https://montgomery.craigslist.org/search/cpg?is_paid=all&postedToday=1
+test
+https://montgomery.craigslist.org/search/crg?is_paid=all&postedToday=1
+test
+https://montgomery.craigslist.org/search/web?postedToday=1
+test
+https://montgomery.craigslist.org/search/med?postedToday=1
+test
+https://montgomery.craigslist.org/search/sof?postedToday=1
+test
+https://montgomery.craigslist.org/search/sad?postedToday=1
+test
+https://tuscaloosa.craigslist.org/search/cpg?is_paid=all&postedToday=1
+test
+https://tuscaloosa.craigslist.org/search/crg?is_paid=all&postedToday=1
+test
+https://tuscaloosa.craigslist.org/search/web?postedToday=1
+test
+https://tuscaloosa.craigslist.org/search/med?postedToday=1
+test
+https://tuscaloosa.craigslist.org/search/sof?postedToday=1
+test
+https://tuscaloosa.craigslist.org/search/sad?postedToday=1
+test
+https://anchorage.craigslist.org/search/cpg?is_paid=all&postedToday=1
+test
+https://anchorage.craigslist.org/search/crg?is_paid=all&postedToday=1
+test
+https://anchorage.craigslist.org/search/web?postedToday=1
+test
+https://anchorage.craigslist.org/search/med?postedToday=1
+test
+https://anchorage.craigslist.org/search/sof?postedToday=1
+test
+https://anchorage.craigslist.org/search/sad?postedToday=1
+test
+https://fairbanks.craigslist.org/search/cpg?is_paid=all&postedToday=1
+test
+https://fairbanks.craigslist.org/search/crg?is_paid=all&postedToday=1
+test
+https://fairbanks.craigslist.org/search/web?postedToday=1
+test
+https://fairbanks.craigslist.org/search/med?postedToday=1
+test
+https://fairbanks.craigslist.org/search/sof?postedToday=1
+test
+https://fairbanks.craigslist.org/search/sad?postedToday=1
+test
+https://kenai.craigslist.org/search/cpg?is_paid=all&postedToday=1
+test
+https://kenai.craigslist.org/search/crg?is_paid=all&postedToday=1
+test
+https://kenai.craigslist.org/search/web?postedToday=1
+test
+https://kenai.craigslist.org/search/med?postedToday=1
+test
+https://kenai.craigslist.org/search/sof?postedToday=1
+test
+https://kenai.craigslist.org/search/sad?postedToday=1
+test
+https://juneau.craigslist.org/search/cpg?is_paid=all&postedToday=1
+test
+https://juneau.craigslist.org/search/crg?is_paid=all&postedToday=1
+test
+https://juneau.craigslist.org/search/web?postedToday=1
+test
+https://juneau.craigslist.org/search/med?postedToday=1
+test
+https://juneau.craigslist.org/search/sof?postedToday=1
+test
+https://juneau.craigslist.org/search/sad?postedToday=1
+test
+https://flagstaff.craigslist.org/search/cpg?is_paid=all&postedToday=1
+test
+https://flagstaff.craigslist.org/search/crg?is_paid=all&postedToday=1
+test
+https://flagstaff.craigslist.org/search/web?postedToday=1
+test
+https://flagstaff.craigslist.org/search/med?postedToday=1
+test
+https://flagstaff.craigslist.org/search/sof?postedToday=1
+test
+https://flagstaff.craigslist.org/search/sad?postedToday=1
+test
+https://mohave.craigslist.org/search/cpg?is_paid=all&postedToday=1
+test
+https://mohave.craigslist.org/search/crg?is_paid=all&postedToday=1
+test
+https://mohave.craigslist.org/search/web?postedToday=1
+test
+https://mohave.craigslist.org/search/med?postedToday=1
+test
+https://mohave.craigslist.org/search/sof?postedToday=1
+test
+https://mohave.craigslist.org/search/sad?postedToday=1
+notest
+https://mohave.craigslist.org/search/sad?postedToday=1
+notest1
+https://mohave.craigslist.org/search/sad?postedToday=1
+<li class="result-row" data-pid="6883829054">
+<a class="result-image gallery empty" href="https://phoenix.craigslist.org/wvl/cpg/d/phoenix-social-media-strategist/6883829054.html"></a>
+<p class="result-info">
+<span class="icon icon-star" role="button">
+<span class="screen-reader-text">favorite this post</span>
+</span>
+<time class="result-date" datetime="2019-05-07 15:48" title="Tue 07 May 03:48:07 PM">May  7</time>
+<a class="result-title hdrlnk" data-id="6883829054" href="https://phoenix.craigslist.org/wvl/cpg/d/phoenix-social-media-strategist/6883829054.html">SOCIAL MEDIA STRATEGIST</a>
+<span class="result-meta">
+<span class="result-tags">
+<span class="maptag" data-pid="6883829054">map</span>
+</span>
+<span class="banish icon icon-trash" role="button">
+<span class="screen-reader-text">hide this posting</span>
+</span>
+<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
+<a class="restore-link" href="#">
+<span class="restore-narrow-text">restore</span>
+<span class="restore-wide-text">restore this posting</span>
+</a>
+</span>
+</p>
+</li>
+
+
+
+
+favorite this post
+
+May  7
+SOCIAL MEDIA STRATEGIST
+
+
+map
+
+
+hide this posting
+
+
+
+restore
+restore this posting
+
+
+
+
+None
+
+
+notest1
+https://mohave.craigslist.org/search/sad?postedToday=1
+<li class="result-row" data-pid="6883166852">
+<a class="result-image gallery" data-ids="1:01515_cxRkxNhu0B" href="https://phoenix.craigslist.org/evl/cpg/d/paradise-valley-phoenix-new-partners/6883166852.html">
+</a>
+<p class="result-info">
+<span class="icon icon-star" role="button">
+<span class="screen-reader-text">favorite this post</span>
+</span>
+<time class="result-date" datetime="2019-05-06 19:50" title="Mon 06 May 07:50:46 PM">May  6</time>
+<a class="result-title hdrlnk" data-id="6883166852" href="https://phoenix.craigslist.org/evl/cpg/d/paradise-valley-phoenix-new-partners/6883166852.html">PHOENIX - New Partners Pull in $1,800 Within 2-Days... ( PART-TIME WORK FROM HOM</a>
+<span class="result-meta">
+<span class="result-hood"> (Work From Home Part Time Work)</span>
+<span class="result-tags">
+                    pic
+                    <span class="maptag" data-pid="6883166852">map</span>
+</span>
+<span class="banish icon icon-trash" role="button">
+<span class="screen-reader-text">hide this posting</span>
+</span>
+<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
+<a class="restore-link" href="#">
+<span class="restore-narrow-text">restore</span>
+<span class="restore-wide-text">restore this posting</span>
+</a>
+</span>
+</p>
+</li>
+test1
+https://mohave.craigslist.org/search/sad?postedToday=1
+<li class="result-row" data-pid="6883461050">
+<a class="result-image gallery" data-ids="1:01717_iBd6QnvxBck,1:00505_7Jp2ejherT3,1:00s0s_8VQUXIXsNyA" href="https://showlow.craigslist.org/cpg/d/altonah-new-opportunity-with-expanding/6883461050.html">
+</a>
+<p class="result-info">
+<span class="icon icon-star" role="button">
+<span class="screen-reader-text">favorite this post</span>
+</span>
+<time class="result-date" datetime="2019-05-07 09:06" title="Tue 07 May 09:06:38 AM">May  7</time>
+<a class="result-title hdrlnk" data-id="6883461050" href="https://showlow.craigslist.org/cpg/d/altonah-new-opportunity-with-expanding/6883461050.html">✅ New Opportunity with Expanding CBD Company</a>
+<span class="result-meta">
+<span class="nearby" title="show low, AZ">(sow)</span>
+<span class="result-tags">
+                    pic
+                    <span class="maptag" data-pid="6883461050">map</span>
+</span>
+<span class="banish icon icon-trash" role="button">
+<span class="screen-reader-text">hide this posting</span>
+</span>
+<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
+<a class="restore-link" href="#">
+<span class="restore-narrow-text">restore</span>
+<span class="restore-wide-text">restore this posting</span>
+</a>
+</span>
+</p>
+</li>
+notest
+https://mohave.craigslist.org/search/sad?postedToday=1
+notest1
+https://mohave.craigslist.org/search/sad?postedToday=1
+<li class="result-row" data-pid="6883776667">
+<a class="result-image gallery" data-ids="1:00e0e_bIyRFhf5G8Z" href="https://phoenix.craigslist.org/nph/crg/d/chandler-come-tell-us-about-your-family/6883776667.html">
+</a>
+<p class="result-info">
+<span class="icon icon-star" role="button">
+<span class="screen-reader-text">favorite this post</span>
+</span>
+<time class="result-date" datetime="2019-05-07 14:39" title="Tue 07 May 02:39:19 PM">May  7</time>
+<a class="result-title hdrlnk" data-id="6883776667" href="https://phoenix.craigslist.org/nph/crg/d/chandler-come-tell-us-about-your-family/6883776667.html">Come tell us about your family preferences!</a>
+<span class="result-meta">
+<span class="result-tags">
+                    pic
+                    <span class="maptag" data-pid="6883776667">map</span>
+</span>
+<span class="banish icon icon-trash" role="button">
+<span class="screen-reader-text">hide this posting</span>
+</span>
+<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
+<a class="restore-link" href="#">
+<span class="restore-narrow-text">restore</span>
+<span class="restore-wide-text">restore this posting</span>
+</a>
+</span>
+</p>
+</li>
+notest1
+https://mohave.craigslist.org/search/sad?postedToday=1
+<li class="result-row" data-pid="6883577572">
+<a class="result-image gallery empty" href="https://phoenix.craigslist.org/cph/crg/d/phoenix-graphic-designer-freelancer-on/6883577572.html"></a>
+<p class="result-info">
+<span class="icon icon-star" role="button">
+<span class="screen-reader-text">favorite this post</span>
+</span>
+<time class="result-date" datetime="2019-05-07 11:00" title="Tue 07 May 11:00:15 AM">May  7</time>
+<a class="result-title hdrlnk" data-id="6883577572" href="https://phoenix.craigslist.org/cph/crg/d/phoenix-graphic-designer-freelancer-on/6883577572.html">Graphic Designer Freelancer on-site</a>
+<span class="result-meta">
+<span class="result-hood"> (Downtown Phoenix)</span>
+<span class="result-tags">
+<span class="maptag" data-pid="6883577572">map</span>
+</span>
+<span class="banish icon icon-trash" role="button">
+<span class="screen-reader-text">hide this posting</span>
+</span>
+<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
+<a class="restore-link" href="#">
+<span class="restore-narrow-text">restore</span>
+<span class="restore-wide-text">restore this posting</span>
+</a>
+</span>
+</p>
+</li>
+
+
+
+
+favorite this post
+
+May  7
+Graphic Designer Freelancer on-site
+
+ (Downtown Phoenix)
+
+map
+
+
+hide this posting
+
+
+
+restore
+restore this posting
+
+
+
+
+None
+
+
+notest1
+https://mohave.craigslist.org/search/sad?postedToday=1
+<li class="result-row" data-pid="6883556184">
+<a class="result-image gallery" data-ids="1:00Z0Z_eIcefeNdW1e" href="https://phoenix.craigslist.org/evl/crg/d/mesa-art-contest-three-prizes-mural-art/6883556184.html">
+</a>
+<p class="result-info">
+<span class="icon icon-star" role="button">
+<span class="screen-reader-text">favorite this post</span>
+</span>
+<time class="result-date" datetime="2019-05-07 10:38" title="Tue 07 May 10:38:49 AM">May  7</time>
+<a class="result-title hdrlnk" data-id="6883556184" href="https://phoenix.craigslist.org/evl/crg/d/mesa-art-contest-three-prizes-mural-art/6883556184.html">💲💲ART CONTEST - THREE (3) $250 PRIZES - MURAL ART💲💲</a>
+<span class="result-meta">
+<span class="result-hood"> (MESA)</span>
+<span class="result-tags">
+                    pic
+                    <span class="maptag" data-pid="6883556184">map</span>
+</span>
+<span class="banish icon icon-trash" role="button">
+<span class="screen-reader-text">hide this posting</span>
+</span>
+<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
+<a class="restore-link" href="#">
+<span class="restore-narrow-text">restore</span>
+<span class="restore-wide-text">restore this posting</span>
+</a>
+</span>
+</p>
+</li>
+notest1
+https://mohave.craigslist.org/search/sad?postedToday=1
+<li class="result-row" data-pid="6883283321">
+<a class="result-image gallery empty" href="https://phoenix.craigslist.org/evl/crg/d/phoenix-landscaping-trimming-grass/6883283321.html"></a>
+<p class="result-info">
+<span class="icon icon-star" role="button">
+<span class="screen-reader-text">favorite this post</span>
+</span>
+<time class="result-date" datetime="2019-05-07 05:25" title="Tue 07 May 05:25:26 AM">May  7</time>
+<a class="result-title hdrlnk" data-id="6883283321" href="https://phoenix.craigslist.org/evl/crg/d/phoenix-landscaping-trimming-grass/6883283321.html">Landscaping, trimming grass cutting pool vacuuming</a>
+<span class="result-meta">
+<span class="result-hood"> (Ahwatukee)</span>
+<span class="result-tags">
+<span class="maptag" data-pid="6883283321">map</span>
+</span>
+<span class="banish icon icon-trash" role="button">
+<span class="screen-reader-text">hide this posting</span>
+</span>
+<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
+<a class="restore-link" href="#">
+<span class="restore-narrow-text">restore</span>
+<span class="restore-wide-text">restore this posting</span>
+</a>
+</span>
+</p>
+</li>
+test1
+https://mohave.craigslist.org/search/sad?postedToday=1
+<li class="result-row" data-pid="6883139622">
+<a class="result-image gallery" data-ids="1:00W0W_9oTXy80wCdr,1:00000_cdSXgnoo48c,1:00z0z_bqk9wUGBmvv,1:00z0z_esoRHjBryUE,1:00N0N_22bwF0Qe2lu,1:00J0J_jHu1HilMuOH,1:00808_4txb67T4fcC,1:00q0q_5i4OYXqVLi9,1:00909_jteggcWCWeC,1:00v0v_kEP7MV4mkRu" href="https://yuma.craigslist.org/crg/d/yuma-salesperson-wanted/6883139622.html">
+</a>
+<p class="result-info">
+<span class="icon icon-star" role="button">
+<span class="screen-reader-text">favorite this post</span>
+</span>
+<time class="result-date" datetime="2019-05-06 18:52" title="Mon 06 May 06:52:18 PM">May  6</time>
+<a class="result-title hdrlnk" data-id="6883139622" href="https://yuma.craigslist.org/crg/d/yuma-salesperson-wanted/6883139622.html">Salesperson wanted</a>
+<span class="result-meta">
+<span class="nearby" title="yuma, AZ">(yum &gt; Yuma az)</span>
+<span class="result-tags">
+                    pic
+                    <span class="maptag" data-pid="6883139622">map</span>
+</span>
+<span class="banish icon icon-trash" role="button">
+<span class="screen-reader-text">hide this posting</span>
+</span>
+<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
+<a class="restore-link" href="#">
+<span class="restore-narrow-text">restore</span>
+<span class="restore-wide-text">restore this posting</span>
+</a>
+</span>
+</p>
+</li>
+notest
+https://mohave.craigslist.org/search/sad?postedToday=1
+notest1
+https://mohave.craigslist.org/search/sad?postedToday=1
+<li class="result-row" data-pid="6883574864">
+<a class="result-image gallery empty" href="https://phoenix.craigslist.org/nph/web/d/phoenix-social-media-art-manager/6883574864.html"></a>
+<p class="result-info">
+<span class="icon icon-star" role="button">
+<span class="screen-reader-text">favorite this post</span>
+</span>
+<time class="result-date" datetime="2019-05-07 10:57" title="Tue 07 May 10:57:30 AM">May  7</time>
+<a class="result-title hdrlnk" data-id="6883574864" href="https://phoenix.craigslist.org/nph/web/d/phoenix-social-media-art-manager/6883574864.html">Social Media/Art Manager</a>
+<span class="result-meta">
+<span class="result-tags">
+<span class="maptag" data-pid="6883574864">map</span>
+</span>
+<span class="banish icon icon-trash" role="button">
+<span class="screen-reader-text">hide this posting</span>
+</span>
+<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
+<a class="restore-link" href="#">
+<span class="restore-narrow-text">restore</span>
+<span class="restore-wide-text">restore this posting</span>
+</a>
+</span>
+</p>
+</li>
+notest
+https://mohave.craigslist.org/search/sad?postedToday=1
+notest1
+https://mohave.craigslist.org/search/sad?postedToday=1
+<li class="result-row" data-pid="6883199246">
+<a class="result-image gallery" data-ids="1:00505_1CK2IeKgF2F,1:00000_ct08XYfVDBx,1:00g0g_1lIpclRu4mJ,1:00T0T_cTIGonSBdv3" href="https://phoenix.craigslist.org/nph/med/d/phoenix-film-editing-and-help-with-new/6883199246.html">
+</a>
+<p class="result-info">
+<span class="icon icon-star" role="button">
+<span class="screen-reader-text">favorite this post</span>
+</span>
+<time class="result-date" datetime="2019-05-06 21:20" title="Mon 06 May 09:20:52 PM">May  6</time>
+<a class="result-title hdrlnk" data-id="6883199246" href="https://phoenix.craigslist.org/nph/med/d/phoenix-film-editing-and-help-with-new/6883199246.html">Film editing and help with new YouTube account</a>
+<span class="result-meta">
+<span class="result-hood"> (Phoenix)</span>
+<span class="result-tags">
+                    pic
+                    <span class="maptag" data-pid="6883199246">map</span>
+</span>
+<span class="banish icon icon-trash" role="button">
+<span class="screen-reader-text">hide this posting</span>
+</span>
+<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
+<a class="restore-link" href="#">
+<span class="restore-narrow-text">restore</span>
+<span class="restore-wide-text">restore this posting</span>
+</a>
+</span>
+</p>
+</li>
+
+
+
+
+
+favorite this post
+
+May  6
+Film editing and help with new YouTube account
+
+ (Phoenix)
+
+                    pic
+                    map
+
+
+hide this posting
+
+
+
+restore
+restore this posting
+
+
+
+
+None
+
+
+notest
+https://mohave.craigslist.org/search/sad?postedToday=1
+notest1
+https://mohave.craigslist.org/search/sad?postedToday=1
+<li class="result-row" data-pid="6883384432">
+<a class="result-image gallery" data-ids="1:00M0M_ccdXgkW5O1i" href="https://phoenix.craigslist.org/nph/sof/d/scottsdale-computer-hardware-bench-test/6883384432.html">
+</a>
+<p class="result-info">
+<span class="icon icon-star" role="button">
+<span class="screen-reader-text">favorite this post</span>
+</span>
+<time class="result-date" datetime="2019-05-07 07:47" title="Tue 07 May 07:47:43 AM">May  7</time>
+<a class="result-title hdrlnk" data-id="6883384432" href="https://phoenix.craigslist.org/nph/sof/d/scottsdale-computer-hardware-bench-test/6883384432.html">Computer Hardware Bench Test/General Assistant</a>
+<span class="result-meta">
+<span class="result-hood"> (Scottsdale)</span>
+<span class="result-tags">
+                    pic
+                    <span class="maptag" data-pid="6883384432">map</span>
+</span>
+<span class="banish icon icon-trash" role="button">
+<span class="screen-reader-text">hide this posting</span>
+</span>
+<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
+<a class="restore-link" href="#">
+<span class="restore-narrow-text">restore</span>
+<span class="restore-wide-text">restore this posting</span>
+</a>
+</span>
+</p>
+</li>
+
+
+
+
+
+favorite this post
+
+May  7
+Computer Hardware Bench Test/General Assistant
+
+ (Scottsdale)
+
+                    pic
+                    map
+
+
+hide this posting
+
+
+
+restore
+restore this posting
+
+
+
+
+None
+
+
+test1
+https://mohave.craigslist.org/search/sad?postedToday=1
+<li class="result-row" data-pid="6883676238">
+<a class="result-image gallery" data-ids="1:00a0a_iCMua0nyukJ,1:00N0N_inCk92EqP0h,1:00Z0Z_dbHSD9fcQd3,1:00g0g_joAuunaMHk8" href="https://prescott.craigslist.org/sof/d/prescott-cnc-programmer/6883676238.html">
+</a>
+<p class="result-info">
+<span class="icon icon-star" role="button">
+<span class="screen-reader-text">favorite this post</span>
+</span>
+<time class="result-date" datetime="2019-05-07 12:43" title="Tue 07 May 12:43:00 PM">May  7</time>
+<a class="result-title hdrlnk" data-id="6883676238" href="https://prescott.craigslist.org/sof/d/prescott-cnc-programmer/6883676238.html">CNC Programmer</a>
+<span class="result-meta">
+<span class="nearby" title="prescott, AZ">(prc)</span>
+<span class="result-tags">
+                    pic
+                    <span class="maptag" data-pid="6883676238">map</span>
+</span>
+<span class="banish icon icon-trash" role="button">
+<span class="screen-reader-text">hide this posting</span>
+</span>
+<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
+<a class="restore-link" href="#">
+<span class="restore-narrow-text">restore</span>
+<span class="restore-wide-text">restore this posting</span>
+</a>
+</span>
+</p>
+</li>
+notest
+https://mohave.craigslist.org/search/sad?postedToday=1
+notest1
+https://mohave.craigslist.org/search/sad?postedToday=1
+<li class="result-row" data-pid="6883559802">
+<a class="result-image gallery empty" href="https://phoenix.craigslist.org/evl/sad/d/chandler-low-voltage-technician/6883559802.html"></a>
+<p class="result-info">
+<span class="icon icon-star" role="button">
+<span class="screen-reader-text">favorite this post</span>
+</span>
+<time class="result-date" datetime="2019-05-07 10:42" title="Tue 07 May 10:42:19 AM">May  7</time>
+<a class="result-title hdrlnk" data-id="6883559802" href="https://phoenix.craigslist.org/evl/sad/d/chandler-low-voltage-technician/6883559802.html">Low Voltage Technician</a>
+<span class="result-meta">
+<span class="result-hood"> (Mesa)</span>
+<span class="result-tags">
+<span class="maptag" data-pid="6883559802">map</span>
+</span>
+<span class="banish icon icon-trash" role="button">
+<span class="screen-reader-text">hide this posting</span>
+</span>
+<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
+<a class="restore-link" href="#">
+<span class="restore-narrow-text">restore</span>
+<span class="restore-wide-text">restore this posting</span>
+</a>
+</span>
+</p>
+</li>
+test1
+https://mohave.craigslist.org/search/sad?postedToday=1
+<li class="result-row" data-pid="6883149699">
+<a class="result-image gallery empty" href="https://tucson.craigslist.org/sad/d/tucson-looking-for-experienced-it/6883149699.html"></a>
+<p class="result-info">
+<span class="icon icon-star" role="button">
+<span class="screen-reader-text">favorite this post</span>
+</span>
+<time class="result-date" datetime="2019-05-06 19:12" title="Mon 06 May 07:12:57 PM">May  6</time>
+<a class="result-title hdrlnk" data-id="6883149699" href="https://tucson.craigslist.org/sad/d/tucson-looking-for-experienced-it/6883149699.html">Looking for Experienced IT Technicians</a>
+<span class="result-meta">
+<span class="nearby" title="tucson, AZ">(tus &gt; Tucson, AZ)</span>
+<span class="result-tags">
+<span class="maptag" data-pid="6883149699">map</span>
+</span>
+<span class="banish icon icon-trash" role="button">
+<span class="screen-reader-text">hide this posting</span>
+</span>
+<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
+<a class="restore-link" href="#">
+<span class="restore-narrow-text">restore</span>
+<span class="restore-wide-text">restore this posting</span>
+</a>
+</span>
+</p>
+</li>
+test
+https://prescott.craigslist.org/search/cpg?is_paid=all&postedToday=1
+test
+https://prescott.craigslist.org/search/crg?is_paid=all&postedToday=1
+test
+https://prescott.craigslist.org/search/web?postedToday=1
+test
+https://prescott.craigslist.org/search/med?postedToday=1
+notest
+https://prescott.craigslist.org/search/med?postedToday=1
+notest1
+https://prescott.craigslist.org/search/med?postedToday=1
+<li class="result-row" data-pid="6883676238">
+<a class="result-image gallery" data-ids="1:00a0a_iCMua0nyukJ,1:00N0N_inCk92EqP0h,1:00Z0Z_dbHSD9fcQd3,1:00g0g_joAuunaMHk8" href="https://prescott.craigslist.org/sof/d/prescott-cnc-programmer/6883676238.html">
+</a>
+<p class="result-info">
+<span class="icon icon-star" role="button">
+<span class="screen-reader-text">favorite this post</span>
+</span>
+<time class="result-date" datetime="2019-05-07 12:43" title="Tue 07 May 12:43:00 PM">May  7</time>
+<a class="result-title hdrlnk" data-id="6883676238" href="https://prescott.craigslist.org/sof/d/prescott-cnc-programmer/6883676238.html">CNC Programmer</a>
+<span class="result-meta">
+<span class="result-tags">
+                    pic
+                    <span class="maptag" data-pid="6883676238">map</span>
+</span>
+<span class="banish icon icon-trash" role="button">
+<span class="screen-reader-text">hide this posting</span>
+</span>
+<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
+<a class="restore-link" href="#">
+<span class="restore-narrow-text">restore</span>
+<span class="restore-wide-text">restore this posting</span>
+</a>
+</span>
+</p>
+</li>
+test1
+https://prescott.craigslist.org/search/med?postedToday=1
+<li class="result-row" data-pid="6883384432">
+<a class="result-image gallery" data-ids="1:00M0M_ccdXgkW5O1i" href="https://phoenix.craigslist.org/nph/sof/d/scottsdale-computer-hardware-bench-test/6883384432.html">
+</a>
+<p class="result-info">
+<span class="icon icon-star" role="button">
+<span class="screen-reader-text">favorite this post</span>
+</span>
+<time class="result-date" datetime="2019-05-07 07:47" title="Tue 07 May 07:47:43 AM">May  7</time>
+<a class="result-title hdrlnk" data-id="6883384432" href="https://phoenix.craigslist.org/nph/sof/d/scottsdale-computer-hardware-bench-test/6883384432.html">Computer Hardware Bench Test/General Assistant</a>
+<span class="result-meta">
+<span class="nearby" title="phoenix, AZ">(phx &gt; Scottsdale)</span>
+<span class="result-tags">
+                    pic
+                    <span class="maptag" data-pid="6883384432">map</span>
+</span>
+<span class="banish icon icon-trash" role="button">
+<span class="screen-reader-text">hide this posting</span>
+</span>
+<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
+<a class="restore-link" href="#">
+<span class="restore-narrow-text">restore</span>
+<span class="restore-wide-text">restore this posting</span>
+</a>
+</span>
+</p>
+</li>
+test
+https://prescott.craigslist.org/search/sad?postedToday=1
+notest
+https://prescott.craigslist.org/search/sad?postedToday=1
+notest1
+https://prescott.craigslist.org/search/sad?postedToday=1
+<li class="result-row" data-pid="6883461050">
+<a class="result-image gallery" data-ids="1:01717_iBd6QnvxBck,1:00505_7Jp2ejherT3,1:00s0s_8VQUXIXsNyA" href="https://showlow.craigslist.org/cpg/d/altonah-new-opportunity-with-expanding/6883461050.html">
+</a>
+<p class="result-info">
+<span class="icon icon-star" role="button">
+<span class="screen-reader-text">favorite this post</span>
+</span>
+<time class="result-date" datetime="2019-05-07 09:06" title="Tue 07 May 09:06:38 AM">May  7</time>
+<a class="result-title hdrlnk" data-id="6883461050" href="https://showlow.craigslist.org/cpg/d/altonah-new-opportunity-with-expanding/6883461050.html">✅ New Opportunity with Expanding CBD Company</a>
+<span class="result-meta">
+<span class="result-tags">
+                    pic
+                    <span class="maptag" data-pid="6883461050">map</span>
+</span>
+<span class="banish icon icon-trash" role="button">
+<span class="screen-reader-text">hide this posting</span>
+</span>
+<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
+<a class="restore-link" href="#">
+<span class="restore-narrow-text">restore</span>
+<span class="restore-wide-text">restore this posting</span>
+</a>
+</span>
+</p>
+</li>
+test1
+https://prescott.craigslist.org/search/sad?postedToday=1
+<li class="result-row" data-pid="6883829054">
+<a class="result-image gallery empty" href="https://phoenix.craigslist.org/wvl/cpg/d/phoenix-social-media-strategist/6883829054.html"></a>
+<p class="result-info">
+<span class="icon icon-star" role="button">
+<span class="screen-reader-text">favorite this post</span>
+</span>
+<time class="result-date" datetime="2019-05-07 15:48" title="Tue 07 May 03:48:07 PM">May  7</time>
+<a class="result-title hdrlnk" data-id="6883829054" href="https://phoenix.craigslist.org/wvl/cpg/d/phoenix-social-media-strategist/6883829054.html">SOCIAL MEDIA STRATEGIST</a>
+<span class="result-meta">
+<span class="nearby" title="phoenix, AZ">(phx)</span>
+<span class="result-tags">
+<span class="maptag" data-pid="6883829054">map</span>
+</span>
+<span class="banish icon icon-trash" role="button">
+<span class="screen-reader-text">hide this posting</span>
+</span>
+<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
+<a class="restore-link" href="#">
+<span class="restore-narrow-text">restore</span>
+<span class="restore-wide-text">restore this posting</span>
+</a>
+</span>
+</p>
+</li>
+test1
+https://prescott.craigslist.org/search/sad?postedToday=1
+<li class="result-row" data-pid="6883166852">
+<a class="result-image gallery" data-ids="1:01515_cxRkxNhu0B" href="https://phoenix.craigslist.org/evl/cpg/d/paradise-valley-phoenix-new-partners/6883166852.html">
+</a>
+<p class="result-info">
+<span class="icon icon-star" role="button">
+<span class="screen-reader-text">favorite this post</span>
+</span>
+<time class="result-date" datetime="2019-05-06 19:50" title="Mon 06 May 07:50:46 PM">May  6</time>
+<a class="result-title hdrlnk" data-id="6883166852" href="https://phoenix.craigslist.org/evl/cpg/d/paradise-valley-phoenix-new-partners/6883166852.html">PHOENIX - New Partners Pull in $1,800 Within 2-Days... ( PART-TIME WORK FROM HOM</a>
+<span class="result-meta">
+<span class="nearby" title="phoenix, AZ">(phx &gt; Work From Home Part Time Work)</span>
+<span class="result-tags">
+                    pic
+                    <span class="maptag" data-pid="6883166852">map</span>
+</span>
+<span class="banish icon icon-trash" role="button">
+<span class="screen-reader-text">hide this posting</span>
+</span>
+<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
+<a class="restore-link" href="#">
+<span class="restore-narrow-text">restore</span>
+<span class="restore-wide-text">restore this posting</span>
+</a>
+</span>
+</p>
+</li>
+test
+https://showlow.craigslist.org/search/crg?is_paid=all&postedToday=1
+test
+https://showlow.craigslist.org/search/web?postedToday=1
+test
+https://showlow.craigslist.org/search/med?postedToday=1
+test
+https://showlow.craigslist.org/search/sof?postedToday=1
+test
+https://showlow.craigslist.org/search/sad?postedToday=1
+test
+https://sierravista.craigslist.org/search/cpg?is_paid=all&postedToday=1
+test
+https://sierravista.craigslist.org/search/crg?is_paid=all&postedToday=1
+test
+https://sierravista.craigslist.org/search/web?postedToday=1
+test
+https://sierravista.craigslist.org/search/med?postedToday=1
+test
+https://sierravista.craigslist.org/search/sof?postedToday=1
+test
+https://sierravista.craigslist.org/search/sad?postedToday=1
+test
+https://tucson.craigslist.org/search/cpg?is_paid=all&postedToday=1
+test
+https://tucson.craigslist.org/search/crg?is_paid=all&postedToday=1
+test
+https://tucson.craigslist.org/search/web?postedToday=1
+test
+https://tucson.craigslist.org/search/med?postedToday=1
+test
+https://tucson.craigslist.org/search/sof?postedToday=1
+notest
+https://tucson.craigslist.org/search/sof?postedToday=1
+notest1
+https://tucson.craigslist.org/search/sof?postedToday=1
+<li class="result-row" data-pid="6883149699">
+<a class="result-image gallery empty" href="https://tucson.craigslist.org/sad/d/tucson-looking-for-experienced-it/6883149699.html"></a>
+<p class="result-info">
+<span class="icon icon-star" role="button">
+<span class="screen-reader-text">favorite this post</span>
+</span>
+<time class="result-date" datetime="2019-05-06 19:12" title="Mon 06 May 07:12:57 PM">May  6</time>
+<a class="result-title hdrlnk" data-id="6883149699" href="https://tucson.craigslist.org/sad/d/tucson-looking-for-experienced-it/6883149699.html">Looking for Experienced IT Technicians</a>
+<span class="result-meta">
+<span class="result-hood"> (Tucson, AZ)</span>
+<span class="result-tags">
+<span class="maptag" data-pid="6883149699">map</span>
+</span>
+<span class="banish icon icon-trash" role="button">
+<span class="screen-reader-text">hide this posting</span>
+</span>
+<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
+<a class="restore-link" href="#">
+<span class="restore-narrow-text">restore</span>
+<span class="restore-wide-text">restore this posting</span>
+</a>
+</span>
+</p>
+</li>
+test1
+https://tucson.craigslist.org/search/sof?postedToday=1
+<li class="result-row" data-pid="6883559802">
+<a class="result-image gallery empty" href="https://phoenix.craigslist.org/evl/sad/d/chandler-low-voltage-technician/6883559802.html"></a>
+<p class="result-info">
+<span class="icon icon-star" role="button">
+<span class="screen-reader-text">favorite this post</span>
+</span>
+<time class="result-date" datetime="2019-05-07 10:42" title="Tue 07 May 10:42:19 AM">May  7</time>
+<a class="result-title hdrlnk" data-id="6883559802" href="https://phoenix.craigslist.org/evl/sad/d/chandler-low-voltage-technician/6883559802.html">Low Voltage Technician</a>
+<span class="result-meta">
+<span class="nearby" title="phoenix, AZ">(phx &gt; Mesa)</span>
+<span class="result-tags">
+<span class="maptag" data-pid="6883559802">map</span>
+</span>
+<span class="banish icon icon-trash" role="button">
+<span class="screen-reader-text">hide this posting</span>
+</span>
+<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
+<a class="restore-link" href="#">
+<span class="restore-narrow-text">restore</span>
+<span class="restore-wide-text">restore this posting</span>
+</a>
+</span>
+</p>
+</li>
+test
+https://yuma.craigslist.org/search/cpg?is_paid=all&postedToday=1
+notest
+https://yuma.craigslist.org/search/cpg?is_paid=all&postedToday=1
+notest1
+https://yuma.craigslist.org/search/cpg?is_paid=all&postedToday=1
+<li class="result-row" data-pid="6883139622">
+<a class="result-image gallery" data-ids="1:00W0W_9oTXy80wCdr,1:00000_cdSXgnoo48c,1:00z0z_bqk9wUGBmvv,1:00z0z_esoRHjBryUE,1:00N0N_22bwF0Qe2lu,1:00J0J_jHu1HilMuOH,1:00808_4txb67T4fcC,1:00q0q_5i4OYXqVLi9,1:00909_jteggcWCWeC,1:00v0v_kEP7MV4mkRu" href="https://yuma.craigslist.org/crg/d/yuma-salesperson-wanted/6883139622.html">
+</a>
+<p class="result-info">
+<span class="icon icon-star" role="button">
+<span class="screen-reader-text">favorite this post</span>
+</span>
+<time class="result-date" datetime="2019-05-06 18:52" title="Mon 06 May 06:52:18 PM">May  6</time>
+<a class="result-title hdrlnk" data-id="6883139622" href="https://yuma.craigslist.org/crg/d/yuma-salesperson-wanted/6883139622.html">Salesperson wanted</a>
+<span class="result-meta">
+<span class="result-hood"> (Yuma az)</span>
+<span class="result-tags">
+                    pic
+                    <span class="maptag" data-pid="6883139622">map</span>
+</span>
+<span class="banish icon icon-trash" role="button">
+<span class="screen-reader-text">hide this posting</span>
+</span>
+<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
+<a class="restore-link" href="#">
+<span class="restore-narrow-text">restore</span>
+<span class="restore-wide-text">restore this posting</span>
+</a>
+</span>
+</p>
+</li>
+test1
+https://yuma.craigslist.org/search/cpg?is_paid=all&postedToday=1
+<li class="result-row" data-pid="6883700597">
+<a class="result-image gallery" data-ids="1:00Z0Z_3RsWmxkwWVt,1:00r0r_bnRi0SLguy3,1:00h0h_kR3SZtyF20B,1:00S0S_byZtgK04Coc,1:00s0s_9KGtIpA4lwS,1:00I0I_arJOk9X2Epo" href="https://palmsprings.craigslist.org/crg/d/palm-springs-awesome-art-teacher-wanted/6883700597.html">
+</a>
+<p class="result-info">
+<span class="icon icon-star" role="button">
+<span class="screen-reader-text">favorite this post</span>
+</span>
+<time class="result-date" datetime="2019-05-07 13:10" title="Tue 07 May 01:10:17 PM">May  7</time>
+<a class="result-title hdrlnk" data-id="6883700597" href="https://palmsprings.craigslist.org/crg/d/palm-springs-awesome-art-teacher-wanted/6883700597.html">Awesome Art teacher Wanted</a>
+<span class="result-meta">
+<span class="nearby" title="palm springs, CA">(psp &gt; Palm Springs / Palm Desert)</span>
+<span class="result-tags">
+                    pic
+                    <span class="maptag" data-pid="6883700597">map</span>
+</span>
+<span class="banish icon icon-trash" role="button">
+<span class="screen-reader-text">hide this posting</span>
+</span>
+<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
+<a class="restore-link" href="#">
+<span class="restore-narrow-text">restore</span>
+<span class="restore-wide-text">restore this posting</span>
+</a>
+</span>
+</p>
+</li>
+test1
+https://yuma.craigslist.org/search/cpg?is_paid=all&postedToday=1
+<li class="result-row" data-pid="6883872179">
+<a class="result-image gallery" data-ids="1:00H0H_jydTOTRc8Ql" href="https://sandiego.craigslist.org/nsd/crg/d/carlsbad-faux-artist-assistant/6883872179.html">
+</a>
+<p class="result-info">
+<span class="icon icon-star" role="button">
+<span class="screen-reader-text">favorite this post</span>
+</span>
+<time class="result-date" datetime="2019-05-07 16:52" title="Tue 07 May 04:52:34 PM">May  7</time>
+<a class="result-title hdrlnk" data-id="6883872179" href="https://sandiego.craigslist.org/nsd/crg/d/carlsbad-faux-artist-assistant/6883872179.html">Faux artist assistant</a>
+<span class="result-meta">
+<span class="nearby" title="san diego">(sdo &gt; Oceanside)</span>
+<span class="result-tags">
+                    pic
+                    <span class="maptag" data-pid="6883872179">map</span>
+</span>
+<span class="banish icon icon-trash" role="button">
+<span class="screen-reader-text">hide this posting</span>
+</span>
+<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
+<a class="restore-link" href="#">
+<span class="restore-narrow-text">restore</span>
+<span class="restore-wide-text">restore this posting</span>
+</a>
+</span>
+</p>
+</li>
+test1
+https://yuma.craigslist.org/search/cpg?is_paid=all&postedToday=1
+<li class="result-row" data-pid="6883339835">
+<a class="result-image gallery empty" href="https://sandiego.craigslist.org/csd/crg/d/san-diego-videographer-editor-for-june/6883339835.html"></a>
+<p class="result-info">
+<span class="icon icon-star" role="button">
+<span class="screen-reader-text">favorite this post</span>
+</span>
+<time class="result-date" datetime="2019-05-07 06:55" title="Tue 07 May 06:55:58 AM">May  7</time>
+<a class="result-title hdrlnk" data-id="6883339835" href="https://sandiego.craigslist.org/csd/crg/d/san-diego-videographer-editor-for-june/6883339835.html">Videographer / editor for June 14th and 15th</a>
+<span class="result-meta">
+<span class="nearby" title="san diego">(sdo &gt; San Diego, CA)</span>
+<span class="result-tags">
+<span class="maptag" data-pid="6883339835">map</span>
+</span>
+<span class="banish icon icon-trash" role="button">
+<span class="screen-reader-text">hide this posting</span>
+</span>
+<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
+<a class="restore-link" href="#">
+<span class="restore-narrow-text">restore</span>
+<span class="restore-wide-text">restore this posting</span>
+</a>
+</span>
+</p>
+</li>
+test1
+https://yuma.craigslist.org/search/cpg?is_paid=all&postedToday=1
+<li class="result-row" data-pid="6883138427">
+<a class="result-image gallery empty" href="https://sandiego.craigslist.org/csd/crg/d/la-jolla-seeking-logo-graphic-designer/6883138427.html"></a>
+<p class="result-info">
+<span class="icon icon-star" role="button">
+<span class="screen-reader-text">favorite this post</span>
+</span>
+<time class="result-date" datetime="2019-05-06 18:49" title="Mon 06 May 06:49:56 PM">May  6</time>
+<a class="result-title hdrlnk" data-id="6883138427" href="https://sandiego.craigslist.org/csd/crg/d/la-jolla-seeking-logo-graphic-designer/6883138427.html">Seeking Logo/Graphic Designer For Amazon Fashion Brand</a>
+<span class="result-meta">
+<span class="nearby" title="san diego">(sdo)</span>
+<span class="result-tags">
+<span class="maptag" data-pid="6883138427">map</span>
+</span>
+<span class="banish icon icon-trash" role="button">
+<span class="screen-reader-text">hide this posting</span>
+</span>
+<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
+<a class="restore-link" href="#">
+<span class="restore-narrow-text">restore</span>
+<span class="restore-wide-text">restore this posting</span>
+</a>
+</span>
+</p>
+</li>
+test1
+https://yuma.craigslist.org/search/cpg?is_paid=all&postedToday=1
+<li class="result-row" data-pid="6883776667">
+<a class="result-image gallery" data-ids="1:00e0e_bIyRFhf5G8Z" href="https://phoenix.craigslist.org/nph/crg/d/chandler-come-tell-us-about-your-family/6883776667.html">
+</a>
+<p class="result-info">
+<span class="icon icon-star" role="button">
+<span class="screen-reader-text">favorite this post</span>
+</span>
+<time class="result-date" datetime="2019-05-07 14:39" title="Tue 07 May 02:39:19 PM">May  7</time>
+<a class="result-title hdrlnk" data-id="6883776667" href="https://phoenix.craigslist.org/nph/crg/d/chandler-come-tell-us-about-your-family/6883776667.html">Come tell us about your family preferences!</a>
+<span class="result-meta">
+<span class="nearby" title="phoenix, AZ">(phx)</span>
+<span class="result-tags">
+                    pic
+                    <span class="maptag" data-pid="6883776667">map</span>
+</span>
+<span class="banish icon icon-trash" role="button">
+<span class="screen-reader-text">hide this posting</span>
+</span>
+<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
+<a class="restore-link" href="#">
+<span class="restore-narrow-text">restore</span>
+<span class="restore-wide-text">restore this posting</span>
+</a>
+</span>
+</p>
+</li>
+test1
+https://yuma.craigslist.org/search/cpg?is_paid=all&postedToday=1
+<li class="result-row" data-pid="6883577572">
+<a class="result-image gallery empty" href="https://phoenix.craigslist.org/cph/crg/d/phoenix-graphic-designer-freelancer-on/6883577572.html"></a>
+<p class="result-info">
+<span class="icon icon-star" role="button">
+<span class="screen-reader-text">favorite this post</span>
+</span>
+<time class="result-date" datetime="2019-05-07 11:00" title="Tue 07 May 11:00:15 AM">May  7</time>
+<a class="result-title hdrlnk" data-id="6883577572" href="https://phoenix.craigslist.org/cph/crg/d/phoenix-graphic-designer-freelancer-on/6883577572.html">Graphic Designer Freelancer on-site</a>
+<span class="result-meta">
+<span class="nearby" title="phoenix, AZ">(phx &gt; Downtown Phoenix)</span>
+<span class="result-tags">
+<span class="maptag" data-pid="6883577572">map</span>
+</span>
+<span class="banish icon icon-trash" role="button">
+<span class="screen-reader-text">hide this posting</span>
+</span>
+<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
+<a class="restore-link" href="#">
+<span class="restore-narrow-text">restore</span>
+<span class="restore-wide-text">restore this posting</span>
+</a>
+</span>
+</p>
+</li>
+test1
+https://yuma.craigslist.org/search/cpg?is_paid=all&postedToday=1
+<li class="result-row" data-pid="6883556184">
+<a class="result-image gallery" data-ids="1:00Z0Z_eIcefeNdW1e" href="https://phoenix.craigslist.org/evl/crg/d/mesa-art-contest-three-prizes-mural-art/6883556184.html">
+</a>
+<p class="result-info">
+<span class="icon icon-star" role="button">
+<span class="screen-reader-text">favorite this post</span>
+</span>
+<time class="result-date" datetime="2019-05-07 10:38" title="Tue 07 May 10:38:49 AM">May  7</time>
+<a class="result-title hdrlnk" data-id="6883556184" href="https://phoenix.craigslist.org/evl/crg/d/mesa-art-contest-three-prizes-mural-art/6883556184.html">💲💲ART CONTEST - THREE (3) $250 PRIZES - MURAL ART💲💲</a>
+<span class="result-meta">
+<span class="nearby" title="phoenix, AZ">(phx &gt; MESA)</span>
+<span class="result-tags">
+                    pic
+                    <span class="maptag" data-pid="6883556184">map</span>
+</span>
+<span class="banish icon icon-trash" role="button">
+<span class="screen-reader-text">hide this posting</span>
+</span>
+<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
+<a class="restore-link" href="#">
+<span class="restore-narrow-text">restore</span>
+<span class="restore-wide-text">restore this posting</span>
+</a>
+</span>
+</p>
+</li>
+test1
+https://yuma.craigslist.org/search/cpg?is_paid=all&postedToday=1
+<li class="result-row" data-pid="6883283321">
+<a class="result-image gallery empty" href="https://phoenix.craigslist.org/evl/crg/d/phoenix-landscaping-trimming-grass/6883283321.html"></a>
+<p class="result-info">
+<span class="icon icon-star" role="button">
+<span class="screen-reader-text">favorite this post</span>
+</span>
+<time class="result-date" datetime="2019-05-07 05:25" title="Tue 07 May 05:25:26 AM">May  7</time>
+<a class="result-title hdrlnk" data-id="6883283321" href="https://phoenix.craigslist.org/evl/crg/d/phoenix-landscaping-trimming-grass/6883283321.html">Landscaping, trimming grass cutting pool vacuuming</a>
+<span class="result-meta">
+<span class="nearby" title="phoenix, AZ">(phx &gt; Ahwatukee)</span>
+<span class="result-tags">
+<span class="maptag" data-pid="6883283321">map</span>
+</span>
+<span class="banish icon icon-trash" role="button">
+<span class="screen-reader-text">hide this posting</span>
+</span>
+<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
+<a class="restore-link" href="#">
+<span class="restore-narrow-text">restore</span>
+<span class="restore-wide-text">restore this posting</span>
+</a>
+</span>
+</p>
+</li>
+test
+https://yuma.craigslist.org/search/web?postedToday=1
+test
+https://yuma.craigslist.org/search/med?postedToday=1
+test
+https://yuma.craigslist.org/search/sof?postedToday=1
+test
+https://yuma.craigslist.org/search/sad?postedToday=1
+test
+https://fayar.craigslist.org/search/cpg?is_paid=all&postedToday=1
+test
+https://fayar.craigslist.org/search/crg?is_paid=all&postedToday=1
+test
+https://fayar.craigslist.org/search/web?postedToday=1
+test
+https://fayar.craigslist.org/search/med?postedToday=1
+test
+https://fayar.craigslist.org/search/sof?postedToday=1
