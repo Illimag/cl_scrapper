@@ -28,5 +28,7 @@ To start just having the headless browser to trick Craiglist into thinking it is
 
 We can also try to fake a user agent for example here is a header field.
 
+A good idea maybe to rotate my user agents and VPNS.
+
 headers = { 'User-Agent': 'Mozilla/5.0 (Windows NT 6.0; WOW64; rv:24.0) Gecko/20100101 Firefox/24.0' }
 r = requests.get(url, headers=headers)
