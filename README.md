@@ -32,3 +32,25 @@ A good idea maybe to rotate my user agents and VPNS.
 
 headers = { 'User-Agent': 'Mozilla/5.0 (Windows NT 6.0; WOW64; rv:24.0) Gecko/20100101 Firefox/24.0' }
 r = requests.get(url, headers=headers)
+
+# NEED TO DO THIS
+
+## Rotate user agents
+
+- User agents need to be rotated so it can seem like it is using a different browser each time.
+
+Here is a full list of User Agents
+
+    https://developers.whatismybrowser.com/useragents/explore/
+
+## Rotate VPN/Proxies
+
+- Need to rotate VPNs or Proxies to change the IP Addresses. This way it is will always be using a different IP address.
+
+## Make sure to have the cookies removed
+
+- Reset cookies each time.
+
+# DONT NEED THIS
+
+## MAC Addresses do not need to be rotated.

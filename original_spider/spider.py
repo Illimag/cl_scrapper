@@ -13,7 +13,9 @@
 #           Changed pathArray so only post from today
 #           Imported time module
 #           Added time.sleep()
-#
+#           Removed get URLS so we don't need to scrape new everytime ( just make sure to keep updated )
+#           Added user_agent and header need to rotate 
+#           Added ghost
 # jaemnkm
 
 # encoding=utf8
@@ -34,58 +36,30 @@ ghost = Ghost()
 with ghost.start() as session:
 
     # This is the first user agent that is sent while doing a request.get
-    url = 'https://httpbin.org/user-agent'
+    # url = 'https://httpbin.org/user-agent'
     user_agent = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.47 Safari/537.36'
     headers = {'User-Agent': user_agent}
-    response = requests.get(url,headers=headers)
+    # response = requests.get(url,headers=headers)
 
-    html = response.content
-    print(response.content)
+    # html = response.content
+    # print(response.content)
 
-    r = requests.get("https://www.craigslist.org/about/sites")
-    content = soup(r.content, "html.parser")
-
-linksArray = []
-pathArray = [
-    "search/cpg?is_paid=all&postedToday=1", # Gigs Computer gigs
-    "search/crg?is_paid=all&postedToday=1", # Gigs Creative gigs
-    "search/web?postedToday=1", # jobs Web Design
-    "search/med?postedToday=1", # jobs Media
-    "search/sof?postedToday=1", # jobs Software
-    "search/sad?postedToday=1", # jobs System/Networking
-]
-
-print "\n"      # Two blank lines
-loop = True
-for country in content.find_all("div", attrs={'class': "colmask"}):
-    if loop:
-        for states_box in country.find_all("div"):
-            # for state in country.find_all("h4"):
-            #     print("-------------------------------------\n\n\n")
-            #     print(state.text + "\n")
-            #     print(state.next_sibling)
-
-            for area in states_box.find_all("ul"):
-                for location in area.find_all("a"):
-                    linksArray.append(location.get("href"))
-
-    loop = False
-# ddm -- The above code is an odd way to only use the first item in the list...
 
     i = 0
-    for link in linksArray:
-        for path in pathArray:
+    # all_today.txt is a list of all the today files.
+    # To get an updated all_today.txt run the get_urls/get_urls.py
+    for line in open("get_urls/all_today.txt"):
             # Current URL that the spider is searching through
-            current_url = link + path
+            current_url = line
 
             # This is where the userr agents need to be rotated
-            url = 'https://httpbin.org/user-agent'
+            # url = 'https://httpbin.org/user-agent'
             user_agent = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.47 Safari/537.36'
             headers = {'User-Agent': user_agent}
-            response = requests.get(url,headers=headers)
+            # response = requests.get(url,headers=headers)
 
-            html = response.content
-            print(response.content)
+            # html = response.content
+            # print(response.content)
 
             search = requests.get(current_url)
             # s_content is the full html page of the current URL.
@@ -144,3 +118,4 @@ for country in content.find_all("div", attrs={'class': "colmask"}):
 
 
     print "Total output =", i, ""
+    
