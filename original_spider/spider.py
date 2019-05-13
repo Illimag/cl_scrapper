@@ -31,19 +31,11 @@ import time
 
 from ghost import Ghost
 
+import random
+
 ghost = Ghost()
 
 with ghost.start() as session:
-
-    # This is the first user agent that is sent while doing a request.get
-    # url = 'https://httpbin.org/user-agent'
-    user_agent = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.47 Safari/537.36'
-    headers = {'User-Agent': user_agent}
-    # response = requests.get(url,headers=headers)
-
-    # html = response.content
-    # print(response.content)
-
 
     i = 0
     # all_today.txt is a list of all the today files.
@@ -52,16 +44,19 @@ with ghost.start() as session:
             # Current URL that the spider is searching through
             current_url = line
 
-            # This is where the userr agents need to be rotated
+            # This is where the user agents need to be rotated
+            with open("user_agents/user_agents_list0.txt") as f:
+                lines = f.readlines()
+                user_agent = random.choice(lines)
             # url = 'https://httpbin.org/user-agent'
-            user_agent = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.47 Safari/537.36'
             headers = {'User-Agent': user_agent}
+            # print headers
             # response = requests.get(url,headers=headers)
 
             # html = response.content
             # print(response.content)
 
-            search = requests.get(current_url)
+            search = requests.get(current_url,headers=headers)
             # s_content is the full html page of the current URL.
             s_content = soup(search.content, "html.parser")
             # This looks for the nothing found alert. If it finds it in the HTML.
