@@ -43,26 +43,44 @@ with ghost.start() as session:
     for current_url in open("get_urls/all_today.txt"):
             # Current URL that the spider is searching through
 
-            # This is where the user agents need to be rotated
+            # Rotate User Agents
             with open("user_agents/user_agents_list0.txt") as f:
                 lines = f.readlines()
                 line = random.choice(lines)
                 user_agent = line.rstrip('\r\n')
+            # This checks the user agent and prints it
             check_user_agent = 'https://httpbin.org/user-agent'
             headers = {'User-Agent': user_agent}
             # print headers
             response = requests.get(check_user_agent,headers=headers)
-
             html = response.content
             print(response.content)
 
-            # So Cragslist won't block IP
-            time.sleep(5)
+            # Proxy List
+            http_proxy  = "http://83.149.70.159:13012"
+            https_proxy = "https://83.149.70.159:13012"
+            ftp_proxy   = "ftp://83.149.70.159:13012"
+            proxyDict = { 
+                        "http"  : http_proxy, 
+                        "https" : https_proxy, 
+                        "ftp"   : ftp_proxy
+                        }
 
-            search = requests.get(current_url,headers=headers)
+            # This checks the ip address and prints it
+            check_ip_address = 'http://myip-address.com/'
+            ip_response = requests.get(check_ip_address,proxies=proxyDict)
+            ip_html = soup(ip_response.content, "html.parser")
+            ip_address = ip_html.find("div", {"class":"alert alert-success ip-centr"})
+            print(ip_address)
 
             # So Cragslist won't block IP
-            time.sleep(5)
+            time.sleep(1)
+
+            # This is the request for Craiglists behind a rotating user agent header and proxy.
+            search = requests.get(current_url,headers=headers,proxies=proxyDict)
+
+            # So Cragslist won't block IP
+            time.sleep(1)
 
             # s_content is the full html page of the current URL.
             s_content = soup(search.content, "html.parser")
