@@ -1,9 +1,3 @@
-# Does the get request and then exits file
-# The reason I have to do it this way is to be able to randomize the user agent.
-# When using a loop to randomize user agents I get a 
-# ERROR:
-# raise ValueError('Invalid header value %r' % (one_value,))
-# ValueError: Invalid header value
 
 import requests
 import random

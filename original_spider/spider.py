@@ -40,23 +40,30 @@ with ghost.start() as session:
     i = 0
     # all_today.txt is a list of all the today files.
     # To get an updated all_today.txt run the get_urls/get_urls.py
-    for line in open("get_urls/all_today.txt"):
+    for current_url in open("get_urls/all_today.txt"):
             # Current URL that the spider is searching through
-            current_url = line
 
             # This is where the user agents need to be rotated
             with open("user_agents/user_agents_list0.txt") as f:
                 lines = f.readlines()
-                user_agent = random.choice(lines)
-            # url = 'https://httpbin.org/user-agent'
+                line = random.choice(lines)
+                user_agent = line.rstrip('\r\n')
+            check_user_agent = 'https://httpbin.org/user-agent'
             headers = {'User-Agent': user_agent}
             # print headers
-            # response = requests.get(url,headers=headers)
+            response = requests.get(check_user_agent,headers=headers)
 
-            # html = response.content
-            # print(response.content)
+            html = response.content
+            print(response.content)
+
+            # So Cragslist won't block IP
+            time.sleep(5)
 
             search = requests.get(current_url,headers=headers)
+
+            # So Cragslist won't block IP
+            time.sleep(5)
+
             # s_content is the full html page of the current URL.
             s_content = soup(search.content, "html.parser")
             # This looks for the nothing found alert. If it finds it in the HTML.
@@ -69,8 +76,6 @@ with ghost.start() as session:
                 print("test")
                 print current_url
 
-                # So Cragslist won't block IP
-                time.sleep(5)
                 exit # Exit the current loop and goes to next URL
             # This will reduce the number of duplicate posts
             else:
@@ -96,8 +101,6 @@ with ghost.start() as session:
                         print current_url
                         # print post
 
-                        # So Cragslist won't block IP
-                        time.sleep(5)
                         exit # Exit loop and look at next post in table
                     else:
 
@@ -106,11 +109,7 @@ with ghost.start() as session:
                         print current_url
                         print post.find("a", {"class":"result-title hdrlnk"})
 
-                        # So Cragslist won't block IP
-                        time.sleep(10)
-
                         print('\n')
 
 
     print "Total output =", i, ""
-    
