@@ -27,6 +27,7 @@ post==2019.4.13
 public==2019.4.13
 pycparser==2.19
 Pygments==2.1
+pyOpenSSL==19.0.0
 PyYAML==3.12
 query-string==2019.4.13
 ranger==1.7.1

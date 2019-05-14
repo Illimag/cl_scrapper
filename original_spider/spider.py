@@ -1,22 +1,13 @@
 # CraigScraper.py
-#
-# ddm
-#       2017 -- Fixing text issues.
-#           Fixed - Was not checking for whole words - Any C triggered a match
-#           Fixed - Matches were case sensitive.
-#           Fixed - Was printing a copy for every keyword that matched.
-#           Added Rejection Words
-# ddm
-
-# jaemnkm
-#       2019 -- Updated parts of code
-#           Changed pathArray so only post from today
-#           Imported time module
-#           Added time.sleep()
-#           Removed get URLS so we don't need to scrape new everytime ( just make sure to keep updated )
-#           Added user_agent and header need to rotate 
-#           Added ghost
-# jaemnkm
+# This is my web spider that scrapes Craiglist for leads.
+# It works in several parts.
+# 1. Get a text file with all the CL URLS that are written to search each city, specific category, then filter only for today.
+# 2. Get a list of User Agents as text file then randomly selects one and makes it the header for the get request.
+# 3. Using a rotating proxy service with each HTTP request, the IP is changed for each request.
+# 4. The get request recieves the full html of the URL.
+# 5. Then we have a method to see if there are no postings, if so then go to next URL.
+# 6. If there are postings we see if they are nearby which are duplicate postings, if so go to next URL.
+# 7. Then it will print out the href and title of every city on Craiglist.
 
 # encoding=utf8
 import sys
@@ -33,7 +24,7 @@ from ghost import Ghost
 
 import random
 
-ghost = Ghost()
+ghost = Ghost()  
 
 with ghost.start() as session:
 
@@ -50,16 +41,16 @@ with ghost.start() as session:
                 user_agent = line.rstrip('\r\n')
             # This checks the user agent and prints it
             check_user_agent = 'https://httpbin.org/user-agent'
-            headers = {'User-Agent': user_agent}
+            headers = {'User-Agent': user_agent, 'Content-Type': 'application/x-www-form-urlencoded'}
             # print headers
             response = requests.get(check_user_agent,headers=headers)
             html = response.content
             print(response.content)
 
             # Proxy List
-            http_proxy  = "http://83.149.70.159:13012"
-            https_proxy = "https://83.149.70.159:13012"
-            ftp_proxy   = "ftp://83.149.70.159:13012"
+            http_proxy  = "http://37.48.118.90:13042"
+            https_proxy = "http://37.48.118.90:13042"
+            ftp_proxy   = "ftp://37.48.118.90:13042"
             proxyDict = { 
                         "http"  : http_proxy, 
                         "https" : https_proxy, 
@@ -68,7 +59,24 @@ with ghost.start() as session:
 
             # This checks the ip address and prints it
             check_ip_address = 'http://myip-address.com/'
-            ip_response = requests.get(check_ip_address,proxies=proxyDict)
+
+            # So Cragslist won't block IP
+            time.sleep(1)
+
+            for i in range(100):
+                try:
+                    ip_response = requests.get(check_ip_address,proxies=proxyDict)
+                    print(i)
+                except:
+                    break
+            else:
+                print("failed")
+                sys.exit(1)
+
+
+            # So Cragslist won't block IP
+            time.sleep(1)
+
             ip_html = soup(ip_response.content, "html.parser")
             ip_address = ip_html.find("div", {"class":"alert alert-success ip-centr"})
             print(ip_address)
@@ -77,7 +85,15 @@ with ghost.start() as session:
             time.sleep(1)
 
             # This is the request for Craiglists behind a rotating user agent header and proxy.
-            search = requests.get(current_url,headers=headers,proxies=proxyDict)
+            for i in range(100):
+                try:
+                    search = requests.get(current_url,headers=headers,proxies=proxyDict)
+                    print(i)
+                except:
+                    break
+            else:
+                print("failed")
+                sys.exit(1)
 
             # So Cragslist won't block IP
             time.sleep(1)
