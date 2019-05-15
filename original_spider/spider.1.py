@@ -20,7 +20,13 @@ from bs4 import BeautifulSoup as soup
 
 import time
 
+# from ghost import Ghost
+
 import random
+
+# ghost = Ghost()  
+
+# with ghost.start() as session:
 
 loop = True
 
@@ -29,15 +35,21 @@ if loop:
     i = 0
     # all_today.txt is a list of all the today files.
     # To get an updated all_today.txt run the get_urls/get_urls.py
-    for current_url in open("urls/all_today1.txt"):
+    for current_url in open("get_urls/all_today1.txt"):
             # Current URL that the spider is searching through
 
             # Rotate User Agents
-            with open("user_agents/user_agents.txt") as f:
+            with open("user_agents/user_agents_list0.txt") as f:
                 lines = f.readlines()
                 line = random.choice(lines)
                 user_agent = line.rstrip('\r\n')
+            # This checks the user agent and prints it
+            # check_user_agent = 'https://httpbin.org/user-agent'
             headers = {'User-Agent': user_agent, 'Content-Type': 'application/x-www-form-urlencoded'}
+            # print headers
+            # response = requests.get(check_user_agent,headers=headers)
+            # html = response.content
+            # print(response.content)
 
             # Proxy List
             http_proxy  = "http://37.48.118.90:13042"
@@ -49,6 +61,30 @@ if loop:
                         "ftp"   : ftp_proxy
                         }
 
+            # This checks the ip address and prints it
+            # check_ip_address = 'http://myip-address.com/'
+
+            # So Cragslist won't block IP
+            # time.sleep(1)
+
+            # for i in range(100):
+            #     try:
+            #         ip_response = requests.get(check_ip_address,proxies=proxyDict)
+            #        print(i)
+            #     except:
+            #         break
+            # else:
+            #     print("failed")
+            #     sys.exit(1)
+
+
+            # So Cragslist won't block IP
+            # time.sleep(1)
+
+            # ip_html = soup(ip_response.content, "html.parser")
+            # ip_address = ip_html.find("div", {"class":"alert alert-success ip-centr"})
+             #print(ip_address)
+
             # So Cragslist won't block IP
             time.sleep(1)
 
@@ -58,7 +94,7 @@ if loop:
                     search = requests.get(current_url,headers=headers,proxies=proxyDict)
                     print(i)
                 except:
-                    print(i)
+                    break
             else:
                 print("failed")
                 sys.exit(1)
