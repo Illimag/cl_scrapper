@@ -58,7 +58,7 @@ if loop:
                     search = requests.get(current_url,headers=headers,proxies=proxyDict)
                     print(i)
                 except:
-                    break
+                    print(i)
             else:
                 print("failed")
                 sys.exit(1)
