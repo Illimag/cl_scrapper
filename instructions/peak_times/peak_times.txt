@@ -1,0 +1,9 @@
+# Peak times to run the scrapper.
+
+Because we want to reply to people asap.
+
+We should have the scrapper running at specific timees and then rerun from the beginng to see if there are any new posting.
+
+This is especially essential for the cities with the most traffic.
+
+For cities that do not have as much traffic we should be OK. with running the scrapper once a day.

@@ -1,0 +1,25 @@
+# Need to do.
+
+Mainly we need to organize the CL URLs according to the cities with the most traffic.
+
+There are 3 cluster.
+
+spider.py
+spider1.py
+spider2.py
+
+1 of the cluster will be cities will very low traffic. This is the majority.
+1 of the clusters will be cities will medium traffic.
+1 of the clusters will be cities will high amounts of traffic.
+
+LT-Cluster
+MT-Cluster
+HT-Cluster
+
+Let's say that it takes 1hr to go through 50 URLS.
+
+HT - 200 URLS - 4 HRS
+MT - 500 URLS - 10 HRS
+LT - 1800 URLS - 1 DAY
+
+

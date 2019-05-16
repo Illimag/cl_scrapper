@@ -1,0 +1,25 @@
+# This is an addition that is required for the script.
+
+Basically there should be around 200-300 urls that are high targets because maybe they are cl's in large cities.
+
+So one of the clusters should run those 200-300 non stop in repeat.
+
+Because we want to reply to these ASAP.
+
+## Also I think because were using proxies there are no captias.
+
+If this is true. We should update the scrapper to get the email address and phone numbers of the posting.
+
+## Later on maybe we can automate this process more.
+
+For example we can mass email them and mass phone number them.
+
+For now we should look through each lead and make a custom reply for each one.
+
+## We should also use the filter function to filter the leads into specific catefories.
+
+For example if they are looking for someone to help with website work, etc.
+
+Then we should have the filter figure that out based on the wording of the post and then we should have a customized email according to the filter.
+
+
