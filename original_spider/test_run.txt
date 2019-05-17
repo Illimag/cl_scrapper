@@ -1,1263 +1,4251 @@
+0
+1
+2
+3
+4
+5
+6
+7
+notest
+https://sfbay.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+notest1
+https://sfbay.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890656077" href="https://sfbay.craigslist.org/eby/cpg/d/emeryville-temporary-position-for/6890656077.html">TEMPORARY POSITION for TRADING STOCKS !</a>
 
 
-test
-https://auburn.craigslist.org/search/cpg?is_paid=all&postedToday=1
-test
-https://auburn.craigslist.org/search/crg?is_paid=all&postedToday=1
-test
-https://auburn.craigslist.org/search/web?postedToday=1
-test
-https://auburn.craigslist.org/search/med?postedToday=1
-test
-https://auburn.craigslist.org/search/sof?postedToday=1
-test
-https://auburn.craigslist.org/search/sad?postedToday=1
-notest
-https://auburn.craigslist.org/search/sad?postedToday=1
 notest1
-https://auburn.craigslist.org/search/sad?postedToday=1
-<li class="result-row" data-pid="6883749393">
-<a class="result-image gallery empty" href="https://bham.craigslist.org/cpg/d/birmingham-us-home-business-earn-daily/6883749393.html"></a>
-<p class="result-info">
-<span class="icon icon-star" role="button">
-<span class="screen-reader-text">favorite this post</span>
-</span>
-<time class="result-date" datetime="2019-05-07 16:06" title="Tue 07 May 04:06:07 PM">May  7</time>
-<a class="result-title hdrlnk" data-id="6883749393" href="https://bham.craigslist.org/cpg/d/birmingham-us-home-business-earn-daily/6883749393.html">2018 #1 U.S. Home Business Earn $100-$500 Daily</a>
-<span class="result-meta">
-<span class="result-hood"> (Birmingham Al)</span>
-<span class="result-tags">
-                    img
-                    <span class="maptag" data-pid="6883749393">map</span>
-</span>
-<span class="banish icon icon-trash" role="button">
-<span class="screen-reader-text">hide this posting</span>
-</span>
-<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
-<a class="restore-link" href="#">
-<span class="restore-narrow-text">restore</span>
-<span class="restore-wide-text">restore this posting</span>
-</a>
-</span>
-</p>
-</li>
-test
-https://bham.craigslist.org/search/crg?is_paid=all&postedToday=1
-test
-https://bham.craigslist.org/search/web?postedToday=1
-test
-https://bham.craigslist.org/search/med?postedToday=1
-test
-https://bham.craigslist.org/search/sof?postedToday=1
-test
-https://bham.craigslist.org/search/sad?postedToday=1
-test
-https://dothan.craigslist.org/search/cpg?is_paid=all&postedToday=1
-test
-https://dothan.craigslist.org/search/crg?is_paid=all&postedToday=1
-test
-https://dothan.craigslist.org/search/web?postedToday=1
-test
-https://dothan.craigslist.org/search/med?postedToday=1
-test
-https://dothan.craigslist.org/search/sof?postedToday=1
-test
-https://dothan.craigslist.org/search/sad?postedToday=1
-test
-https://shoals.craigslist.org/search/cpg?is_paid=all&postedToday=1
-test
-https://shoals.craigslist.org/search/crg?is_paid=all&postedToday=1
-test
-https://shoals.craigslist.org/search/web?postedToday=1
-test
-https://shoals.craigslist.org/search/med?postedToday=1
-test
-https://shoals.craigslist.org/search/sof?postedToday=1
-test
-https://shoals.craigslist.org/search/sad?postedToday=1
-test
-https://gadsden.craigslist.org/search/cpg?is_paid=all&postedToday=1
-test
-https://gadsden.craigslist.org/search/crg?is_paid=all&postedToday=1
-test
-https://gadsden.craigslist.org/search/web?postedToday=1
-test
-https://gadsden.craigslist.org/search/med?postedToday=1
-test
-https://gadsden.craigslist.org/search/sof?postedToday=1
-test
-https://gadsden.craigslist.org/search/sad?postedToday=1
-test
-https://huntsville.craigslist.org/search/cpg?is_paid=all&postedToday=1
-notest
-https://huntsville.craigslist.org/search/cpg?is_paid=all&postedToday=1
+https://sfbay.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890617606" href="https://sfbay.craigslist.org/pen/cpg/d/san-mateo-squarespace-expert-wanted-to/6890617606.html">Squarespace Expert Wanted to Post Blogs</a>
+
+
 notest1
-https://huntsville.craigslist.org/search/cpg?is_paid=all&postedToday=1
-<li class="result-row" data-pid="6883583991">
-<a class="result-image gallery empty" href="https://huntsville.craigslist.org/crg/d/huntsville-iluustrate-childrens-book/6883583991.html"></a>
-<p class="result-info">
-<span class="icon icon-star" role="button">
-<span class="screen-reader-text">favorite this post</span>
-</span>
-<time class="result-date" datetime="2019-05-07 13:06" title="Tue 07 May 01:06:30 PM">May  7</time>
-<a class="result-title hdrlnk" data-id="6883583991" href="https://huntsville.craigslist.org/crg/d/huntsville-iluustrate-childrens-book/6883583991.html">Iluustrate a children's book for my son</a>
-<span class="result-meta">
-<span class="result-hood"> (Anywhere)</span>
-<span class="result-tags">
-<span class="maptag" data-pid="6883583991">map</span>
-</span>
-<span class="banish icon icon-trash" role="button">
-<span class="screen-reader-text">hide this posting</span>
-</span>
-<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
-<a class="restore-link" href="#">
-<span class="restore-narrow-text">restore</span>
-<span class="restore-wide-text">restore this posting</span>
-</a>
-</span>
-</p>
-</li>
+https://sfbay.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890614599" href="https://sfbay.craigslist.org/sby/cpg/d/burlingame-looking-for-co-founder/6890614599.html">💡 Looking for co-founder, talented seller, 2 products 💡</a>
+
+
+notest1
+https://sfbay.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890610753" href="https://sfbay.craigslist.org/pen/cpg/d/san-bruno-need-someone-to-program-lts/6890610753.html">need someone to  program LTS camera video system</a>
+
+
+notest1
+https://sfbay.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890570986" href="https://sfbay.craigslist.org/sby/cpg/d/sunnyvale-help-needed-with-data/6890570986.html">Help needed with data collection at our office</a>
+
+
+notest1
+https://sfbay.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890549427" href="https://sfbay.craigslist.org/sby/cpg/d/los-gatos-drafting-drawings-needed-for/6890549427.html">Drafting / Drawings needed for house addition  (AutoCad or other)</a>
+
+
+notest1
+https://sfbay.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890266440" href="https://sfbay.craigslist.org/pen/cpg/d/stanford-need-engineer-to-help/6890266440.html">Need engineer to help troubleshoot circuit $100/hr</a>
+
+
+notest1
+https://sfbay.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890202085" href="https://sfbay.craigslist.org/sfc/cpg/d/san-francisco-25-for-las-vegas/6890202085.html">$25 for Las Vegas travelers market research video interviews on Monday</a>
+
+
+notest1
+https://sfbay.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890194569" href="https://sfbay.craigslist.org/sfc/cpg/d/san-francisco-walmart-target-api/6890194569.html">Walmart &amp; Target API developer</a>
+
+
+notest1
+https://sfbay.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890096181" href="https://sfbay.craigslist.org/sfc/cpg/d/oakland-independent-online-gig-online/6890096181.html">Independent Online Gig - Online Product Tester ($109 - $249 + / Day)</a>
+
+
+notest1
+https://sfbay.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6889956280" href="https://sfbay.craigslist.org/sfc/cpg/d/san-francisco-extra-revenue-for-high/6889956280.html">EXTRA REVENUE FOR HIGH MILEAGE DRIVERS</a>
+
+
 test1
-https://huntsville.craigslist.org/search/cpg?is_paid=all&postedToday=1
-<li class="result-row" data-pid="6883674319">
-<a class="result-image gallery empty" href="https://nashville.craigslist.org/crg/d/franklin-data-entry/6883674319.html"></a>
-<p class="result-info">
-<span class="icon icon-star" role="button">
-<span class="screen-reader-text">favorite this post</span>
-</span>
-<time class="result-date" datetime="2019-05-07 14:40" title="Tue 07 May 02:40:50 PM">May  7</time>
-<a class="result-title hdrlnk" data-id="6883674319" href="https://nashville.craigslist.org/crg/d/franklin-data-entry/6883674319.html">Data Entry I</a>
-<span class="result-meta">
-<span class="nearby" title="nashville, TN">(nsh &gt; Franklin, Tennessee)</span>
-<span class="result-tags">
-<span class="maptag" data-pid="6883674319">map</span>
-</span>
-<span class="banish icon icon-trash" role="button">
-<span class="screen-reader-text">hide this posting</span>
-</span>
-<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
-<a class="restore-link" href="#">
-<span class="restore-narrow-text">restore</span>
-<span class="restore-wide-text">restore this posting</span>
-</a>
-</span>
-</p>
-</li>
-test
-https://huntsville.craigslist.org/search/web?postedToday=1
-test
-https://huntsville.craigslist.org/search/med?postedToday=1
-test
-https://huntsville.craigslist.org/search/sof?postedToday=1
-test
-https://huntsville.craigslist.org/search/sad?postedToday=1
-test
-https://mobile.craigslist.org/search/cpg?is_paid=all&postedToday=1
-test
-https://mobile.craigslist.org/search/crg?is_paid=all&postedToday=1
-test
-https://mobile.craigslist.org/search/web?postedToday=1
-test
-https://mobile.craigslist.org/search/med?postedToday=1
-test
-https://mobile.craigslist.org/search/sof?postedToday=1
-test
-https://mobile.craigslist.org/search/sad?postedToday=1
-test
-https://montgomery.craigslist.org/search/cpg?is_paid=all&postedToday=1
-test
-https://montgomery.craigslist.org/search/crg?is_paid=all&postedToday=1
-test
-https://montgomery.craigslist.org/search/web?postedToday=1
-test
-https://montgomery.craigslist.org/search/med?postedToday=1
-test
-https://montgomery.craigslist.org/search/sof?postedToday=1
-test
-https://montgomery.craigslist.org/search/sad?postedToday=1
-test
-https://tuscaloosa.craigslist.org/search/cpg?is_paid=all&postedToday=1
-test
-https://tuscaloosa.craigslist.org/search/crg?is_paid=all&postedToday=1
-test
-https://tuscaloosa.craigslist.org/search/web?postedToday=1
-test
-https://tuscaloosa.craigslist.org/search/med?postedToday=1
-test
-https://tuscaloosa.craigslist.org/search/sof?postedToday=1
-test
-https://tuscaloosa.craigslist.org/search/sad?postedToday=1
-test
-https://anchorage.craigslist.org/search/cpg?is_paid=all&postedToday=1
-test
-https://anchorage.craigslist.org/search/crg?is_paid=all&postedToday=1
-test
-https://anchorage.craigslist.org/search/web?postedToday=1
-test
-https://anchorage.craigslist.org/search/med?postedToday=1
-test
-https://anchorage.craigslist.org/search/sof?postedToday=1
-test
-https://anchorage.craigslist.org/search/sad?postedToday=1
-test
-https://fairbanks.craigslist.org/search/cpg?is_paid=all&postedToday=1
-test
-https://fairbanks.craigslist.org/search/crg?is_paid=all&postedToday=1
-test
-https://fairbanks.craigslist.org/search/web?postedToday=1
-test
-https://fairbanks.craigslist.org/search/med?postedToday=1
-test
-https://fairbanks.craigslist.org/search/sof?postedToday=1
-test
-https://fairbanks.craigslist.org/search/sad?postedToday=1
-test
-https://kenai.craigslist.org/search/cpg?is_paid=all&postedToday=1
-test
-https://kenai.craigslist.org/search/crg?is_paid=all&postedToday=1
-test
-https://kenai.craigslist.org/search/web?postedToday=1
-test
-https://kenai.craigslist.org/search/med?postedToday=1
-test
-https://kenai.craigslist.org/search/sof?postedToday=1
-test
-https://kenai.craigslist.org/search/sad?postedToday=1
-test
-https://juneau.craigslist.org/search/cpg?is_paid=all&postedToday=1
-test
-https://juneau.craigslist.org/search/crg?is_paid=all&postedToday=1
-test
-https://juneau.craigslist.org/search/web?postedToday=1
-test
-https://juneau.craigslist.org/search/med?postedToday=1
-test
-https://juneau.craigslist.org/search/sof?postedToday=1
-test
-https://juneau.craigslist.org/search/sad?postedToday=1
-test
-https://flagstaff.craigslist.org/search/cpg?is_paid=all&postedToday=1
-test
-https://flagstaff.craigslist.org/search/crg?is_paid=all&postedToday=1
-test
-https://flagstaff.craigslist.org/search/web?postedToday=1
-test
-https://flagstaff.craigslist.org/search/med?postedToday=1
-test
-https://flagstaff.craigslist.org/search/sof?postedToday=1
-test
-https://flagstaff.craigslist.org/search/sad?postedToday=1
-test
-https://mohave.craigslist.org/search/cpg?is_paid=all&postedToday=1
-test
-https://mohave.craigslist.org/search/crg?is_paid=all&postedToday=1
-test
-https://mohave.craigslist.org/search/web?postedToday=1
-test
-https://mohave.craigslist.org/search/med?postedToday=1
-test
-https://mohave.craigslist.org/search/sof?postedToday=1
-test
-https://mohave.craigslist.org/search/sad?postedToday=1
+https://sfbay.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+0
 notest
-https://mohave.craigslist.org/search/sad?postedToday=1
+https://sfbay.craigslist.org/search/crg?is_paid=all&postedToday=1
+
 notest1
-https://mohave.craigslist.org/search/sad?postedToday=1
-<li class="result-row" data-pid="6883829054">
-<a class="result-image gallery empty" href="https://phoenix.craigslist.org/wvl/cpg/d/phoenix-social-media-strategist/6883829054.html"></a>
-<p class="result-info">
-<span class="icon icon-star" role="button">
-<span class="screen-reader-text">favorite this post</span>
-</span>
-<time class="result-date" datetime="2019-05-07 15:48" title="Tue 07 May 03:48:07 PM">May  7</time>
-<a class="result-title hdrlnk" data-id="6883829054" href="https://phoenix.craigslist.org/wvl/cpg/d/phoenix-social-media-strategist/6883829054.html">SOCIAL MEDIA STRATEGIST</a>
-<span class="result-meta">
-<span class="result-tags">
-<span class="maptag" data-pid="6883829054">map</span>
-</span>
-<span class="banish icon icon-trash" role="button">
-<span class="screen-reader-text">hide this posting</span>
-</span>
-<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
-<a class="restore-link" href="#">
-<span class="restore-narrow-text">restore</span>
-<span class="restore-wide-text">restore this posting</span>
-</a>
-</span>
-</p>
-</li>
+https://sfbay.craigslist.org/search/crg?is_paid=all&postedToday=1
 
-
-
-
-favorite this post
-
-May  7
-SOCIAL MEDIA STRATEGIST
-
-
-map
-
-
-hide this posting
-
-
-
-restore
-restore this posting
-
-
-
-
-None
+<a class="result-title hdrlnk" data-id="6890651497" href="https://sfbay.craigslist.org/eby/crg/d/newark-urgent-event-photographer-needed/6890651497.html">URGENT: Event Photographer Needed - this Sunday, May 19</a>
 
 
 notest1
-https://mohave.craigslist.org/search/sad?postedToday=1
-<li class="result-row" data-pid="6883166852">
-<a class="result-image gallery" data-ids="1:01515_cxRkxNhu0B" href="https://phoenix.craigslist.org/evl/cpg/d/paradise-valley-phoenix-new-partners/6883166852.html">
-</a>
-<p class="result-info">
-<span class="icon icon-star" role="button">
-<span class="screen-reader-text">favorite this post</span>
-</span>
-<time class="result-date" datetime="2019-05-06 19:50" title="Mon 06 May 07:50:46 PM">May  6</time>
-<a class="result-title hdrlnk" data-id="6883166852" href="https://phoenix.craigslist.org/evl/cpg/d/paradise-valley-phoenix-new-partners/6883166852.html">PHOENIX - New Partners Pull in $1,800 Within 2-Days... ( PART-TIME WORK FROM HOM</a>
-<span class="result-meta">
-<span class="result-hood"> (Work From Home Part Time Work)</span>
-<span class="result-tags">
-                    pic
-                    <span class="maptag" data-pid="6883166852">map</span>
-</span>
-<span class="banish icon icon-trash" role="button">
-<span class="screen-reader-text">hide this posting</span>
-</span>
-<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
-<a class="restore-link" href="#">
-<span class="restore-narrow-text">restore</span>
-<span class="restore-wide-text">restore this posting</span>
-</a>
-</span>
-</p>
-</li>
+https://sfbay.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890635074" href="https://sfbay.craigslist.org/sfc/crg/d/san-francisco-art-reference-book-project/6890635074.html">Art Reference Book Project</a>
+
+
+notest1
+https://sfbay.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890619054" href="https://sfbay.craigslist.org/scz/crg/d/scotts-valley-photographer-needed-for/6890619054.html">Photographer Needed for Motorcycle Shoot</a>
+
+
+notest1
+https://sfbay.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890534093" href="https://sfbay.craigslist.org/eby/crg/d/alamo-family-photographer/6890534093.html">Family Photographer</a>
+
+
+notest1
+https://sfbay.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890306687" href="https://sfbay.craigslist.org/sfc/crg/d/san-francisco-on-site-video-editor/6890306687.html">On-site video editor needed</a>
+
+
+notest1
+https://sfbay.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890298190" href="https://sfbay.craigslist.org/eby/crg/d/dublin-freelance-graphic-designer/6890298190.html">Freelance graphic designer wanted for ongoing work</a>
+
+
+notest1
+https://sfbay.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890240604" href="https://sfbay.craigslist.org/pen/crg/d/south-san-francisco-photographer-wanted/6890240604.html">Photographer wanted</a>
+
+
+notest1
+https://sfbay.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890030182" href="https://sfbay.craigslist.org/sfc/crg/d/san-francisco-help-me-shoot-my-first/6890030182.html">Help me shoot my first cooking school video</a>
+
+
+notest1
+https://sfbay.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6889990436" href="https://sfbay.craigslist.org/eby/crg/d/berkeley-paid-research-study-for/6889990436.html">Paid Research Study for Romantic Couples</a>
+
+
+notest1
+https://sfbay.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6889927211" href="https://sfbay.craigslist.org/eby/crg/d/alamo-photography-assistant/6889927211.html">Photography Assistant</a>
+
+
 test1
-https://mohave.craigslist.org/search/sad?postedToday=1
-<li class="result-row" data-pid="6883461050">
-<a class="result-image gallery" data-ids="1:01717_iBd6QnvxBck,1:00505_7Jp2ejherT3,1:00s0s_8VQUXIXsNyA" href="https://showlow.craigslist.org/cpg/d/altonah-new-opportunity-with-expanding/6883461050.html">
-</a>
-<p class="result-info">
-<span class="icon icon-star" role="button">
-<span class="screen-reader-text">favorite this post</span>
-</span>
-<time class="result-date" datetime="2019-05-07 09:06" title="Tue 07 May 09:06:38 AM">May  7</time>
-<a class="result-title hdrlnk" data-id="6883461050" href="https://showlow.craigslist.org/cpg/d/altonah-new-opportunity-with-expanding/6883461050.html">✅ New Opportunity with Expanding CBD Company</a>
-<span class="result-meta">
-<span class="nearby" title="show low, AZ">(sow)</span>
-<span class="result-tags">
-                    pic
-                    <span class="maptag" data-pid="6883461050">map</span>
-</span>
-<span class="banish icon icon-trash" role="button">
-<span class="screen-reader-text">hide this posting</span>
-</span>
-<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
-<a class="restore-link" href="#">
-<span class="restore-narrow-text">restore</span>
-<span class="restore-wide-text">restore this posting</span>
-</a>
-</span>
-</p>
-</li>
-notest
-https://mohave.craigslist.org/search/sad?postedToday=1
-notest1
-https://mohave.craigslist.org/search/sad?postedToday=1
-<li class="result-row" data-pid="6883776667">
-<a class="result-image gallery" data-ids="1:00e0e_bIyRFhf5G8Z" href="https://phoenix.craigslist.org/nph/crg/d/chandler-come-tell-us-about-your-family/6883776667.html">
-</a>
-<p class="result-info">
-<span class="icon icon-star" role="button">
-<span class="screen-reader-text">favorite this post</span>
-</span>
-<time class="result-date" datetime="2019-05-07 14:39" title="Tue 07 May 02:39:19 PM">May  7</time>
-<a class="result-title hdrlnk" data-id="6883776667" href="https://phoenix.craigslist.org/nph/crg/d/chandler-come-tell-us-about-your-family/6883776667.html">Come tell us about your family preferences!</a>
-<span class="result-meta">
-<span class="result-tags">
-                    pic
-                    <span class="maptag" data-pid="6883776667">map</span>
-</span>
-<span class="banish icon icon-trash" role="button">
-<span class="screen-reader-text">hide this posting</span>
-</span>
-<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
-<a class="restore-link" href="#">
-<span class="restore-narrow-text">restore</span>
-<span class="restore-wide-text">restore this posting</span>
-</a>
-</span>
-</p>
-</li>
-notest1
-https://mohave.craigslist.org/search/sad?postedToday=1
-<li class="result-row" data-pid="6883577572">
-<a class="result-image gallery empty" href="https://phoenix.craigslist.org/cph/crg/d/phoenix-graphic-designer-freelancer-on/6883577572.html"></a>
-<p class="result-info">
-<span class="icon icon-star" role="button">
-<span class="screen-reader-text">favorite this post</span>
-</span>
-<time class="result-date" datetime="2019-05-07 11:00" title="Tue 07 May 11:00:15 AM">May  7</time>
-<a class="result-title hdrlnk" data-id="6883577572" href="https://phoenix.craigslist.org/cph/crg/d/phoenix-graphic-designer-freelancer-on/6883577572.html">Graphic Designer Freelancer on-site</a>
-<span class="result-meta">
-<span class="result-hood"> (Downtown Phoenix)</span>
-<span class="result-tags">
-<span class="maptag" data-pid="6883577572">map</span>
-</span>
-<span class="banish icon icon-trash" role="button">
-<span class="screen-reader-text">hide this posting</span>
-</span>
-<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
-<a class="restore-link" href="#">
-<span class="restore-narrow-text">restore</span>
-<span class="restore-wide-text">restore this posting</span>
-</a>
-</span>
-</p>
-</li>
+https://sfbay.craigslist.org/search/crg?is_paid=all&postedToday=1
 
-
-
-
-favorite this post
-
-May  7
-Graphic Designer Freelancer on-site
-
- (Downtown Phoenix)
-
-map
-
-
-hide this posting
-
-
-
-restore
-restore this posting
-
-
-
-
-None
-
-
-notest1
-https://mohave.craigslist.org/search/sad?postedToday=1
-<li class="result-row" data-pid="6883556184">
-<a class="result-image gallery" data-ids="1:00Z0Z_eIcefeNdW1e" href="https://phoenix.craigslist.org/evl/crg/d/mesa-art-contest-three-prizes-mural-art/6883556184.html">
-</a>
-<p class="result-info">
-<span class="icon icon-star" role="button">
-<span class="screen-reader-text">favorite this post</span>
-</span>
-<time class="result-date" datetime="2019-05-07 10:38" title="Tue 07 May 10:38:49 AM">May  7</time>
-<a class="result-title hdrlnk" data-id="6883556184" href="https://phoenix.craigslist.org/evl/crg/d/mesa-art-contest-three-prizes-mural-art/6883556184.html">💲💲ART CONTEST - THREE (3) $250 PRIZES - MURAL ART💲💲</a>
-<span class="result-meta">
-<span class="result-hood"> (MESA)</span>
-<span class="result-tags">
-                    pic
-                    <span class="maptag" data-pid="6883556184">map</span>
-</span>
-<span class="banish icon icon-trash" role="button">
-<span class="screen-reader-text">hide this posting</span>
-</span>
-<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
-<a class="restore-link" href="#">
-<span class="restore-narrow-text">restore</span>
-<span class="restore-wide-text">restore this posting</span>
-</a>
-</span>
-</p>
-</li>
-notest1
-https://mohave.craigslist.org/search/sad?postedToday=1
-<li class="result-row" data-pid="6883283321">
-<a class="result-image gallery empty" href="https://phoenix.craigslist.org/evl/crg/d/phoenix-landscaping-trimming-grass/6883283321.html"></a>
-<p class="result-info">
-<span class="icon icon-star" role="button">
-<span class="screen-reader-text">favorite this post</span>
-</span>
-<time class="result-date" datetime="2019-05-07 05:25" title="Tue 07 May 05:25:26 AM">May  7</time>
-<a class="result-title hdrlnk" data-id="6883283321" href="https://phoenix.craigslist.org/evl/crg/d/phoenix-landscaping-trimming-grass/6883283321.html">Landscaping, trimming grass cutting pool vacuuming</a>
-<span class="result-meta">
-<span class="result-hood"> (Ahwatukee)</span>
-<span class="result-tags">
-<span class="maptag" data-pid="6883283321">map</span>
-</span>
-<span class="banish icon icon-trash" role="button">
-<span class="screen-reader-text">hide this posting</span>
-</span>
-<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
-<a class="restore-link" href="#">
-<span class="restore-narrow-text">restore</span>
-<span class="restore-wide-text">restore this posting</span>
-</a>
-</span>
-</p>
-</li>
 test1
-https://mohave.craigslist.org/search/sad?postedToday=1
-<li class="result-row" data-pid="6883139622">
-<a class="result-image gallery" data-ids="1:00W0W_9oTXy80wCdr,1:00000_cdSXgnoo48c,1:00z0z_bqk9wUGBmvv,1:00z0z_esoRHjBryUE,1:00N0N_22bwF0Qe2lu,1:00J0J_jHu1HilMuOH,1:00808_4txb67T4fcC,1:00q0q_5i4OYXqVLi9,1:00909_jteggcWCWeC,1:00v0v_kEP7MV4mkRu" href="https://yuma.craigslist.org/crg/d/yuma-salesperson-wanted/6883139622.html">
-</a>
-<p class="result-info">
-<span class="icon icon-star" role="button">
-<span class="screen-reader-text">favorite this post</span>
-</span>
-<time class="result-date" datetime="2019-05-06 18:52" title="Mon 06 May 06:52:18 PM">May  6</time>
-<a class="result-title hdrlnk" data-id="6883139622" href="https://yuma.craigslist.org/crg/d/yuma-salesperson-wanted/6883139622.html">Salesperson wanted</a>
-<span class="result-meta">
-<span class="nearby" title="yuma, AZ">(yum &gt; Yuma az)</span>
-<span class="result-tags">
-                    pic
-                    <span class="maptag" data-pid="6883139622">map</span>
-</span>
-<span class="banish icon icon-trash" role="button">
-<span class="screen-reader-text">hide this posting</span>
-</span>
-<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
-<a class="restore-link" href="#">
-<span class="restore-narrow-text">restore</span>
-<span class="restore-wide-text">restore this posting</span>
-</a>
-</span>
-</p>
-</li>
+https://sfbay.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+test1
+https://sfbay.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+0
+1
 notest
-https://mohave.craigslist.org/search/sad?postedToday=1
+https://sfbay.craigslist.org/search/web?postedToday=1
+
 notest1
-https://mohave.craigslist.org/search/sad?postedToday=1
-<li class="result-row" data-pid="6883574864">
-<a class="result-image gallery empty" href="https://phoenix.craigslist.org/nph/web/d/phoenix-social-media-art-manager/6883574864.html"></a>
-<p class="result-info">
-<span class="icon icon-star" role="button">
-<span class="screen-reader-text">favorite this post</span>
-</span>
-<time class="result-date" datetime="2019-05-07 10:57" title="Tue 07 May 10:57:30 AM">May  7</time>
-<a class="result-title hdrlnk" data-id="6883574864" href="https://phoenix.craigslist.org/nph/web/d/phoenix-social-media-art-manager/6883574864.html">Social Media/Art Manager</a>
-<span class="result-meta">
-<span class="result-tags">
-<span class="maptag" data-pid="6883574864">map</span>
-</span>
-<span class="banish icon icon-trash" role="button">
-<span class="screen-reader-text">hide this posting</span>
-</span>
-<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
-<a class="restore-link" href="#">
-<span class="restore-narrow-text">restore</span>
-<span class="restore-wide-text">restore this posting</span>
-</a>
-</span>
-</p>
-</li>
-notest
-https://mohave.craigslist.org/search/sad?postedToday=1
-notest1
-https://mohave.craigslist.org/search/sad?postedToday=1
-<li class="result-row" data-pid="6883199246">
-<a class="result-image gallery" data-ids="1:00505_1CK2IeKgF2F,1:00000_ct08XYfVDBx,1:00g0g_1lIpclRu4mJ,1:00T0T_cTIGonSBdv3" href="https://phoenix.craigslist.org/nph/med/d/phoenix-film-editing-and-help-with-new/6883199246.html">
-</a>
-<p class="result-info">
-<span class="icon icon-star" role="button">
-<span class="screen-reader-text">favorite this post</span>
-</span>
-<time class="result-date" datetime="2019-05-06 21:20" title="Mon 06 May 09:20:52 PM">May  6</time>
-<a class="result-title hdrlnk" data-id="6883199246" href="https://phoenix.craigslist.org/nph/med/d/phoenix-film-editing-and-help-with-new/6883199246.html">Film editing and help with new YouTube account</a>
-<span class="result-meta">
-<span class="result-hood"> (Phoenix)</span>
-<span class="result-tags">
-                    pic
-                    <span class="maptag" data-pid="6883199246">map</span>
-</span>
-<span class="banish icon icon-trash" role="button">
-<span class="screen-reader-text">hide this posting</span>
-</span>
-<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
-<a class="restore-link" href="#">
-<span class="restore-narrow-text">restore</span>
-<span class="restore-wide-text">restore this posting</span>
-</a>
-</span>
-</p>
-</li>
+https://sfbay.craigslist.org/search/web?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890424391" href="https://sfbay.craigslist.org/sfc/web/d/san-francisco-jr-user-interface-visual/6890424391.html">Jr. User Interface / Visual Designer</a>
 
 
-
-
-
-favorite this post
-
-May  6
-Film editing and help with new YouTube account
-
- (Phoenix)
-
-                    pic
-                    map
-
-
-hide this posting
-
-
-
-restore
-restore this posting
-
-
-
-
-None
-
+test1
+https://sfbay.craigslist.org/search/web?postedToday=1
 
 notest
-https://mohave.craigslist.org/search/sad?postedToday=1
+https://sfbay.craigslist.org/search/med?postedToday=1
+
 notest1
-https://mohave.craigslist.org/search/sad?postedToday=1
-<li class="result-row" data-pid="6883384432">
-<a class="result-image gallery" data-ids="1:00M0M_ccdXgkW5O1i" href="https://phoenix.craigslist.org/nph/sof/d/scottsdale-computer-hardware-bench-test/6883384432.html">
-</a>
-<p class="result-info">
-<span class="icon icon-star" role="button">
-<span class="screen-reader-text">favorite this post</span>
-</span>
-<time class="result-date" datetime="2019-05-07 07:47" title="Tue 07 May 07:47:43 AM">May  7</time>
-<a class="result-title hdrlnk" data-id="6883384432" href="https://phoenix.craigslist.org/nph/sof/d/scottsdale-computer-hardware-bench-test/6883384432.html">Computer Hardware Bench Test/General Assistant</a>
-<span class="result-meta">
-<span class="result-hood"> (Scottsdale)</span>
-<span class="result-tags">
-                    pic
-                    <span class="maptag" data-pid="6883384432">map</span>
-</span>
-<span class="banish icon icon-trash" role="button">
-<span class="screen-reader-text">hide this posting</span>
-</span>
-<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
-<a class="restore-link" href="#">
-<span class="restore-narrow-text">restore</span>
-<span class="restore-wide-text">restore this posting</span>
-</a>
-</span>
-</p>
-</li>
+https://sfbay.craigslist.org/search/med?postedToday=1
 
-
-
-
-
-favorite this post
-
-May  7
-Computer Hardware Bench Test/General Assistant
-
- (Scottsdale)
-
-                    pic
-                    map
-
-
-hide this posting
-
-
-
-restore
-restore this posting
-
-
-
-
-None
+<a class="result-title hdrlnk" data-id="6890424391" href="https://sfbay.craigslist.org/sfc/web/d/san-francisco-jr-user-interface-visual/6890424391.html">Jr. User Interface / Visual Designer</a>
 
 
 test1
-https://mohave.craigslist.org/search/sad?postedToday=1
-<li class="result-row" data-pid="6883676238">
-<a class="result-image gallery" data-ids="1:00a0a_iCMua0nyukJ,1:00N0N_inCk92EqP0h,1:00Z0Z_dbHSD9fcQd3,1:00g0g_joAuunaMHk8" href="https://prescott.craigslist.org/sof/d/prescott-cnc-programmer/6883676238.html">
-</a>
-<p class="result-info">
-<span class="icon icon-star" role="button">
-<span class="screen-reader-text">favorite this post</span>
-</span>
-<time class="result-date" datetime="2019-05-07 12:43" title="Tue 07 May 12:43:00 PM">May  7</time>
-<a class="result-title hdrlnk" data-id="6883676238" href="https://prescott.craigslist.org/sof/d/prescott-cnc-programmer/6883676238.html">CNC Programmer</a>
-<span class="result-meta">
-<span class="nearby" title="prescott, AZ">(prc)</span>
-<span class="result-tags">
-                    pic
-                    <span class="maptag" data-pid="6883676238">map</span>
-</span>
-<span class="banish icon icon-trash" role="button">
-<span class="screen-reader-text">hide this posting</span>
-</span>
-<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
-<a class="restore-link" href="#">
-<span class="restore-narrow-text">restore</span>
-<span class="restore-wide-text">restore this posting</span>
-</a>
-</span>
-</p>
-</li>
+https://sfbay.craigslist.org/search/med?postedToday=1
+
+0
+1
 notest
-https://mohave.craigslist.org/search/sad?postedToday=1
+https://sfbay.craigslist.org/search/sof?postedToday=1
+
 notest1
-https://mohave.craigslist.org/search/sad?postedToday=1
-<li class="result-row" data-pid="6883559802">
-<a class="result-image gallery empty" href="https://phoenix.craigslist.org/evl/sad/d/chandler-low-voltage-technician/6883559802.html"></a>
-<p class="result-info">
-<span class="icon icon-star" role="button">
-<span class="screen-reader-text">favorite this post</span>
-</span>
-<time class="result-date" datetime="2019-05-07 10:42" title="Tue 07 May 10:42:19 AM">May  7</time>
-<a class="result-title hdrlnk" data-id="6883559802" href="https://phoenix.craigslist.org/evl/sad/d/chandler-low-voltage-technician/6883559802.html">Low Voltage Technician</a>
-<span class="result-meta">
-<span class="result-hood"> (Mesa)</span>
-<span class="result-tags">
-<span class="maptag" data-pid="6883559802">map</span>
-</span>
-<span class="banish icon icon-trash" role="button">
-<span class="screen-reader-text">hide this posting</span>
-</span>
-<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
-<a class="restore-link" href="#">
-<span class="restore-narrow-text">restore</span>
-<span class="restore-wide-text">restore this posting</span>
-</a>
-</span>
-</p>
-</li>
-test1
-https://mohave.craigslist.org/search/sad?postedToday=1
-<li class="result-row" data-pid="6883149699">
-<a class="result-image gallery empty" href="https://tucson.craigslist.org/sad/d/tucson-looking-for-experienced-it/6883149699.html"></a>
-<p class="result-info">
-<span class="icon icon-star" role="button">
-<span class="screen-reader-text">favorite this post</span>
-</span>
-<time class="result-date" datetime="2019-05-06 19:12" title="Mon 06 May 07:12:57 PM">May  6</time>
-<a class="result-title hdrlnk" data-id="6883149699" href="https://tucson.craigslist.org/sad/d/tucson-looking-for-experienced-it/6883149699.html">Looking for Experienced IT Technicians</a>
-<span class="result-meta">
-<span class="nearby" title="tucson, AZ">(tus &gt; Tucson, AZ)</span>
-<span class="result-tags">
-<span class="maptag" data-pid="6883149699">map</span>
-</span>
-<span class="banish icon icon-trash" role="button">
-<span class="screen-reader-text">hide this posting</span>
-</span>
-<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
-<a class="restore-link" href="#">
-<span class="restore-narrow-text">restore</span>
-<span class="restore-wide-text">restore this posting</span>
-</a>
-</span>
-</p>
-</li>
-test
-https://prescott.craigslist.org/search/cpg?is_paid=all&postedToday=1
-test
-https://prescott.craigslist.org/search/crg?is_paid=all&postedToday=1
-test
-https://prescott.craigslist.org/search/web?postedToday=1
-test
-https://prescott.craigslist.org/search/med?postedToday=1
+https://sfbay.craigslist.org/search/sof?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890558351" href="https://sfbay.craigslist.org/sfc/sof/d/san-francisco-software-engineering/6890558351.html">Software Engineering Project Contract Hire (Remote Work)</a>
+
+
+notest1
+https://sfbay.craigslist.org/search/sof?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890448992" href="https://sfbay.craigslist.org/sby/sof/d/san-jose-multiple-technical-positions/6890448992.html">Multiple Technical Positions</a>
+
+
+notest1
+https://sfbay.craigslist.org/search/sof?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890440547" href="https://sfbay.craigslist.org/sfc/sof/d/san-francisco-multiple-technical/6890440547.html">Multiple Technical Positions</a>
+
+
+notest1
+https://sfbay.craigslist.org/search/sof?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890421111" href="https://sfbay.craigslist.org/sby/sof/d/la-honda-data-engineer/6890421111.html">Data Engineer</a>
+
+
+notest1
+https://sfbay.craigslist.org/search/sof?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890392340" href="https://sfbay.craigslist.org/eby/sof/d/berkeley-help-create-an-internet-therapy/6890392340.html">Help create an Internet Therapy!</a>
+
+
+notest1
+https://sfbay.craigslist.org/search/sof?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6576102796" href="https://sfbay.craigslist.org/sfc/sof/d/java-developer-at/6576102796.html">JavaScript Developer at craigslist</a>
+
+
+notest1
+https://sfbay.craigslist.org/search/sof?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6576105241" href="https://sfbay.craigslist.org/sfc/sof/d/full-stack-web-developer-at/6576105241.html">Full Stack Web Developer at craigslist</a>
+
+
+notest1
+https://sfbay.craigslist.org/search/sof?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6576107141" href="https://sfbay.craigslist.org/sfc/sof/d/react-developer-at/6576107141.html">React Developer at craigslist</a>
+
+
+notest1
+https://sfbay.craigslist.org/search/sof?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6576108679" href="https://sfbay.craigslist.org/sfc/sof/d/mobile-app-developer-at/6576108679.html">Mobile App Developer at craigslist</a>
+
+
+0
+1
+2
+3
+4
+5
+6
+7
 notest
-https://prescott.craigslist.org/search/med?postedToday=1
+https://sfbay.craigslist.org/search/sad?postedToday=1
+
 notest1
-https://prescott.craigslist.org/search/med?postedToday=1
-<li class="result-row" data-pid="6883676238">
-<a class="result-image gallery" data-ids="1:00a0a_iCMua0nyukJ,1:00N0N_inCk92EqP0h,1:00Z0Z_dbHSD9fcQd3,1:00g0g_joAuunaMHk8" href="https://prescott.craigslist.org/sof/d/prescott-cnc-programmer/6883676238.html">
-</a>
-<p class="result-info">
-<span class="icon icon-star" role="button">
-<span class="screen-reader-text">favorite this post</span>
-</span>
-<time class="result-date" datetime="2019-05-07 12:43" title="Tue 07 May 12:43:00 PM">May  7</time>
-<a class="result-title hdrlnk" data-id="6883676238" href="https://prescott.craigslist.org/sof/d/prescott-cnc-programmer/6883676238.html">CNC Programmer</a>
-<span class="result-meta">
-<span class="result-tags">
-                    pic
-                    <span class="maptag" data-pid="6883676238">map</span>
-</span>
-<span class="banish icon icon-trash" role="button">
-<span class="screen-reader-text">hide this posting</span>
-</span>
-<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
-<a class="restore-link" href="#">
-<span class="restore-narrow-text">restore</span>
-<span class="restore-wide-text">restore this posting</span>
-</a>
-</span>
-</p>
-</li>
+https://sfbay.craigslist.org/search/sad?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6811504470" href="https://sfbay.craigslist.org/sfc/sad/d/san-francisco-seeks-network-engineer/6811504470.html">craigslist seeks Network Engineer</a>
+
+
+notest1
+https://sfbay.craigslist.org/search/sad?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890227842" href="https://sfbay.craigslist.org/sfc/sad/d/san-francisco-it-support-engineer/6890227842.html">IT Support Engineer</a>
+
+
+notest1
+https://sfbay.craigslist.org/search/sad?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890088012" href="https://sfbay.craigslist.org/sfc/sad/d/san-francisco-it-consultant-needed/6890088012.html">IT Consultant needed - Linux expertise</a>
+
+
 test1
-https://prescott.craigslist.org/search/med?postedToday=1
-<li class="result-row" data-pid="6883384432">
-<a class="result-image gallery" data-ids="1:00M0M_ccdXgkW5O1i" href="https://phoenix.craigslist.org/nph/sof/d/scottsdale-computer-hardware-bench-test/6883384432.html">
-</a>
-<p class="result-info">
-<span class="icon icon-star" role="button">
-<span class="screen-reader-text">favorite this post</span>
-</span>
-<time class="result-date" datetime="2019-05-07 07:47" title="Tue 07 May 07:47:43 AM">May  7</time>
-<a class="result-title hdrlnk" data-id="6883384432" href="https://phoenix.craigslist.org/nph/sof/d/scottsdale-computer-hardware-bench-test/6883384432.html">Computer Hardware Bench Test/General Assistant</a>
-<span class="result-meta">
-<span class="nearby" title="phoenix, AZ">(phx &gt; Scottsdale)</span>
-<span class="result-tags">
-                    pic
-                    <span class="maptag" data-pid="6883384432">map</span>
-</span>
-<span class="banish icon icon-trash" role="button">
-<span class="screen-reader-text">hide this posting</span>
-</span>
-<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
-<a class="restore-link" href="#">
-<span class="restore-narrow-text">restore</span>
-<span class="restore-wide-text">restore this posting</span>
-</a>
-</span>
-</p>
-</li>
-test
-https://prescott.craigslist.org/search/sad?postedToday=1
+https://sfbay.craigslist.org/search/sad?postedToday=1
+
+0
+1
+2
+3
+4
+5
+6
+7
+8
 notest
-https://prescott.craigslist.org/search/sad?postedToday=1
+https://losangeles.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
 notest1
-https://prescott.craigslist.org/search/sad?postedToday=1
-<li class="result-row" data-pid="6883461050">
-<a class="result-image gallery" data-ids="1:01717_iBd6QnvxBck,1:00505_7Jp2ejherT3,1:00s0s_8VQUXIXsNyA" href="https://showlow.craigslist.org/cpg/d/altonah-new-opportunity-with-expanding/6883461050.html">
-</a>
-<p class="result-info">
-<span class="icon icon-star" role="button">
-<span class="screen-reader-text">favorite this post</span>
-</span>
-<time class="result-date" datetime="2019-05-07 09:06" title="Tue 07 May 09:06:38 AM">May  7</time>
-<a class="result-title hdrlnk" data-id="6883461050" href="https://showlow.craigslist.org/cpg/d/altonah-new-opportunity-with-expanding/6883461050.html">✅ New Opportunity with Expanding CBD Company</a>
-<span class="result-meta">
-<span class="result-tags">
-                    pic
-                    <span class="maptag" data-pid="6883461050">map</span>
-</span>
-<span class="banish icon icon-trash" role="button">
-<span class="screen-reader-text">hide this posting</span>
-</span>
-<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
-<a class="restore-link" href="#">
-<span class="restore-narrow-text">restore</span>
-<span class="restore-wide-text">restore this posting</span>
-</a>
-</span>
-</p>
-</li>
+https://losangeles.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890677763" href="https://losangeles.craigslist.org/wst/cpg/d/santa-monica-seeking-gear-vr-user/6890677763.html">Seeking Gear VR User</a>
+
+
+notest1
+https://losangeles.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890598056" href="https://losangeles.craigslist.org/wst/cpg/d/santa-monica-onsite-marketing-and-web/6890598056.html">Onsite Marketing and Web Design, Content Manager</a>
+
+
+notest1
+https://losangeles.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890594699" href="https://losangeles.craigslist.org/lgb/cpg/d/lakewood-it-sales-and-service/6890594699.html">IT Sales and Service</a>
+
+
+notest1
+https://losangeles.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890567047" href="https://losangeles.craigslist.org/lac/cpg/d/los-angeles-website-help/6890567047.html">Website help</a>
+
+
+notest1
+https://losangeles.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890551223" href="https://losangeles.craigslist.org/wst/cpg/d/marina-del-rey-social-media-marketing/6890551223.html">Social media marketing expert</a>
+
+
+notest1
+https://losangeles.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890476345" href="https://losangeles.craigslist.org/wst/cpg/d/los-angeles-looking-for-computer-help/6890476345.html">Looking for Computer Help with Job Search</a>
+
+
+notest1
+https://losangeles.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890473222" href="https://losangeles.craigslist.org/sfv/cpg/d/los-angeles-affiliate-marketing/6890473222.html">Affiliate Marketing - Financial Event</a>
+
+
+notest1
+https://losangeles.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890424913" href="https://losangeles.craigslist.org/sfv/cpg/d/woodland-hills-facebook-ads-management/6890424913.html">Facebook Ads Management</a>
+
+
+notest1
+https://losangeles.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890355189" href="https://losangeles.craigslist.org/lac/cpg/d/beverly-hills-seeking-10-people-who/6890355189.html">Seeking 10 people who love posting ads. $200+ daily</a>
+
+
+notest1
+https://losangeles.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890344791" href="https://losangeles.craigslist.org/ant/cpg/d/santa-monica-start-business-for-50/6890344791.html">Start a business for $50!</a>
+
+
+notest1
+https://losangeles.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890312849" href="https://losangeles.craigslist.org/lac/cpg/d/los-angeles-looking-for-freelancers/6890312849.html">Looking for freelancers good with computers(Lots of money)</a>
+
+
+notest1
+https://losangeles.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890205143" href="https://losangeles.craigslist.org/lac/cpg/d/los-angeles-25-for-las-vegas-travelers/6890205143.html">$25 for Las Vegas travelers market research video interviews</a>
+
+
+notest1
+https://losangeles.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6889937936" href="https://losangeles.craigslist.org/wst/cpg/d/los-angeles-get-free-products-plus-5/6889937936.html">Get free products plus $5 bonus for writing reviews</a>
+
+
 test1
-https://prescott.craigslist.org/search/sad?postedToday=1
-<li class="result-row" data-pid="6883829054">
-<a class="result-image gallery empty" href="https://phoenix.craigslist.org/wvl/cpg/d/phoenix-social-media-strategist/6883829054.html"></a>
-<p class="result-info">
-<span class="icon icon-star" role="button">
-<span class="screen-reader-text">favorite this post</span>
-</span>
-<time class="result-date" datetime="2019-05-07 15:48" title="Tue 07 May 03:48:07 PM">May  7</time>
-<a class="result-title hdrlnk" data-id="6883829054" href="https://phoenix.craigslist.org/wvl/cpg/d/phoenix-social-media-strategist/6883829054.html">SOCIAL MEDIA STRATEGIST</a>
-<span class="result-meta">
-<span class="nearby" title="phoenix, AZ">(phx)</span>
-<span class="result-tags">
-<span class="maptag" data-pid="6883829054">map</span>
-</span>
-<span class="banish icon icon-trash" role="button">
-<span class="screen-reader-text">hide this posting</span>
-</span>
-<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
-<a class="restore-link" href="#">
-<span class="restore-narrow-text">restore</span>
-<span class="restore-wide-text">restore this posting</span>
-</a>
-</span>
-</p>
-</li>
+https://losangeles.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
 test1
-https://prescott.craigslist.org/search/sad?postedToday=1
-<li class="result-row" data-pid="6883166852">
-<a class="result-image gallery" data-ids="1:01515_cxRkxNhu0B" href="https://phoenix.craigslist.org/evl/cpg/d/paradise-valley-phoenix-new-partners/6883166852.html">
-</a>
-<p class="result-info">
-<span class="icon icon-star" role="button">
-<span class="screen-reader-text">favorite this post</span>
-</span>
-<time class="result-date" datetime="2019-05-06 19:50" title="Mon 06 May 07:50:46 PM">May  6</time>
-<a class="result-title hdrlnk" data-id="6883166852" href="https://phoenix.craigslist.org/evl/cpg/d/paradise-valley-phoenix-new-partners/6883166852.html">PHOENIX - New Partners Pull in $1,800 Within 2-Days... ( PART-TIME WORK FROM HOM</a>
-<span class="result-meta">
-<span class="nearby" title="phoenix, AZ">(phx &gt; Work From Home Part Time Work)</span>
-<span class="result-tags">
-                    pic
-                    <span class="maptag" data-pid="6883166852">map</span>
-</span>
-<span class="banish icon icon-trash" role="button">
-<span class="screen-reader-text">hide this posting</span>
-</span>
-<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
-<a class="restore-link" href="#">
-<span class="restore-narrow-text">restore</span>
-<span class="restore-wide-text">restore this posting</span>
-</a>
-</span>
-</p>
-</li>
-test
-https://showlow.craigslist.org/search/crg?is_paid=all&postedToday=1
-test
-https://showlow.craigslist.org/search/web?postedToday=1
-test
-https://showlow.craigslist.org/search/med?postedToday=1
-test
-https://showlow.craigslist.org/search/sof?postedToday=1
-test
-https://showlow.craigslist.org/search/sad?postedToday=1
-test
-https://sierravista.craigslist.org/search/cpg?is_paid=all&postedToday=1
-test
-https://sierravista.craigslist.org/search/crg?is_paid=all&postedToday=1
-test
-https://sierravista.craigslist.org/search/web?postedToday=1
-test
-https://sierravista.craigslist.org/search/med?postedToday=1
-test
-https://sierravista.craigslist.org/search/sof?postedToday=1
-test
-https://sierravista.craigslist.org/search/sad?postedToday=1
-test
-https://tucson.craigslist.org/search/cpg?is_paid=all&postedToday=1
-test
-https://tucson.craigslist.org/search/crg?is_paid=all&postedToday=1
-test
-https://tucson.craigslist.org/search/web?postedToday=1
-test
-https://tucson.craigslist.org/search/med?postedToday=1
-test
-https://tucson.craigslist.org/search/sof?postedToday=1
+https://losangeles.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+test1
+https://losangeles.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+test1
+https://losangeles.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+0
+1
 notest
-https://tucson.craigslist.org/search/sof?postedToday=1
+https://losangeles.craigslist.org/search/crg?is_paid=all&postedToday=1
+
 notest1
-https://tucson.craigslist.org/search/sof?postedToday=1
-<li class="result-row" data-pid="6883149699">
-<a class="result-image gallery empty" href="https://tucson.craigslist.org/sad/d/tucson-looking-for-experienced-it/6883149699.html"></a>
-<p class="result-info">
-<span class="icon icon-star" role="button">
-<span class="screen-reader-text">favorite this post</span>
-</span>
-<time class="result-date" datetime="2019-05-06 19:12" title="Mon 06 May 07:12:57 PM">May  6</time>
-<a class="result-title hdrlnk" data-id="6883149699" href="https://tucson.craigslist.org/sad/d/tucson-looking-for-experienced-it/6883149699.html">Looking for Experienced IT Technicians</a>
-<span class="result-meta">
-<span class="result-hood"> (Tucson, AZ)</span>
-<span class="result-tags">
-<span class="maptag" data-pid="6883149699">map</span>
-</span>
-<span class="banish icon icon-trash" role="button">
-<span class="screen-reader-text">hide this posting</span>
-</span>
-<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
-<a class="restore-link" href="#">
-<span class="restore-narrow-text">restore</span>
-<span class="restore-wide-text">restore this posting</span>
-</a>
-</span>
-</p>
-</li>
+https://losangeles.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890664249" href="https://losangeles.craigslist.org/lgb/crg/d/long-beach-la-seeking-visual-artists/6890664249.html">LA: Seeking Visual Artists for a PAID commerical</a>
+
+
+notest1
+https://losangeles.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890652225" href="https://losangeles.craigslist.org/lac/crg/d/los-angeles-visual-artists-for-comic/6890652225.html">Visual Artists for Comic Book Projects; Illustrator, Inker, Colorist</a>
+
+
+notest1
+https://losangeles.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890591432" href="https://losangeles.craigslist.org/lac/crg/d/los-angeles-have-car-we-need-you-no/6890591432.html">Have a car? We need you! No Driving Required- Earn $800+ a month!</a>
+
+
+notest1
+https://losangeles.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890561818" href="https://losangeles.craigslist.org/lac/crg/d/los-angeles-3d-modeler-with-animation/6890561818.html">3d modeler with animation</a>
+
+
+notest1
+https://losangeles.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890558746" href="https://losangeles.craigslist.org/lac/crg/d/los-angeles-mosaic-artist-looking-for/6890558746.html">Mosaic artist looking for extra hands</a>
+
+
+notest1
+https://losangeles.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890537272" href="https://losangeles.craigslist.org/wst/crg/d/hermosa-beach-handbag-stylist-for/6890537272.html">Handbag Stylist for Photographer</a>
+
+
+notest1
+https://losangeles.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890530118" href="https://losangeles.craigslist.org/lac/crg/d/desert-hot-springs-voice-over-native/6890530118.html">Voice Over, Native German Speaker</a>
+
+
+notest1
+https://losangeles.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890456563" href="https://losangeles.craigslist.org/sgv/crg/d/los-angeles-restaurant-focus-groups/6890456563.html">Restaurant Focus Groups/Interviews</a>
+
+
+notest1
+https://losangeles.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890418395" href="https://losangeles.craigslist.org/wst/crg/d/venice-talented-experienced-video/6890418395.html">Talented &amp; experienced Video Editor needed to cut aerial reel</a>
+
+
+notest1
+https://losangeles.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890401039" href="https://losangeles.craigslist.org/lac/crg/d/torrance-looking-for-videographer/6890401039.html">Looking for a videographer</a>
+
+
+notest1
+https://losangeles.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890385421" href="https://losangeles.craigslist.org/lac/crg/d/los-angeles-marketing-and-fashion/6890385421.html">Marketing and Fashion Assistant Internship</a>
+
+
+notest1
+https://losangeles.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890318653" href="https://losangeles.craigslist.org/wst/crg/d/los-angeles-need-local-editor-for/6890318653.html">Need LOCAL Editor for Television Project</a>
+
+
+notest1
+https://losangeles.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890268447" href="https://losangeles.craigslist.org/lac/crg/d/los-angeles-im-mindset-biz-coach/6890268447.html">I'm a Mindset + Biz Coach Offering Free 5 Weeks For Beta Testers</a>
+
+
 test1
-https://tucson.craigslist.org/search/sof?postedToday=1
-<li class="result-row" data-pid="6883559802">
-<a class="result-image gallery empty" href="https://phoenix.craigslist.org/evl/sad/d/chandler-low-voltage-technician/6883559802.html"></a>
-<p class="result-info">
-<span class="icon icon-star" role="button">
-<span class="screen-reader-text">favorite this post</span>
-</span>
-<time class="result-date" datetime="2019-05-07 10:42" title="Tue 07 May 10:42:19 AM">May  7</time>
-<a class="result-title hdrlnk" data-id="6883559802" href="https://phoenix.craigslist.org/evl/sad/d/chandler-low-voltage-technician/6883559802.html">Low Voltage Technician</a>
-<span class="result-meta">
-<span class="nearby" title="phoenix, AZ">(phx &gt; Mesa)</span>
-<span class="result-tags">
-<span class="maptag" data-pid="6883559802">map</span>
-</span>
-<span class="banish icon icon-trash" role="button">
-<span class="screen-reader-text">hide this posting</span>
-</span>
-<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
-<a class="restore-link" href="#">
-<span class="restore-narrow-text">restore</span>
-<span class="restore-wide-text">restore this posting</span>
-</a>
-</span>
-</p>
-</li>
+https://losangeles.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+test1
+https://losangeles.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+test1
+https://losangeles.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+test1
+https://losangeles.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+0
+1
+2
+3
 test
-https://yuma.craigslist.org/search/cpg?is_paid=all&postedToday=1
+https://losangeles.craigslist.org/search/web?postedToday=1
+
+test
+https://losangeles.craigslist.org/search/med?postedToday=1
+
+0
 notest
-https://yuma.craigslist.org/search/cpg?is_paid=all&postedToday=1
+https://losangeles.craigslist.org/search/sof?postedToday=1
+
 notest1
-https://yuma.craigslist.org/search/cpg?is_paid=all&postedToday=1
-<li class="result-row" data-pid="6883139622">
-<a class="result-image gallery" data-ids="1:00W0W_9oTXy80wCdr,1:00000_cdSXgnoo48c,1:00z0z_bqk9wUGBmvv,1:00z0z_esoRHjBryUE,1:00N0N_22bwF0Qe2lu,1:00J0J_jHu1HilMuOH,1:00808_4txb67T4fcC,1:00q0q_5i4OYXqVLi9,1:00909_jteggcWCWeC,1:00v0v_kEP7MV4mkRu" href="https://yuma.craigslist.org/crg/d/yuma-salesperson-wanted/6883139622.html">
-</a>
-<p class="result-info">
-<span class="icon icon-star" role="button">
-<span class="screen-reader-text">favorite this post</span>
-</span>
-<time class="result-date" datetime="2019-05-06 18:52" title="Mon 06 May 06:52:18 PM">May  6</time>
-<a class="result-title hdrlnk" data-id="6883139622" href="https://yuma.craigslist.org/crg/d/yuma-salesperson-wanted/6883139622.html">Salesperson wanted</a>
-<span class="result-meta">
-<span class="result-hood"> (Yuma az)</span>
-<span class="result-tags">
-                    pic
-                    <span class="maptag" data-pid="6883139622">map</span>
-</span>
-<span class="banish icon icon-trash" role="button">
-<span class="screen-reader-text">hide this posting</span>
-</span>
-<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
-<a class="restore-link" href="#">
-<span class="restore-narrow-text">restore</span>
-<span class="restore-wide-text">restore this posting</span>
-</a>
-</span>
-</p>
-</li>
+https://losangeles.craigslist.org/search/sof?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890597032" href="https://losangeles.craigslist.org/wst/sof/d/los-angeles-senior-full-stack-engineer/6890597032.html">Senior Full Stack Engineer at Early-Stage Mobile AI Company</a>
+
+
+notest1
+https://losangeles.craigslist.org/search/sof?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890348887" href="https://losangeles.craigslist.org/wst/sof/d/los-angeles-software-engineer-game/6890348887.html">Software Engineer - Game Operations Tools</a>
+
+
 test1
-https://yuma.craigslist.org/search/cpg?is_paid=all&postedToday=1
-<li class="result-row" data-pid="6883700597">
-<a class="result-image gallery" data-ids="1:00Z0Z_3RsWmxkwWVt,1:00r0r_bnRi0SLguy3,1:00h0h_kR3SZtyF20B,1:00S0S_byZtgK04Coc,1:00s0s_9KGtIpA4lwS,1:00I0I_arJOk9X2Epo" href="https://palmsprings.craigslist.org/crg/d/palm-springs-awesome-art-teacher-wanted/6883700597.html">
-</a>
-<p class="result-info">
-<span class="icon icon-star" role="button">
-<span class="screen-reader-text">favorite this post</span>
-</span>
-<time class="result-date" datetime="2019-05-07 13:10" title="Tue 07 May 01:10:17 PM">May  7</time>
-<a class="result-title hdrlnk" data-id="6883700597" href="https://palmsprings.craigslist.org/crg/d/palm-springs-awesome-art-teacher-wanted/6883700597.html">Awesome Art teacher Wanted</a>
-<span class="result-meta">
-<span class="nearby" title="palm springs, CA">(psp &gt; Palm Springs / Palm Desert)</span>
-<span class="result-tags">
-                    pic
-                    <span class="maptag" data-pid="6883700597">map</span>
-</span>
-<span class="banish icon icon-trash" role="button">
-<span class="screen-reader-text">hide this posting</span>
-</span>
-<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
-<a class="restore-link" href="#">
-<span class="restore-narrow-text">restore</span>
-<span class="restore-wide-text">restore this posting</span>
-</a>
-</span>
-</p>
-</li>
+https://losangeles.craigslist.org/search/sof?postedToday=1
+
 test1
-https://yuma.craigslist.org/search/cpg?is_paid=all&postedToday=1
-<li class="result-row" data-pid="6883872179">
-<a class="result-image gallery" data-ids="1:00H0H_jydTOTRc8Ql" href="https://sandiego.craigslist.org/nsd/crg/d/carlsbad-faux-artist-assistant/6883872179.html">
-</a>
-<p class="result-info">
-<span class="icon icon-star" role="button">
-<span class="screen-reader-text">favorite this post</span>
-</span>
-<time class="result-date" datetime="2019-05-07 16:52" title="Tue 07 May 04:52:34 PM">May  7</time>
-<a class="result-title hdrlnk" data-id="6883872179" href="https://sandiego.craigslist.org/nsd/crg/d/carlsbad-faux-artist-assistant/6883872179.html">Faux artist assistant</a>
-<span class="result-meta">
-<span class="nearby" title="san diego">(sdo &gt; Oceanside)</span>
-<span class="result-tags">
-                    pic
-                    <span class="maptag" data-pid="6883872179">map</span>
-</span>
-<span class="banish icon icon-trash" role="button">
-<span class="screen-reader-text">hide this posting</span>
-</span>
-<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
-<a class="restore-link" href="#">
-<span class="restore-narrow-text">restore</span>
-<span class="restore-wide-text">restore this posting</span>
-</a>
-</span>
-</p>
-</li>
+https://losangeles.craigslist.org/search/sof?postedToday=1
+
 test1
-https://yuma.craigslist.org/search/cpg?is_paid=all&postedToday=1
-<li class="result-row" data-pid="6883339835">
-<a class="result-image gallery empty" href="https://sandiego.craigslist.org/csd/crg/d/san-diego-videographer-editor-for-june/6883339835.html"></a>
-<p class="result-info">
-<span class="icon icon-star" role="button">
-<span class="screen-reader-text">favorite this post</span>
-</span>
-<time class="result-date" datetime="2019-05-07 06:55" title="Tue 07 May 06:55:58 AM">May  7</time>
-<a class="result-title hdrlnk" data-id="6883339835" href="https://sandiego.craigslist.org/csd/crg/d/san-diego-videographer-editor-for-june/6883339835.html">Videographer / editor for June 14th and 15th</a>
-<span class="result-meta">
-<span class="nearby" title="san diego">(sdo &gt; San Diego, CA)</span>
-<span class="result-tags">
-<span class="maptag" data-pid="6883339835">map</span>
-</span>
-<span class="banish icon icon-trash" role="button">
-<span class="screen-reader-text">hide this posting</span>
-</span>
-<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
-<a class="restore-link" href="#">
-<span class="restore-narrow-text">restore</span>
-<span class="restore-wide-text">restore this posting</span>
-</a>
-</span>
-</p>
-</li>
+https://losangeles.craigslist.org/search/sof?postedToday=1
+
 test1
-https://yuma.craigslist.org/search/cpg?is_paid=all&postedToday=1
-<li class="result-row" data-pid="6883138427">
-<a class="result-image gallery empty" href="https://sandiego.craigslist.org/csd/crg/d/la-jolla-seeking-logo-graphic-designer/6883138427.html"></a>
-<p class="result-info">
-<span class="icon icon-star" role="button">
-<span class="screen-reader-text">favorite this post</span>
-</span>
-<time class="result-date" datetime="2019-05-06 18:49" title="Mon 06 May 06:49:56 PM">May  6</time>
-<a class="result-title hdrlnk" data-id="6883138427" href="https://sandiego.craigslist.org/csd/crg/d/la-jolla-seeking-logo-graphic-designer/6883138427.html">Seeking Logo/Graphic Designer For Amazon Fashion Brand</a>
-<span class="result-meta">
-<span class="nearby" title="san diego">(sdo)</span>
-<span class="result-tags">
-<span class="maptag" data-pid="6883138427">map</span>
-</span>
-<span class="banish icon icon-trash" role="button">
-<span class="screen-reader-text">hide this posting</span>
-</span>
-<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
-<a class="restore-link" href="#">
-<span class="restore-narrow-text">restore</span>
-<span class="restore-wide-text">restore this posting</span>
-</a>
-</span>
-</p>
-</li>
+https://losangeles.craigslist.org/search/sof?postedToday=1
+
+0
+1
+test
+https://losangeles.craigslist.org/search/sad?postedToday=1
+
+0
+1
+2
+notest
+https://newyork.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+notest1
+https://newyork.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890582193" href="https://newyork.craigslist.org/jsy/cpg/d/new-york-city-this-opportunity-is-for/6890582193.html">** THIS OPPORTUNITY IS FOR YOU!! I GUARANTEE IT! CAN START IMMEDIATELY - WORK FL</a>
+
+
+notest1
+https://newyork.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890532336" href="https://newyork.craigslist.org/brk/cpg/d/brooklyn-xerox-550-paper-jam-error/6890532336.html">xerox 550, paper jam error</a>
+
+
+notest1
+https://newyork.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890510271" href="https://newyork.craigslist.org/mnh/cpg/d/new-york-city-reactjs-tutor-needed/6890510271.html">REACT.JS Tutor Needed Urgently</a>
+
+
+notest1
+https://newyork.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890439326" href="https://newyork.craigslist.org/mnh/cpg/d/new-york-city-wanted-russian-social/6890439326.html">WANTED: RUSSIAN SOCIAL MEDIA MARKETING EXPERT (BASED IN RUSSIA)</a>
+
+
+notest1
+https://newyork.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890423009" href="https://newyork.craigslist.org/mnh/cpg/d/new-york-city-virtual-recruiter-wanted/6890423009.html">Virtual Recruiter Wanted</a>
+
+
+notest1
+https://newyork.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890351409" href="https://newyork.craigslist.org/mnh/cpg/d/new-york-city-msp-needs-it-field/6890351409.html">MSP Needs IT Field support (Manhattan, NYC)</a>
+
+
+notest1
+https://newyork.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890272438" href="https://newyork.craigslist.org/que/cpg/d/east-elmhurst-looking-for-part-time/6890272438.html">Looking for a Part Time Social Media Manager</a>
+
+
+notest1
+https://newyork.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890057316" href="https://newyork.craigslist.org/mnh/cpg/d/milwaukee-make-250-in-72-hours/6890057316.html">Make $250 In 72 HOURS!</a>
+
+
 test1
-https://yuma.craigslist.org/search/cpg?is_paid=all&postedToday=1
-<li class="result-row" data-pid="6883776667">
-<a class="result-image gallery" data-ids="1:00e0e_bIyRFhf5G8Z" href="https://phoenix.craigslist.org/nph/crg/d/chandler-come-tell-us-about-your-family/6883776667.html">
-</a>
-<p class="result-info">
-<span class="icon icon-star" role="button">
-<span class="screen-reader-text">favorite this post</span>
-</span>
-<time class="result-date" datetime="2019-05-07 14:39" title="Tue 07 May 02:39:19 PM">May  7</time>
-<a class="result-title hdrlnk" data-id="6883776667" href="https://phoenix.craigslist.org/nph/crg/d/chandler-come-tell-us-about-your-family/6883776667.html">Come tell us about your family preferences!</a>
-<span class="result-meta">
-<span class="nearby" title="phoenix, AZ">(phx)</span>
-<span class="result-tags">
-                    pic
-                    <span class="maptag" data-pid="6883776667">map</span>
-</span>
-<span class="banish icon icon-trash" role="button">
-<span class="screen-reader-text">hide this posting</span>
-</span>
-<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
-<a class="restore-link" href="#">
-<span class="restore-narrow-text">restore</span>
-<span class="restore-wide-text">restore this posting</span>
-</a>
-</span>
-</p>
-</li>
+https://newyork.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
 test1
-https://yuma.craigslist.org/search/cpg?is_paid=all&postedToday=1
-<li class="result-row" data-pid="6883577572">
-<a class="result-image gallery empty" href="https://phoenix.craigslist.org/cph/crg/d/phoenix-graphic-designer-freelancer-on/6883577572.html"></a>
-<p class="result-info">
-<span class="icon icon-star" role="button">
-<span class="screen-reader-text">favorite this post</span>
-</span>
-<time class="result-date" datetime="2019-05-07 11:00" title="Tue 07 May 11:00:15 AM">May  7</time>
-<a class="result-title hdrlnk" data-id="6883577572" href="https://phoenix.craigslist.org/cph/crg/d/phoenix-graphic-designer-freelancer-on/6883577572.html">Graphic Designer Freelancer on-site</a>
-<span class="result-meta">
-<span class="nearby" title="phoenix, AZ">(phx &gt; Downtown Phoenix)</span>
-<span class="result-tags">
-<span class="maptag" data-pid="6883577572">map</span>
-</span>
-<span class="banish icon icon-trash" role="button">
-<span class="screen-reader-text">hide this posting</span>
-</span>
-<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
-<a class="restore-link" href="#">
-<span class="restore-narrow-text">restore</span>
-<span class="restore-wide-text">restore this posting</span>
-</a>
-</span>
-</p>
-</li>
+https://newyork.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
 test1
-https://yuma.craigslist.org/search/cpg?is_paid=all&postedToday=1
-<li class="result-row" data-pid="6883556184">
-<a class="result-image gallery" data-ids="1:00Z0Z_eIcefeNdW1e" href="https://phoenix.craigslist.org/evl/crg/d/mesa-art-contest-three-prizes-mural-art/6883556184.html">
-</a>
-<p class="result-info">
-<span class="icon icon-star" role="button">
-<span class="screen-reader-text">favorite this post</span>
-</span>
-<time class="result-date" datetime="2019-05-07 10:38" title="Tue 07 May 10:38:49 AM">May  7</time>
-<a class="result-title hdrlnk" data-id="6883556184" href="https://phoenix.craigslist.org/evl/crg/d/mesa-art-contest-three-prizes-mural-art/6883556184.html">💲💲ART CONTEST - THREE (3) $250 PRIZES - MURAL ART💲💲</a>
-<span class="result-meta">
-<span class="nearby" title="phoenix, AZ">(phx &gt; MESA)</span>
-<span class="result-tags">
-                    pic
-                    <span class="maptag" data-pid="6883556184">map</span>
-</span>
-<span class="banish icon icon-trash" role="button">
-<span class="screen-reader-text">hide this posting</span>
-</span>
-<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
-<a class="restore-link" href="#">
-<span class="restore-narrow-text">restore</span>
-<span class="restore-wide-text">restore this posting</span>
-</a>
-</span>
-</p>
-</li>
+https://newyork.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
 test1
-https://yuma.craigslist.org/search/cpg?is_paid=all&postedToday=1
-<li class="result-row" data-pid="6883283321">
-<a class="result-image gallery empty" href="https://phoenix.craigslist.org/evl/crg/d/phoenix-landscaping-trimming-grass/6883283321.html"></a>
-<p class="result-info">
-<span class="icon icon-star" role="button">
-<span class="screen-reader-text">favorite this post</span>
-</span>
-<time class="result-date" datetime="2019-05-07 05:25" title="Tue 07 May 05:25:26 AM">May  7</time>
-<a class="result-title hdrlnk" data-id="6883283321" href="https://phoenix.craigslist.org/evl/crg/d/phoenix-landscaping-trimming-grass/6883283321.html">Landscaping, trimming grass cutting pool vacuuming</a>
-<span class="result-meta">
-<span class="nearby" title="phoenix, AZ">(phx &gt; Ahwatukee)</span>
-<span class="result-tags">
-<span class="maptag" data-pid="6883283321">map</span>
-</span>
-<span class="banish icon icon-trash" role="button">
-<span class="screen-reader-text">hide this posting</span>
-</span>
-<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
-<a class="restore-link" href="#">
-<span class="restore-narrow-text">restore</span>
-<span class="restore-wide-text">restore this posting</span>
-</a>
-</span>
-</p>
-</li>
+https://newyork.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+test1
+https://newyork.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+test1
+https://newyork.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+0
+1
+2
+notest
+https://newyork.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+notest1
+https://newyork.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890657984" href="https://newyork.craigslist.org/mnh/crg/d/bedford-hills-model-for-wind-photo-shoot/6890657984.html">Model for a wind photo shoot</a>
+
+
+notest1
+https://newyork.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890620966" href="https://newyork.craigslist.org/mnh/crg/d/new-york-city-photographer-videographer/6890620966.html">Photographer/Videographer/Hair-Makeup needed</a>
+
+
+notest1
+https://newyork.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890533905" href="https://newyork.craigslist.org/mnh/crg/d/new-york-city-restaurant-focus-groups/6890533905.html">Restaurant Focus Groups/Interviews</a>
+
+
+notest1
+https://newyork.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890529728" href="https://newyork.craigslist.org/fct/crg/d/norwalk-minds-studios-needs-creatives/6890529728.html">Minds Studios needs creatives</a>
+
+
+notest1
+https://newyork.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890481101" href="https://newyork.craigslist.org/que/crg/d/fresh-meadows-photographer-needed-for/6890481101.html">Photographer needed for party this Saturday 5/18 $250</a>
+
+
+notest1
+https://newyork.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890463606" href="https://newyork.craigslist.org/fct/crg/d/new-milford-photoshop-business-card/6890463606.html">Photoshop business card</a>
+
+
+notest1
+https://newyork.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890435910" href="https://newyork.craigslist.org/brk/crg/d/brooklyn-hairstylist-for-independent/6890435910.html">Hairstylist for Independent Film</a>
+
+
+notest1
+https://newyork.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890398478" href="https://newyork.craigslist.org/mnh/crg/d/astoria-interior-design-rendering/6890398478.html">Interior Design Rendering</a>
+
+
+notest1
+https://newyork.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890326740" href="https://newyork.craigslist.org/mnh/crg/d/new-york-city-audio-editor-on-site/6890326740.html">Audio editor - on-site</a>
+
+
+notest1
+https://newyork.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890233164" href="https://newyork.craigslist.org/mnh/crg/d/oakhurst-need-10-second-ads-produced/6890233164.html">I Need 10 Second Ads Produced. Create Concept, Film, Edit</a>
+
+
+notest1
+https://newyork.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890207897" href="https://newyork.craigslist.org/mnh/crg/d/new-york-city-photo-assistant/6890207897.html">Photo assistant</a>
+
+
+notest1
+https://newyork.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890205277" href="https://newyork.craigslist.org/brk/crg/d/astoria-animator-for-well-being-podcast/6890205277.html">Animator for a Well-Being Podcast</a>
+
+
+notest1
+https://newyork.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890187615" href="https://newyork.craigslist.org/brk/crg/d/brooklyn-seeking-fashion-illustrator-to/6890187615.html">Seeking Fashion illustrator to add to PrieView Luxury Clothing. Design</a>
+
+
+notest1
+https://newyork.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890172833" href="https://newyork.craigslist.org/mnh/crg/d/staten-island-illustrator-designer-for/6890172833.html">Illustrator/designer for instagram account wanted</a>
+
+
+notest1
+https://newyork.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890166597" href="https://newyork.craigslist.org/que/crg/d/long-island-city-freelance-retoucher/6890166597.html">Freelance Retoucher Entry Level for Photography Studio</a>
+
+
+notest1
+https://newyork.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890147166" href="https://newyork.craigslist.org/jsy/crg/d/hoboken-photograher-for-engagement/6890147166.html">Photograher for Engagement Dinner -3 hrs</a>
+
+
+notest1
+https://newyork.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890131139" href="https://newyork.craigslist.org/mnh/crg/d/new-york-city-budding-model-seeking/6890131139.html">Budding Model seeking Photographer TFP Test Shoots</a>
+
+
+notest1
+https://newyork.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890054928" href="https://newyork.craigslist.org/mnh/crg/d/new-york-city-web-designer/6890054928.html">Web designer</a>
+
+
+notest1
+https://newyork.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6889934368" href="https://newyork.craigslist.org/mnh/crg/d/new-york-city-video-clip-of-you/6889934368.html">Video Clip of You Discussing Immigration Issues for Art - $50 stipend</a>
+
+
+notest1
+https://newyork.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6889930629" href="https://newyork.craigslist.org/brk/crg/d/brooklyn-sustainable-design-company/6889930629.html">Sustainable Design Company Internship</a>
+
+
+notest1
+https://newyork.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6889918677" href="https://newyork.craigslist.org/mnh/crg/d/new-york-city-retoucher-needed-still/6889918677.html">Retoucher needed, still life product</a>
+
+
+test1
+https://newyork.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+test1
+https://newyork.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+test1
+https://newyork.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+test1
+https://newyork.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+test1
+https://newyork.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+test1
+https://newyork.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+notest
+https://newyork.craigslist.org/search/web?postedToday=1
+
+notest1
+https://newyork.craigslist.org/search/web?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890657984" href="https://newyork.craigslist.org/mnh/crg/d/bedford-hills-model-for-wind-photo-shoot/6890657984.html">Model for a wind photo shoot</a>
+
+
+notest1
+https://newyork.craigslist.org/search/web?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890620966" href="https://newyork.craigslist.org/mnh/crg/d/new-york-city-photographer-videographer/6890620966.html">Photographer/Videographer/Hair-Makeup needed</a>
+
+
+notest1
+https://newyork.craigslist.org/search/web?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890533905" href="https://newyork.craigslist.org/mnh/crg/d/new-york-city-restaurant-focus-groups/6890533905.html">Restaurant Focus Groups/Interviews</a>
+
+
+notest1
+https://newyork.craigslist.org/search/web?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890529728" href="https://newyork.craigslist.org/fct/crg/d/norwalk-minds-studios-needs-creatives/6890529728.html">Minds Studios needs creatives</a>
+
+
+notest1
+https://newyork.craigslist.org/search/web?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890481101" href="https://newyork.craigslist.org/que/crg/d/fresh-meadows-photographer-needed-for/6890481101.html">Photographer needed for party this Saturday 5/18 $250</a>
+
+
+notest1
+https://newyork.craigslist.org/search/web?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890463606" href="https://newyork.craigslist.org/fct/crg/d/new-milford-photoshop-business-card/6890463606.html">Photoshop business card</a>
+
+
+notest1
+https://newyork.craigslist.org/search/web?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890435910" href="https://newyork.craigslist.org/brk/crg/d/brooklyn-hairstylist-for-independent/6890435910.html">Hairstylist for Independent Film</a>
+
+
+notest1
+https://newyork.craigslist.org/search/web?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890398478" href="https://newyork.craigslist.org/mnh/crg/d/astoria-interior-design-rendering/6890398478.html">Interior Design Rendering</a>
+
+
+notest1
+https://newyork.craigslist.org/search/web?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890326740" href="https://newyork.craigslist.org/mnh/crg/d/new-york-city-audio-editor-on-site/6890326740.html">Audio editor - on-site</a>
+
+
+notest1
+https://newyork.craigslist.org/search/web?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890233164" href="https://newyork.craigslist.org/mnh/crg/d/oakhurst-need-10-second-ads-produced/6890233164.html">I Need 10 Second Ads Produced. Create Concept, Film, Edit</a>
+
+
+notest1
+https://newyork.craigslist.org/search/web?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890207897" href="https://newyork.craigslist.org/mnh/crg/d/new-york-city-photo-assistant/6890207897.html">Photo assistant</a>
+
+
+notest1
+https://newyork.craigslist.org/search/web?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890205277" href="https://newyork.craigslist.org/brk/crg/d/astoria-animator-for-well-being-podcast/6890205277.html">Animator for a Well-Being Podcast</a>
+
+
+notest1
+https://newyork.craigslist.org/search/web?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890187615" href="https://newyork.craigslist.org/brk/crg/d/brooklyn-seeking-fashion-illustrator-to/6890187615.html">Seeking Fashion illustrator to add to PrieView Luxury Clothing. Design</a>
+
+
+notest1
+https://newyork.craigslist.org/search/web?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890172833" href="https://newyork.craigslist.org/mnh/crg/d/staten-island-illustrator-designer-for/6890172833.html">Illustrator/designer for instagram account wanted</a>
+
+
+notest1
+https://newyork.craigslist.org/search/web?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890166597" href="https://newyork.craigslist.org/que/crg/d/long-island-city-freelance-retoucher/6890166597.html">Freelance Retoucher Entry Level for Photography Studio</a>
+
+
+notest1
+https://newyork.craigslist.org/search/web?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890147166" href="https://newyork.craigslist.org/jsy/crg/d/hoboken-photograher-for-engagement/6890147166.html">Photograher for Engagement Dinner -3 hrs</a>
+
+
+notest1
+https://newyork.craigslist.org/search/web?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890131139" href="https://newyork.craigslist.org/mnh/crg/d/new-york-city-budding-model-seeking/6890131139.html">Budding Model seeking Photographer TFP Test Shoots</a>
+
+
+notest1
+https://newyork.craigslist.org/search/web?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890054928" href="https://newyork.craigslist.org/mnh/crg/d/new-york-city-web-designer/6890054928.html">Web designer</a>
+
+
+notest1
+https://newyork.craigslist.org/search/web?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6889934368" href="https://newyork.craigslist.org/mnh/crg/d/new-york-city-video-clip-of-you/6889934368.html">Video Clip of You Discussing Immigration Issues for Art - $50 stipend</a>
+
+
+notest1
+https://newyork.craigslist.org/search/web?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6889930629" href="https://newyork.craigslist.org/brk/crg/d/brooklyn-sustainable-design-company/6889930629.html">Sustainable Design Company Internship</a>
+
+
+notest1
+https://newyork.craigslist.org/search/web?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6889918677" href="https://newyork.craigslist.org/mnh/crg/d/new-york-city-retoucher-needed-still/6889918677.html">Retoucher needed, still life product</a>
+
+
+test1
+https://newyork.craigslist.org/search/web?postedToday=1
+
+test1
+https://newyork.craigslist.org/search/web?postedToday=1
+
+test1
+https://newyork.craigslist.org/search/web?postedToday=1
+
+test1
+https://newyork.craigslist.org/search/web?postedToday=1
+
+test1
+https://newyork.craigslist.org/search/web?postedToday=1
+
+test1
+https://newyork.craigslist.org/search/web?postedToday=1
+
+0
+1
+2
+3
+4
+notest
+https://newyork.craigslist.org/search/med?postedToday=1
+
+notest1
+https://newyork.craigslist.org/search/med?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890544409" href="https://newyork.craigslist.org/brk/med/d/brooklyn-interior-designer-junior/6890544409.html">Interior Designer Junior</a>
+
+
+notest1
+https://newyork.craigslist.org/search/med?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890542799" href="https://newyork.craigslist.org/mnh/med/d/new-york-city-graphic-designer/6890542799.html">Graphic Designer</a>
+
+
+notest1
+https://newyork.craigslist.org/search/med?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890463401" href="https://newyork.craigslist.org/mnh/med/d/new-york-city-ecommerce-photography/6890463401.html">Ecommerce Photography</a>
+
+
+notest1
+https://newyork.craigslist.org/search/med?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6889933085" href="https://newyork.craigslist.org/mnh/med/d/new-york-city-graphic-designer-junior/6889933085.html">Graphic Designer Junior Sleepwear</a>
+
+
+notest1
+https://newyork.craigslist.org/search/med?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6889930275" href="https://newyork.craigslist.org/mnh/med/d/new-york-city-website-manager-garment/6889930275.html">Website Manager - Garment Center</a>
+
+
+test1
+https://newyork.craigslist.org/search/med?postedToday=1
+
+test1
+https://newyork.craigslist.org/search/med?postedToday=1
+
+test1
+https://newyork.craigslist.org/search/med?postedToday=1
+
+test1
+https://newyork.craigslist.org/search/med?postedToday=1
+
+test1
+https://newyork.craigslist.org/search/med?postedToday=1
+
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
 test
-https://yuma.craigslist.org/search/web?postedToday=1
+https://newyork.craigslist.org/search/sof?postedToday=1
+
+0
+1
+2
+3
+4
 test
-https://yuma.craigslist.org/search/med?postedToday=1
+https://newyork.craigslist.org/search/sad?postedToday=1
+
+0
+1
+2
+notest
+https://seattle.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+notest1
+https://seattle.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890578264" href="https://seattle.craigslist.org/oly/cpg/d/olympia-paid-research-study-for/6890578264.html">Paid Research Study for Assistive Tech users</a>
+
+
+notest1
+https://seattle.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890577415" href="https://seattle.craigslist.org/see/cpg/d/seattle-playtest-video-game-and-earn-50/6890577415.html">Playtest a video game and earn a $50 gift card!</a>
+
+
+notest1
+https://seattle.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890575153" href="https://seattle.craigslist.org/see/cpg/d/seattle-paid-research-study-for/6890575153.html">Paid Research Study for Assistive Tech users</a>
+
+
+notest1
+https://seattle.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890555031" href="https://seattle.craigslist.org/see/cpg/d/seattle-3d-modeler-animation-cinema/6890555031.html">3d modeler/animation - cinema quality</a>
+
+
+notest1
+https://seattle.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890053238" href="https://seattle.craigslist.org/see/cpg/d/seattle-need-cash-product-researcher/6890053238.html">Need Cash?  Product Researcher Needed!!!</a>
+
+
+notest1
+https://seattle.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890053177" href="https://seattle.craigslist.org/see/cpg/d/auburn-seattle-per-day-paid-daily-t-gig/6890053177.html">SEATTLE - ($295-$595+) PER DAY - Paid Daily - P/T GIG | ( NEW SMS TECHNOLOGY )</a>
+
+
+notest1
+https://seattle.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890052079" href="https://seattle.craigslist.org/sno/cpg/d/seattle-marketing-help-no-experience/6890052079.html">Marketing Help - No Experience Required</a>
+
+
+notest1
+https://seattle.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890044314" href="https://seattle.craigslist.org/tac/cpg/d/seattle-tech-product-testers-wanted/6890044314.html">Tech Product Testers Wanted</a>
+
+
+notest1
+https://seattle.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890043872" href="https://seattle.craigslist.org/est/cpg/d/seattle-need-cash-hiring-virtual/6890043872.html">Need Cash? Hiring Virtual Reality Product Testers</a>
+
+
+notest1
+https://seattle.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890042912" href="https://seattle.craigslist.org/est/cpg/d/seattle-virtual-reality-product-testers/6890042912.html">Virtual Reality Product Testers</a>
+
+
+0
+1
+2
+notest
+https://seattle.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+notest1
+https://seattle.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890668843" href="https://seattle.craigslist.org/see/crg/d/seattle-seattle-seeking-visual-artists/6890668843.html">Seattle: Seeking Visual Artists for a PAID commercial</a>
+
+
+notest1
+https://seattle.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890559086" href="https://seattle.craigslist.org/est/crg/d/duvall-maker-engineer-wanted/6890559086.html">Maker engineer wanted</a>
+
+
+notest1
+https://seattle.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890528670" href="https://seattle.craigslist.org/est/crg/d/mercer-island-family-photographer/6890528670.html">Family Photographer</a>
+
+
+notest1
+https://seattle.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890157729" href="https://seattle.craigslist.org/see/crg/d/seattle-fun-way-to-make-75-in-40-min/6890157729.html">FUN WAY TO MAKE $75 IN 40 MIN!</a>
+
+
+notest1
+https://seattle.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6889985080" href="https://seattle.craigslist.org/see/crg/d/seattle-need-photoshop-help/6889985080.html">NEED PHOTOSHOP HELP</a>
+
+
+notest1
+https://seattle.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6889984596" href="https://seattle.craigslist.org/see/crg/d/seattle-participants-for-neighborhood/6889984596.html">Participants for Neighborhood Housing Research: $75 Gift Card</a>
+
+
+notest
+https://seattle.craigslist.org/search/web?postedToday=1
+
+notest1
+https://seattle.craigslist.org/search/web?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890668843" href="https://seattle.craigslist.org/see/crg/d/seattle-seattle-seeking-visual-artists/6890668843.html">Seattle: Seeking Visual Artists for a PAID commercial</a>
+
+
+notest1
+https://seattle.craigslist.org/search/web?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890559086" href="https://seattle.craigslist.org/est/crg/d/duvall-maker-engineer-wanted/6890559086.html">Maker engineer wanted</a>
+
+
+notest1
+https://seattle.craigslist.org/search/web?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890528670" href="https://seattle.craigslist.org/est/crg/d/mercer-island-family-photographer/6890528670.html">Family Photographer</a>
+
+
+notest1
+https://seattle.craigslist.org/search/web?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890157729" href="https://seattle.craigslist.org/see/crg/d/seattle-fun-way-to-make-75-in-40-min/6890157729.html">FUN WAY TO MAKE $75 IN 40 MIN!</a>
+
+
+notest1
+https://seattle.craigslist.org/search/web?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6889985080" href="https://seattle.craigslist.org/see/crg/d/seattle-need-photoshop-help/6889985080.html">NEED PHOTOSHOP HELP</a>
+
+
+notest1
+https://seattle.craigslist.org/search/web?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6889984596" href="https://seattle.craigslist.org/see/crg/d/seattle-participants-for-neighborhood/6889984596.html">Participants for Neighborhood Housing Research: $75 Gift Card</a>
+
+
+0
+1
+2
+3
+notest
+https://seattle.craigslist.org/search/med?postedToday=1
+
+notest1
+https://seattle.craigslist.org/search/med?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890326585" href="https://seattle.craigslist.org/see/med/d/seattle-interactive-designer-art/6890326585.html">Interactive Designer &amp; Art Director</a>
+
+
+notest1
+https://seattle.craigslist.org/search/med?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890000891" href="https://seattle.craigslist.org/see/med/d/renton-marketing-producer-ta0r066/6890000891.html">Marketing Producer - TA0R066</a>
+
+
+0
+notest
+https://seattle.craigslist.org/search/sof?postedToday=1
+
+notest1
+https://seattle.craigslist.org/search/sof?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890678258" href="https://seattle.craigslist.org/est/sof/d/redmond-biller-integration-engineer/6890678258.html">Biller Integration Engineer</a>
+
+
+notest1
+https://seattle.craigslist.org/search/sof?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890646816" href="https://seattle.craigslist.org/est/sof/d/bellevue-1-project-manager-and-3/6890646816.html">1 Project Manager and 3 Software Engineers</a>
+
+
+notest1
+https://seattle.craigslist.org/search/sof?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890567799" href="https://seattle.craigslist.org/see/sof/d/seattle-software-engineering-project/6890567799.html">Software Engineering Project Contract Hire (Remote Work)</a>
+
+
+notest1
+https://seattle.craigslist.org/search/sof?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890361679" href="https://seattle.craigslist.org/see/sof/d/seattle-intriguing-non-profit-searching/6890361679.html">Intriguing Non-Profit Searching For Talented Application Developer</a>
+
+
+notest1
+https://seattle.craigslist.org/search/sof?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890345872" href="https://seattle.craigslist.org/see/sof/d/bellevue-multiple-technical-positions/6890345872.html">Multiple Technical Positions</a>
+
+
+0
+1
 test
-https://yuma.craigslist.org/search/sof?postedToday=1
+https://seattle.craigslist.org/search/sad?postedToday=1
+
+0
+1
+2
+3
+4
+5
+6
+notest
+https://orangecounty.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+notest1
+https://orangecounty.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890639272" href="https://orangecounty.craigslist.org/cpg/d/newport-beach-video-editor/6890639272.html">Video Editor</a>
+
+
+notest1
+https://orangecounty.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890039882" href="https://orangecounty.craigslist.org/cpg/d/newport-beach-need-crypto-computer-help/6890039882.html">Need CRYPTO computer help</a>
+
+
+test1
+https://orangecounty.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+test1
+https://orangecounty.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+test1
+https://orangecounty.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+test1
+https://orangecounty.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+test1
+https://orangecounty.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+test1
+https://orangecounty.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+test1
+https://orangecounty.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+test1
+https://orangecounty.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+test1
+https://orangecounty.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+test1
+https://orangecounty.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+test1
+https://orangecounty.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+test1
+https://orangecounty.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+test1
+https://orangecounty.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+test1
+https://orangecounty.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+test1
+https://orangecounty.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+test1
+https://orangecounty.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+test1
+https://orangecounty.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+test1
+https://orangecounty.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+test1
+https://orangecounty.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+test1
+https://orangecounty.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+test1
+https://orangecounty.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+0
+notest
+https://orangecounty.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+notest1
+https://orangecounty.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890465691" href="https://orangecounty.craigslist.org/crg/d/newport-beach-video-demonstration/6890465691.html">Video Demonstration needed for a medical products presentation</a>
+
+
+notest1
+https://orangecounty.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890380358" href="https://orangecounty.craigslist.org/crg/d/laguna-beach-creative-art-model/6890380358.html">Creative Art Model</a>
+
+
+test1
+https://orangecounty.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+test1
+https://orangecounty.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+test1
+https://orangecounty.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+test1
+https://orangecounty.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+test1
+https://orangecounty.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+test1
+https://orangecounty.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+test1
+https://orangecounty.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+test1
+https://orangecounty.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+test1
+https://orangecounty.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+test1
+https://orangecounty.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+test1
+https://orangecounty.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+test1
+https://orangecounty.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+test1
+https://orangecounty.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+test1
+https://orangecounty.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+test1
+https://orangecounty.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+test1
+https://orangecounty.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+test1
+https://orangecounty.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+test1
+https://orangecounty.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+test1
+https://orangecounty.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+0
+1
 test
-https://yuma.craigslist.org/search/sad?postedToday=1
+https://orangecounty.craigslist.org/search/web?postedToday=1
+
+0
+1
+2
+3
+4
+5
+6
+7
+8
+notest
+https://orangecounty.craigslist.org/search/med?postedToday=1
+
+notest1
+https://orangecounty.craigslist.org/search/med?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890669143" href="https://orangecounty.craigslist.org/med/d/los-alamitos-sign-designer-graphic/6890669143.html">SIGN DESIGNER-GRAPHIC ARTIST</a>
+
+
+test1
+https://orangecounty.craigslist.org/search/med?postedToday=1
+
+test1
+https://orangecounty.craigslist.org/search/med?postedToday=1
+
+test1
+https://orangecounty.craigslist.org/search/med?postedToday=1
+
+test1
+https://orangecounty.craigslist.org/search/med?postedToday=1
+
+test1
+https://orangecounty.craigslist.org/search/med?postedToday=1
+
+test1
+https://orangecounty.craigslist.org/search/med?postedToday=1
+
+test1
+https://orangecounty.craigslist.org/search/med?postedToday=1
+
+test1
+https://orangecounty.craigslist.org/search/med?postedToday=1
+
+test1
+https://orangecounty.craigslist.org/search/med?postedToday=1
+
+test1
+https://orangecounty.craigslist.org/search/med?postedToday=1
+
+test1
+https://orangecounty.craigslist.org/search/med?postedToday=1
+
+0
+1
+2
+notest
+https://orangecounty.craigslist.org/search/sof?postedToday=1
+
+notest1
+https://orangecounty.craigslist.org/search/sof?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890394947" href="https://orangecounty.craigslist.org/sof/d/irvine-data-analyst/6890394947.html">Data Analyst</a>
+
+
+notest1
+https://orangecounty.craigslist.org/search/sof?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890207175" href="https://orangecounty.craigslist.org/sof/d/santa-ana-draftsman-for-cabinet-shop/6890207175.html">Draftsman for Cabinet Shop</a>
+
+
+test1
+https://orangecounty.craigslist.org/search/sof?postedToday=1
+
+test1
+https://orangecounty.craigslist.org/search/sof?postedToday=1
+
+test1
+https://orangecounty.craigslist.org/search/sof?postedToday=1
+
+test1
+https://orangecounty.craigslist.org/search/sof?postedToday=1
+
+test1
+https://orangecounty.craigslist.org/search/sof?postedToday=1
+
+notest
+https://orangecounty.craigslist.org/search/sad?postedToday=1
+
+notest1
+https://orangecounty.craigslist.org/search/sad?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890394947" href="https://orangecounty.craigslist.org/sof/d/irvine-data-analyst/6890394947.html">Data Analyst</a>
+
+
+notest1
+https://orangecounty.craigslist.org/search/sad?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890207175" href="https://orangecounty.craigslist.org/sof/d/santa-ana-draftsman-for-cabinet-shop/6890207175.html">Draftsman for Cabinet Shop</a>
+
+
+test1
+https://orangecounty.craigslist.org/search/sad?postedToday=1
+
+test1
+https://orangecounty.craigslist.org/search/sad?postedToday=1
+
+test1
+https://orangecounty.craigslist.org/search/sad?postedToday=1
+
+test1
+https://orangecounty.craigslist.org/search/sad?postedToday=1
+
+test1
+https://orangecounty.craigslist.org/search/sad?postedToday=1
+
+notest
+https://sandiego.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+notest1
+https://sandiego.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890394947" href="https://orangecounty.craigslist.org/sof/d/irvine-data-analyst/6890394947.html">Data Analyst</a>
+
+
+notest1
+https://sandiego.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890207175" href="https://orangecounty.craigslist.org/sof/d/santa-ana-draftsman-for-cabinet-shop/6890207175.html">Draftsman for Cabinet Shop</a>
+
+
+test1
+https://sandiego.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+test1
+https://sandiego.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+test1
+https://sandiego.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+test1
+https://sandiego.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+test1
+https://sandiego.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+0
+1
+2
+3
+4
+notest
+https://sandiego.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+notest1
+https://sandiego.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890674416" href="https://sandiego.craigslist.org/csd/crg/d/san-diego-photographers-assistant/6890674416.html">Photographer's assistant</a>
+
+
+notest1
+https://sandiego.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890567279" href="https://sandiego.craigslist.org/csd/crg/d/san-diego-sign-artist-calligraphy/6890567279.html">Sign Artist/Calligraphy expert needed</a>
+
+
+notest1
+https://sandiego.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890500063" href="https://sandiego.craigslist.org/nsd/crg/d/rancho-santa-fe-admin-assistant-for-4/6890500063.html">Admin Assistant for 4 weeks (July-August)</a>
+
+
+notest1
+https://sandiego.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890318801" href="https://sandiego.craigslist.org/csd/crg/d/san-diego-ukelele-tutor-for-6-year-old/6890318801.html">Ukelele tutor for 6 year old wanted!</a>
+
+
+test1
+https://sandiego.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+test1
+https://sandiego.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+test1
+https://sandiego.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+test1
+https://sandiego.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+test1
+https://sandiego.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+test1
+https://sandiego.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+test1
+https://sandiego.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+test1
+https://sandiego.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+test1
+https://sandiego.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+test1
+https://sandiego.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+test1
+https://sandiego.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+test1
+https://sandiego.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+test1
+https://sandiego.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+test1
+https://sandiego.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+test1
+https://sandiego.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+test1
+https://sandiego.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+0
 test
-https://fayar.craigslist.org/search/cpg?is_paid=all&postedToday=1
+https://sandiego.craigslist.org/search/web?postedToday=1
+
+0
+1
+notest
+https://sandiego.craigslist.org/search/med?postedToday=1
+
+notest1
+https://sandiego.craigslist.org/search/med?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890655791" href="https://sandiego.craigslist.org/esd/med/d/la-mesa-engraver-trainee/6890655791.html">Engraver Trainee</a>
+
+
+notest1
+https://sandiego.craigslist.org/search/med?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890434335" href="https://sandiego.craigslist.org/csd/med/d/san-diego-production-graphic-designer/6890434335.html">Production Graphic Designer</a>
+
+
+test1
+https://sandiego.craigslist.org/search/med?postedToday=1
+
+test1
+https://sandiego.craigslist.org/search/med?postedToday=1
+
+test1
+https://sandiego.craigslist.org/search/med?postedToday=1
+
+test1
+https://sandiego.craigslist.org/search/med?postedToday=1
+
+test1
+https://sandiego.craigslist.org/search/med?postedToday=1
+
+test1
+https://sandiego.craigslist.org/search/med?postedToday=1
+
+test1
+https://sandiego.craigslist.org/search/med?postedToday=1
+
+test1
+https://sandiego.craigslist.org/search/med?postedToday=1
+
+test1
+https://sandiego.craigslist.org/search/med?postedToday=1
+
+notest
+https://sandiego.craigslist.org/search/sof?postedToday=1
+
+notest1
+https://sandiego.craigslist.org/search/sof?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890655791" href="https://sandiego.craigslist.org/esd/med/d/la-mesa-engraver-trainee/6890655791.html">Engraver Trainee</a>
+
+
+notest1
+https://sandiego.craigslist.org/search/sof?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890434335" href="https://sandiego.craigslist.org/csd/med/d/san-diego-production-graphic-designer/6890434335.html">Production Graphic Designer</a>
+
+
+test1
+https://sandiego.craigslist.org/search/sof?postedToday=1
+
+test1
+https://sandiego.craigslist.org/search/sof?postedToday=1
+
+test1
+https://sandiego.craigslist.org/search/sof?postedToday=1
+
+test1
+https://sandiego.craigslist.org/search/sof?postedToday=1
+
+test1
+https://sandiego.craigslist.org/search/sof?postedToday=1
+
+test1
+https://sandiego.craigslist.org/search/sof?postedToday=1
+
+test1
+https://sandiego.craigslist.org/search/sof?postedToday=1
+
+test1
+https://sandiego.craigslist.org/search/sof?postedToday=1
+
+test1
+https://sandiego.craigslist.org/search/sof?postedToday=1
+
+0
+1
+2
+3
+notest
+https://sandiego.craigslist.org/search/sad?postedToday=1
+
+notest1
+https://sandiego.craigslist.org/search/sad?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890641180" href="https://sandiego.craigslist.org/csd/sad/d/san-diego-systems-engineer/6890641180.html">Systems Engineer</a>
+
+
+test1
+https://sandiego.craigslist.org/search/sad?postedToday=1
+
+test1
+https://sandiego.craigslist.org/search/sad?postedToday=1
+
+test1
+https://sandiego.craigslist.org/search/sad?postedToday=1
+
+test1
+https://sandiego.craigslist.org/search/sad?postedToday=1
+
+0
+1
+2
+3
+4
+notest
+https://chicago.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+notest1
+https://chicago.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890687243" href="https://chicago.craigslist.org/chc/cpg/d/chicago-wfh-lead-agent-make-50-of-sale/6890687243.html">WFH Lead Agent, Make 50% of Sale, Daily Pay!</a>
+
+
+notest1
+https://chicago.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890582163" href="https://chicago.craigslist.org/chc/cpg/d/chico-this-opportunity-is-for-you/6890582163.html">** THIS OPPORTUNITY IS FOR YOU!! I GUARANTEE IT!  CAN START IMMEDIATELY - WORK F</a>
+
+
+notest1
+https://chicago.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890533078" href="https://chicago.craigslist.org/wcl/cpg/d/shorewood-tech-savvy-service-rep/6890533078.html">Tech Savvy Service Rep</a>
+
+
+notest1
+https://chicago.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890493893" href="https://chicago.craigslist.org/chc/cpg/d/chicago-learn-how-to-day-trade-legit/6890493893.html">Learn how to day trade legit life changing !!!!</a>
+
+
+notest1
+https://chicago.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890358667" href="https://chicago.craigslist.org/sox/cpg/d/chicago-online-data-research/6890358667.html">Online Data Research</a>
+
+
+notest1
+https://chicago.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890258137" href="https://chicago.craigslist.org/chc/cpg/d/chicago-paid-market-research-nutrition/6890258137.html">Paid Market Research - Nutrition Study ($25)</a>
+
+
+notest1
+https://chicago.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6889979438" href="https://chicago.craigslist.org/chc/cpg/d/grant-park-get-paid-to-play-pokmon-go/6889979438.html">Get paid to play Pokémon Go</a>
+
+
+0
+1
+2
+3
+4
+5
+notest
+https://chicago.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+notest1
+https://chicago.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890685918" href="https://chicago.craigslist.org/chc/crg/d/chicago-chicago-seekin-visual-artists/6890685918.html">Chicago: Seekin VISUAL ARTISTS for a PAID commercial</a>
+
+
+notest1
+https://chicago.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890457703" href="https://chicago.craigslist.org/nwc/crg/d/chicago-restaurant-focus-groups/6890457703.html">Restaurant Focus Groups/Interviews</a>
+
+
+notest1
+https://chicago.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890381511" href="https://chicago.craigslist.org/chc/crg/d/chicago-intern-for-product-launch/6890381511.html">Intern for Product Launch</a>
+
+
+0
+1
+2
 test
-https://fayar.craigslist.org/search/crg?is_paid=all&postedToday=1
+https://chicago.craigslist.org/search/web?postedToday=1
+
+0
+notest
+https://chicago.craigslist.org/search/med?postedToday=1
+
+notest1
+https://chicago.craigslist.org/search/med?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890306003" href="https://chicago.craigslist.org/chc/med/d/chicago-photo-booth-technician-needed/6890306003.html">Photo Booth Technician Needed On 5-19-19, Fast Pay (Chicago)</a>
+
+
+test1
+https://chicago.craigslist.org/search/med?postedToday=1
+
+0
+1
+2
+3
+4
+5
+notest
+https://chicago.craigslist.org/search/sof?postedToday=1
+
+notest1
+https://chicago.craigslist.org/search/sof?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890277706" href="https://chicago.craigslist.org/chc/sof/d/chicago-sr-net-developer-team-lead/6890277706.html">Sr. .NET Developer - Team Lead</a>
+
+
+notest1
+https://chicago.craigslist.org/search/sof?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890000428" href="https://chicago.craigslist.org/chc/sof/d/chicago-software-development-engineer/6890000428.html">Software Development Engineer - TA0R066</a>
+
+
+notest1
+https://chicago.craigslist.org/search/sof?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6889999906" href="https://chicago.craigslist.org/chc/sof/d/chicago-software-development-engineer/6889999906.html">Software Development Engineer - TA0R046</a>
+
+
+notest
+https://chicago.craigslist.org/search/sad?postedToday=1
+
+notest1
+https://chicago.craigslist.org/search/sad?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890277706" href="https://chicago.craigslist.org/chc/sof/d/chicago-sr-net-developer-team-lead/6890277706.html">Sr. .NET Developer - Team Lead</a>
+
+
+notest1
+https://chicago.craigslist.org/search/sad?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890000428" href="https://chicago.craigslist.org/chc/sof/d/chicago-software-development-engineer/6890000428.html">Software Development Engineer - TA0R066</a>
+
+
+notest1
+https://chicago.craigslist.org/search/sad?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6889999906" href="https://chicago.craigslist.org/chc/sof/d/chicago-software-development-engineer/6889999906.html">Software Development Engineer - TA0R046</a>
+
+
+0
+notest
+https://sacramento.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+notest1
+https://sacramento.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890537132" href="https://sacramento.craigslist.org/cpg/d/sacramento-reliable-part-time-work/6890537132.html">Reliable Part time work START ASAP! Computer &amp; Internet Required.</a>
+
+
+test1
+https://sacramento.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+test1
+https://sacramento.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+test1
+https://sacramento.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+test1
+https://sacramento.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+test1
+https://sacramento.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+test1
+https://sacramento.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+test1
+https://sacramento.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+test1
+https://sacramento.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+test1
+https://sacramento.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+test1
+https://sacramento.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+test1
+https://sacramento.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+test1
+https://sacramento.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+0
+1
+2
+3
+4
+5
+6
+notest
+https://sacramento.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+notest1
+https://sacramento.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890163369" href="https://sacramento.craigslist.org/crg/d/sacramento-looking-for-wedding/6890163369.html">Looking for a Wedding Videographer in Sacramento Area!</a>
+
+
+notest1
+https://sacramento.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6889965745" href="https://sacramento.craigslist.org/crg/d/mi-wuk-village-graphic-designer-needed/6889965745.html">Graphic Designer Needed</a>
+
+
+test1
+https://sacramento.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+test1
+https://sacramento.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+test1
+https://sacramento.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+test1
+https://sacramento.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+test1
+https://sacramento.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+test1
+https://sacramento.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+test1
+https://sacramento.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+test1
+https://sacramento.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+test1
+https://sacramento.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+test1
+https://sacramento.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+test1
+https://sacramento.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+test1
+https://sacramento.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+test1
+https://sacramento.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+test1
+https://sacramento.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+notest
+https://sacramento.craigslist.org/search/web?postedToday=1
+
+notest1
+https://sacramento.craigslist.org/search/web?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890608044" href="https://sacramento.craigslist.org/web/d/sacramento-web-developer/6890608044.html">Web Developer</a>
+
+
+test1
+https://sacramento.craigslist.org/search/web?postedToday=1
+
+0
+1
+2
 test
-https://fayar.craigslist.org/search/web?postedToday=1
+https://sacramento.craigslist.org/search/med?postedToday=1
+
+0
+1
 test
-https://fayar.craigslist.org/search/med?postedToday=1
+https://sacramento.craigslist.org/search/sof?postedToday=1
+
+0
+1
+2
+notest
+https://sacramento.craigslist.org/search/sad?postedToday=1
+
+notest1
+https://sacramento.craigslist.org/search/sad?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890558039" href="https://sacramento.craigslist.org/sad/d/woodland-warehouse-data-administrator/6890558039.html">Warehouse Data Administrator</a>
+
+
+test1
+https://sacramento.craigslist.org/search/sad?postedToday=1
+
+test1
+https://sacramento.craigslist.org/search/sad?postedToday=1
+
+test1
+https://sacramento.craigslist.org/search/sad?postedToday=1
+
+0
+1
+2
+notest
+https://portland.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+notest1
+https://portland.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890537857" href="https://portland.craigslist.org/yam/cpg/d/mcminnville-bookkeeper/6890537857.html">Bookkeeper</a>
+
+
+notest1
+https://portland.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890532183" href="https://portland.craigslist.org/mlt/cpg/d/portland-railing-gates-fences/6890532183.html">Railing, Gates, Fences manufacture estimator, blueprint, autocad, bid</a>
+
+
+notest1
+https://portland.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890214673" href="https://portland.craigslist.org/wsc/cpg/d/portland-product-testing/6890214673.html">Product Testing</a>
+
+
+test1
+https://portland.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+test1
+https://portland.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+test1
+https://portland.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+test1
+https://portland.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+test1
+https://portland.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+test1
+https://portland.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+test1
+https://portland.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+test1
+https://portland.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+test1
+https://portland.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+test1
+https://portland.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+test1
+https://portland.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+test1
+https://portland.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+test1
+https://portland.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+0
+notest
+https://portland.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+notest1
+https://portland.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890674312" href="https://portland.craigslist.org/mlt/crg/d/portland-portland-seeking-visual/6890674312.html">Portland: Seeking Visual Artists for a PAID commercial</a>
+
+
+notest1
+https://portland.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890665856" href="https://portland.craigslist.org/wsc/crg/d/beaverton-vinyl-wraps-and-application/6890665856.html">Vinyl Wraps and application</a>
+
+
+notest1
+https://portland.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890000491" href="https://portland.craigslist.org/grg/crg/d/hood-river-bring-me-food/6890000491.html">Bring me food</a>
+
+
+test1
+https://portland.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+test1
+https://portland.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+test1
+https://portland.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+test1
+https://portland.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+test1
+https://portland.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+test1
+https://portland.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+test1
+https://portland.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+0
+1
+2
+3
 test
-https://fayar.craigslist.org/search/sof?postedToday=1
+https://portland.craigslist.org/search/web?postedToday=1
+
+0
+test
+https://portland.craigslist.org/search/med?postedToday=1
+
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+notest
+https://portland.craigslist.org/search/sof?postedToday=1
+
+notest1
+https://portland.craigslist.org/search/sof?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890586507" href="https://portland.craigslist.org/mlt/sof/d/gresham-jr-php-developer/6890586507.html">Jr. PHP Developer</a>
+
+
+notest1
+https://portland.craigslist.org/search/sof?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890541086" href="https://portland.craigslist.org/mlt/sof/d/portland-crm-manager/6890541086.html">CRM Manager</a>
+
+
+notest1
+https://portland.craigslist.org/search/sof?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890033940" href="https://portland.craigslist.org/mlt/sof/d/portland-it-client-services-temp/6890033940.html">IT - Client Services (Temp)</a>
+
+
+test1
+https://portland.craigslist.org/search/sof?postedToday=1
+
+test1
+https://portland.craigslist.org/search/sof?postedToday=1
+
+test1
+https://portland.craigslist.org/search/sof?postedToday=1
+
+test1
+https://portland.craigslist.org/search/sof?postedToday=1
+
+test1
+https://portland.craigslist.org/search/sof?postedToday=1
+
+0
+test
+https://portland.craigslist.org/search/sad?postedToday=1
+
+0
+1
+2
+3
+notest
+https://phoenix.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+notest1
+https://phoenix.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890051632" href="https://phoenix.craigslist.org/cph/cpg/d/aguila-phoenix-per-day-paid-daily-t-gig/6890051632.html">PHOENIX - ($295-$595+) PER DAY - Paid Daily - P/T GIG | ( NEW SMS TECHNOLOGY )</a>
+
+
+notest1
+https://phoenix.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890051043" href="https://phoenix.craigslist.org/wvl/cpg/d/phoenix-earn-250-to-400-daily-start/6890051043.html">Earn $250 to $400 daily START TODAY!</a>
+
+
+notest1
+https://phoenix.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890050354" href="https://phoenix.craigslist.org/nph/cpg/d/phoenix-earn-250-to-400-daily-start/6890050354.html">Earn $250 to $400 daily START TODAY!</a>
+
+
+notest1
+https://phoenix.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890049637" href="https://phoenix.craigslist.org/evl/cpg/d/paradise-valley-earn-250-to-400-daily/6890049637.html">Earn $250 to $400 daily START TODAY!</a>
+
+
+notest1
+https://phoenix.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890049001" href="https://phoenix.craigslist.org/cph/cpg/d/aguila-earn-250-to-400-daily-start-today/6890049001.html">Earn $250 to $400 daily START TODAY!</a>
+
+
+test1
+https://phoenix.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+test1
+https://phoenix.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+notest
+https://phoenix.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+notest1
+https://phoenix.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890051632" href="https://phoenix.craigslist.org/cph/cpg/d/aguila-phoenix-per-day-paid-daily-t-gig/6890051632.html">PHOENIX - ($295-$595+) PER DAY - Paid Daily - P/T GIG | ( NEW SMS TECHNOLOGY )</a>
+
+
+notest1
+https://phoenix.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890051043" href="https://phoenix.craigslist.org/wvl/cpg/d/phoenix-earn-250-to-400-daily-start/6890051043.html">Earn $250 to $400 daily START TODAY!</a>
+
+
+notest1
+https://phoenix.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890050354" href="https://phoenix.craigslist.org/nph/cpg/d/phoenix-earn-250-to-400-daily-start/6890050354.html">Earn $250 to $400 daily START TODAY!</a>
+
+
+notest1
+https://phoenix.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890049637" href="https://phoenix.craigslist.org/evl/cpg/d/paradise-valley-earn-250-to-400-daily/6890049637.html">Earn $250 to $400 daily START TODAY!</a>
+
+
+notest1
+https://phoenix.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890049001" href="https://phoenix.craigslist.org/cph/cpg/d/aguila-earn-250-to-400-daily-start-today/6890049001.html">Earn $250 to $400 daily START TODAY!</a>
+
+
+test1
+https://phoenix.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+test1
+https://phoenix.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+0
+1
+2
+test
+https://phoenix.craigslist.org/search/web?postedToday=1
+
+0
+1
+2
+test
+https://phoenix.craigslist.org/search/med?postedToday=1
+
+0
+1
+test
+https://phoenix.craigslist.org/search/sof?postedToday=1
+
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+test
+https://phoenix.craigslist.org/search/sad?postedToday=1
+
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+notest
+https://washingtondc.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+notest1
+https://washingtondc.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890301580" href="https://washingtondc.craigslist.org/mld/cpg/d/takoma-park-need-to-hire-maker-ping/6890301580.html">I need to hire a maker - ping pong ball launcher</a>
+
+
+notest1
+https://washingtondc.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890147948" href="https://washingtondc.craigslist.org/doc/cpg/d/washington-pc-technician-temporary-3/6890147948.html">PC Technician - Temporary (3 weeks)</a>
+
+
+notest
+https://washingtondc.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+notest1
+https://washingtondc.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890301580" href="https://washingtondc.craigslist.org/mld/cpg/d/takoma-park-need-to-hire-maker-ping/6890301580.html">I need to hire a maker - ping pong ball launcher</a>
+
+
+notest1
+https://washingtondc.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890147948" href="https://washingtondc.craigslist.org/doc/cpg/d/washington-pc-technician-temporary-3/6890147948.html">PC Technician - Temporary (3 weeks)</a>
+
+
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+notest
+https://washingtondc.craigslist.org/search/web?postedToday=1
+
+notest1
+https://washingtondc.craigslist.org/search/web?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890462702" href="https://washingtondc.craigslist.org/nva/web/d/arlington-fastest-growing-coaching/6890462702.html">🚨Fastest Growing Coaching Company in USA seeks Marketing Associate 🚨</a>
+
+
+notest1
+https://washingtondc.craigslist.org/search/web?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890427229" href="https://washingtondc.craigslist.org/nva/web/d/mc-lean-ui-designer/6890427229.html">UI Designer</a>
+
+
+notest1
+https://washingtondc.craigslist.org/search/web?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890377378" href="https://washingtondc.craigslist.org/doc/web/d/washington-senior-front-end-engineer/6890377378.html">Senior Front End Engineer @ Crowdskout</a>
+
+
+0
+1
+2
+3
+4
+5
+6
+7
+notest
+https://washingtondc.craigslist.org/search/med?postedToday=1
+
+notest1
+https://washingtondc.craigslist.org/search/med?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890462677" href="https://washingtondc.craigslist.org/nva/med/d/arlington-fastest-growing-coaching/6890462677.html">🚨Fastest Growing Coaching Company in USA seeks Marketing Associate 🚨</a>
+
+
+notest1
+https://washingtondc.craigslist.org/search/med?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890011029" href="https://washingtondc.craigslist.org/nva/med/d/alexandria-interior-design-drafter/6890011029.html">Interior Design Drafter/Intern</a>
+
+
+notest
+https://washingtondc.craigslist.org/search/sof?postedToday=1
+
+notest1
+https://washingtondc.craigslist.org/search/sof?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890462677" href="https://washingtondc.craigslist.org/nva/med/d/arlington-fastest-growing-coaching/6890462677.html">🚨Fastest Growing Coaching Company in USA seeks Marketing Associate 🚨</a>
+
+
+notest1
+https://washingtondc.craigslist.org/search/sof?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890011029" href="https://washingtondc.craigslist.org/nva/med/d/alexandria-interior-design-drafter/6890011029.html">Interior Design Drafter/Intern</a>
+
+
+notest
+https://washingtondc.craigslist.org/search/sad?postedToday=1
+
+notest1
+https://washingtondc.craigslist.org/search/sad?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890462677" href="https://washingtondc.craigslist.org/nva/med/d/arlington-fastest-growing-coaching/6890462677.html">🚨Fastest Growing Coaching Company in USA seeks Marketing Associate 🚨</a>
+
+
+notest1
+https://washingtondc.craigslist.org/search/sad?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890011029" href="https://washingtondc.craigslist.org/nva/med/d/alexandria-interior-design-drafter/6890011029.html">Interior Design Drafter/Intern</a>
+
+
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+notest
+https://atlanta.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+notest1
+https://atlanta.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890664748" href="https://atlanta.craigslist.org/atl/cpg/d/atlanta-be-part-of-something-big/6890664748.html">Be part of something BIG!</a>
+
+
+0
+1
+2
+3
+4
+5
+6
+7
+8
+notest
+https://atlanta.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+notest1
+https://atlanta.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890585190" href="https://atlanta.craigslist.org/nat/crg/d/loganville-makeup-artist-or-hairstylist/6890585190.html">Makeup Artist or Hairstylist in exchange For Free Credit Repair</a>
+
+
+notest1
+https://atlanta.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890378574" href="https://atlanta.craigslist.org/atl/crg/d/atlanta-professional-videographer/6890378574.html">Professional Videographer</a>
+
+
+notest1
+https://atlanta.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890304542" href="https://atlanta.craigslist.org/nat/crg/d/atlanta-editorial-designer-writers/6890304542.html">EDITORIAL DESIGNER, WRITERS, PHOTOGRAPHERS</a>
+
+
+notest1
+https://atlanta.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890102642" href="https://atlanta.craigslist.org/atl/crg/d/atlanta-paying-someone-6oo-to-help-me/6890102642.html">Paying someone 6oo to help me start cell service</a>
+
+
+0
+test
+https://atlanta.craigslist.org/search/web?postedToday=1
+
+0
+1
+2
+3
+4
+notest
+https://atlanta.craigslist.org/search/med?postedToday=1
+
+notest1
+https://atlanta.craigslist.org/search/med?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890535842" href="https://atlanta.craigslist.org/atl/med/d/atlanta-visual-merchandising-help-at/6890535842.html">Visual merchandising help at AmericasMart</a>
+
+
+notest
+https://atlanta.craigslist.org/search/sof?postedToday=1
+
+notest1
+https://atlanta.craigslist.org/search/sof?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890535842" href="https://atlanta.craigslist.org/atl/med/d/atlanta-visual-merchandising-help-at/6890535842.html">Visual merchandising help at AmericasMart</a>
+
+
+0
+1
+2
+3
+4
+5
+6
+7
+test
+https://atlanta.craigslist.org/search/sad?postedToday=1
+
+test
+http://miami.craigslist.org/brw/search/cpg?is_paid=all&postedToday=1
+
+test
+http://miami.craigslist.org/brw/search/crg?is_paid=all&postedToday=1
+
+test
+http://miami.craigslist.org/brw/search/web?postedToday=1
+
+0
+1
+2
+3
+4
+notest
+http://miami.craigslist.org/brw/search/med?postedToday=1
+
+0
+notest
+http://miami.craigslist.org/brw/search/sof?postedToday=1
+
+notest
+http://miami.craigslist.org/brw/search/sad?postedToday=1
+
+notest
+https://boston.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+0
+1
+notest
+https://boston.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+notest1
+https://boston.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6889946670" href="https://boston.craigslist.org/gbs/crg/d/boston-afternoon-and-or-evening/6889946670.html">Afternoon and/or evening childcare</a>
+
+
+test1
+https://boston.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+test1
+https://boston.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+test1
+https://boston.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+test1
+https://boston.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+notest
+https://boston.craigslist.org/search/web?postedToday=1
+
+notest1
+https://boston.craigslist.org/search/web?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6889946670" href="https://boston.craigslist.org/gbs/crg/d/boston-afternoon-and-or-evening/6889946670.html">Afternoon and/or evening childcare</a>
+
+
+test1
+https://boston.craigslist.org/search/web?postedToday=1
+
+test1
+https://boston.craigslist.org/search/web?postedToday=1
+
+test1
+https://boston.craigslist.org/search/web?postedToday=1
+
+test1
+https://boston.craigslist.org/search/web?postedToday=1
+
+0
+1
+2
+3
+4
+5
+6
+7
+notest
+https://boston.craigslist.org/search/med?postedToday=1
+
+notest1
+https://boston.craigslist.org/search/med?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890371227" href="https://boston.craigslist.org/bmw/med/d/sherborn-design-assistant/6890371227.html">Design assistant</a>
+
+
+test1
+https://boston.craigslist.org/search/med?postedToday=1
+
+0
+1
+2
+3
+notest
+https://boston.craigslist.org/search/sof?postedToday=1
+
+notest1
+https://boston.craigslist.org/search/sof?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890564117" href="https://boston.craigslist.org/gbs/sof/d/boston-software-engineering-project/6890564117.html">Software Engineering Project Contract Hire (Remote Work)</a>
+
+
+notest1
+https://boston.craigslist.org/search/sof?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890499399" href="https://boston.craigslist.org/gbs/sof/d/cambridge-vehicle-operator-toyota/6890499399.html">Vehicle Operator | Toyota Research Institute</a>
+
+
+notest1
+https://boston.craigslist.org/search/sof?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890363589" href="https://boston.craigslist.org/gbs/sof/d/boxborough-multiple-technical-positions/6890363589.html">Multiple Technical Positions</a>
+
+
+notest
+https://boston.craigslist.org/search/sad?postedToday=1
+
+notest1
+https://boston.craigslist.org/search/sad?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890564117" href="https://boston.craigslist.org/gbs/sof/d/boston-software-engineering-project/6890564117.html">Software Engineering Project Contract Hire (Remote Work)</a>
+
+
+notest1
+https://boston.craigslist.org/search/sad?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890499399" href="https://boston.craigslist.org/gbs/sof/d/cambridge-vehicle-operator-toyota/6890499399.html">Vehicle Operator | Toyota Research Institute</a>
+
+
+notest1
+https://boston.craigslist.org/search/sad?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890363589" href="https://boston.craigslist.org/gbs/sof/d/boxborough-multiple-technical-positions/6890363589.html">Multiple Technical Positions</a>
+
+
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+notest
+https://dallas.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+notest1
+https://dallas.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890400005" href="https://dallas.craigslist.org/mdf/cpg/d/dallas-make-100-cash-today/6890400005.html">MAKE $100 CASH TODAY</a>
+
+
+notest1
+https://dallas.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890339045" href="https://dallas.craigslist.org/ndf/cpg/d/prosper-experienced-web-developer-needed/6890339045.html">Experienced Web Developer Needed</a>
+
+
+test1
+https://dallas.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+0
+1
+2
+3
+notest
+https://dallas.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+notest1
+https://dallas.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890377391" href="https://dallas.craigslist.org/dal/crg/d/dallas-200-per-day-from-home/6890377391.html">$200 per day from Home</a>
+
+
+notest1
+https://dallas.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890288071" href="https://dallas.craigslist.org/mdf/crg/d/irving-overweight-tone-up-wanna-be-in/6890288071.html">Overweight? Tone Up? Wanna Be in A Work Out DVD?</a>
+
+
+notest1
+https://dallas.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890281839" href="https://dallas.craigslist.org/dal/crg/d/dallas-all-artist-entertainers-event/6890281839.html">•All Artist • Entertainers • Event planners • Chefs</a>
+
+
+notest1
+https://dallas.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890234647" href="https://dallas.craigslist.org/ftw/crg/d/keene-architectural-photographer-needed/6890234647.html">Architectural Photographer Needed DFW Area</a>
+
+
+notest1
+https://dallas.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890115827" href="https://dallas.craigslist.org/dal/crg/d/goodyear-content-marketer-expert/6890115827.html">Content Marketer Expert</a>
+
+
+0
+1
+2
+3
+4
+5
+6
+notest
+https://dallas.craigslist.org/search/web?postedToday=1
+
+notest1
+https://dallas.craigslist.org/search/web?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890013370" href="https://dallas.craigslist.org/ndf/web/d/richardson-wordpress-php-developer/6890013370.html">WordPress PHP Developer</a>
+
+
+0
+test
+https://dallas.craigslist.org/search/med?postedToday=1
+
+0
+notest
+https://dallas.craigslist.org/search/sof?postedToday=1
+
+notest1
+https://dallas.craigslist.org/search/sof?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890213802" href="https://dallas.craigslist.org/dal/sof/d/dallas-sharepoint-architect-consultant/6890213802.html">SharePoint Architect Consultant</a>
+
+
+notest
+https://dallas.craigslist.org/search/sad?postedToday=1
+
+notest1
+https://dallas.craigslist.org/search/sad?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890213802" href="https://dallas.craigslist.org/dal/sof/d/dallas-sharepoint-architect-consultant/6890213802.html">SharePoint Architect Consultant</a>
+
+
+0
+test
+https://inlandempire.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+test
+https://inlandempire.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+0
+1
+2
+3
+test
+https://inlandempire.craigslist.org/search/web?postedToday=1
+
+0
+1
+2
+3
+4
+5
+6
+7
+notest
+https://inlandempire.craigslist.org/search/med?postedToday=1
+
+notest1
+https://inlandempire.craigslist.org/search/med?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890540382" href="https://inlandempire.craigslist.org/med/d/loma-linda-vehicle-wrap-shop-graphic/6890540382.html">Vehicle Wrap Shop Graphic Designer / Manager Wanted</a>
+
+
+notest1
+https://inlandempire.craigslist.org/search/med?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890319398" href="https://inlandempire.craigslist.org/med/d/upland-floral-designer/6890319398.html">Floral Designer</a>
+
+
+test1
+https://inlandempire.craigslist.org/search/med?postedToday=1
+
+test1
+https://inlandempire.craigslist.org/search/med?postedToday=1
+
+test1
+https://inlandempire.craigslist.org/search/med?postedToday=1
+
+test1
+https://inlandempire.craigslist.org/search/med?postedToday=1
+
+test1
+https://inlandempire.craigslist.org/search/med?postedToday=1
+
+test1
+https://inlandempire.craigslist.org/search/med?postedToday=1
+
+test1
+https://inlandempire.craigslist.org/search/med?postedToday=1
+
+test1
+https://inlandempire.craigslist.org/search/med?postedToday=1
+
+test1
+https://inlandempire.craigslist.org/search/med?postedToday=1
+
+test1
+https://inlandempire.craigslist.org/search/med?postedToday=1
+
+test1
+https://inlandempire.craigslist.org/search/med?postedToday=1
+
+notest
+https://inlandempire.craigslist.org/search/sof?postedToday=1
+
+notest1
+https://inlandempire.craigslist.org/search/sof?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890540382" href="https://inlandempire.craigslist.org/med/d/loma-linda-vehicle-wrap-shop-graphic/6890540382.html">Vehicle Wrap Shop Graphic Designer / Manager Wanted</a>
+
+
+notest1
+https://inlandempire.craigslist.org/search/sof?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890319398" href="https://inlandempire.craigslist.org/med/d/upland-floral-designer/6890319398.html">Floral Designer</a>
+
+
+test1
+https://inlandempire.craigslist.org/search/sof?postedToday=1
+
+test1
+https://inlandempire.craigslist.org/search/sof?postedToday=1
+
+test1
+https://inlandempire.craigslist.org/search/sof?postedToday=1
+
+test1
+https://inlandempire.craigslist.org/search/sof?postedToday=1
+
+test1
+https://inlandempire.craigslist.org/search/sof?postedToday=1
+
+test1
+https://inlandempire.craigslist.org/search/sof?postedToday=1
+
+test1
+https://inlandempire.craigslist.org/search/sof?postedToday=1
+
+test1
+https://inlandempire.craigslist.org/search/sof?postedToday=1
+
+test1
+https://inlandempire.craigslist.org/search/sof?postedToday=1
+
+test1
+https://inlandempire.craigslist.org/search/sof?postedToday=1
+
+test1
+https://inlandempire.craigslist.org/search/sof?postedToday=1
+
+0
+notest
+https://inlandempire.craigslist.org/search/sad?postedToday=1
+
+notest1
+https://inlandempire.craigslist.org/search/sad?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890387302" href="https://inlandempire.craigslist.org/sad/d/fontana-junior-it-associate/6890387302.html">JUNIOR IT ASSOCIATE</a>
+
+
+notest1
+https://inlandempire.craigslist.org/search/sad?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890014098" href="https://inlandempire.craigslist.org/sad/d/brea-solar-technicians-needed-direct/6890014098.html">Solar Technicians needed - Direct-hire, Full Benefits</a>
+
+
+test1
+https://inlandempire.craigslist.org/search/sad?postedToday=1
+
+test1
+https://inlandempire.craigslist.org/search/sad?postedToday=1
+
+test1
+https://inlandempire.craigslist.org/search/sad?postedToday=1
+
+test1
+https://inlandempire.craigslist.org/search/sad?postedToday=1
+
+0
+notest
+https://denver.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+notest1
+https://denver.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890645502" href="https://denver.craigslist.org/cpg/d/minneapolis-do-you-shop-online-want-to/6890645502.html">DO YOU SHOP ONLINE/ WANT TO SHOP ONLINE - P/T BUSINESS OPPORTUNITY</a>
+
+
+notest1
+https://denver.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890365039" href="https://denver.craigslist.org/cpg/d/dupont-immediate-opening-for-repair/6890365039.html">💻 Immediate opening for a Repair Technician/Store Customer Service 📱</a>
+
+
+notest1
+https://denver.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890135110" href="https://denver.craigslist.org/cpg/d/idledale-independent-online-gig-online/6890135110.html">Independent Online Gig - Online Product Tester ($106 - $246 + / Day)</a>
+
+
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+notest
+https://denver.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+notest1
+https://denver.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890697517" href="https://denver.craigslist.org/crg/d/denver-sales-agent-with-asset-recovery/6890697517.html">SALES AGENT with Asset Recovery Inc (Great Entry Level Position!)</a>
+
+
+notest1
+https://denver.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890507970" href="https://denver.craigslist.org/crg/d/denver-photographer-needed-monday-may/6890507970.html">Photographer Needed Monday, May 20th 10:45 - 11:45 a.m.</a>
+
+
+notest1
+https://denver.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890189772" href="https://denver.craigslist.org/crg/d/denver-national-advertising-company-in/6890189772.html">National advertising company in need of a photographer</a>
+
+
+notest1
+https://denver.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890025810" href="https://denver.craigslist.org/crg/d/boulder-boulder-outdoor-lifestyle/6890025810.html">Boulder Outdoor/Lifestyle Photographer Looking for Models</a>
+
+
+0
+1
+test
+https://denver.craigslist.org/search/web?postedToday=1
+
+0
+1
+notest
+https://denver.craigslist.org/search/med?postedToday=1
+
+notest1
+https://denver.craigslist.org/search/med?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890689022" href="https://denver.craigslist.org/med/d/denver-high-end-art-gallery-in-cherry/6890689022.html">High End Art Gallery in Cherry Creek seeking Gallery Assistant</a>
+
+
+notest1
+https://denver.craigslist.org/search/med?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890484370" href="https://denver.craigslist.org/med/d/denver-graphic-designer/6890484370.html">Graphic Designer</a>
+
+
+test1
+https://denver.craigslist.org/search/med?postedToday=1
+
+notest
+https://denver.craigslist.org/search/sof?postedToday=1
+
+notest1
+https://denver.craigslist.org/search/sof?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890689022" href="https://denver.craigslist.org/med/d/denver-high-end-art-gallery-in-cherry/6890689022.html">High End Art Gallery in Cherry Creek seeking Gallery Assistant</a>
+
+
+notest1
+https://denver.craigslist.org/search/sof?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890484370" href="https://denver.craigslist.org/med/d/denver-graphic-designer/6890484370.html">Graphic Designer</a>
+
+
+test1
+https://denver.craigslist.org/search/sof?postedToday=1
+
+0
+1
+2
+3
+4
+5
+6
+7
+8
+notest
+https://denver.craigslist.org/search/sad?postedToday=1
+
+notest1
+https://denver.craigslist.org/search/sad?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890448232" href="https://denver.craigslist.org/sad/d/arvada-part-time-it-contractor/6890448232.html">Part-time IT Contractor</a>
+
+
+test1
+https://denver.craigslist.org/search/sad?postedToday=1
+
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+notest
+https://minneapolis.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+notest1
+https://minneapolis.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890051622" href="https://minneapolis.craigslist.org/hnp/cpg/d/minneapolis-minneapolis-per-day-paid/6890051622.html">MINNEAPOLIS - ($295-$595+) PER DAY - Paid Daily - P/T GIG | ( NEW SMS TECHNOLOGY</a>
+
+
+notest
+https://minneapolis.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+notest1
+https://minneapolis.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890051622" href="https://minneapolis.craigslist.org/hnp/cpg/d/minneapolis-minneapolis-per-day-paid/6890051622.html">MINNEAPOLIS - ($295-$595+) PER DAY - Paid Daily - P/T GIG | ( NEW SMS TECHNOLOGY</a>
+
+
+notest
+https://minneapolis.craigslist.org/search/web?postedToday=1
+
+notest1
+https://minneapolis.craigslist.org/search/web?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890051622" href="https://minneapolis.craigslist.org/hnp/cpg/d/minneapolis-minneapolis-per-day-paid/6890051622.html">MINNEAPOLIS - ($295-$595+) PER DAY - Paid Daily - P/T GIG | ( NEW SMS TECHNOLOGY</a>
+
+
+0
+1
+2
+3
+4
+5
+notest
+https://minneapolis.craigslist.org/search/med?postedToday=1
+
+notest1
+https://minneapolis.craigslist.org/search/med?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890580582" href="https://minneapolis.craigslist.org/hnp/med/d/minneapolis-picture-framing-specialist/6890580582.html">PICTURE FRAMING SPECIALIST / Designer</a>
+
+
+notest1
+https://minneapolis.craigslist.org/search/med?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890191354" href="https://minneapolis.craigslist.org/hnp/med/d/minneapolis-residential-design-assistant/6890191354.html">Residential Design Assistant</a>
+
+
+0
+test
+https://minneapolis.craigslist.org/search/sof?postedToday=1
+
+0
+notest
+https://minneapolis.craigslist.org/search/sad?postedToday=1
+
+notest1
+https://minneapolis.craigslist.org/search/sad?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890358352" href="https://minneapolis.craigslist.org/wsh/sad/d/minneapolis-consulting-engineer-network/6890358352.html">Consulting Engineer/ Network Consulting Engineer</a>
+
+
+0
+1
+2
+3
+4
+notest
+https://austin.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+notest1
+https://austin.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890679810" href="https://austin.craigslist.org/cpg/d/austin-python-programmer-wanted/6890679810.html">python programmer wanted</a>
+
+
+notest1
+https://austin.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890258246" href="https://austin.craigslist.org/cpg/d/austin-lifestyle-entrepreneur-or/6890258246.html">✅ Lifestyle Entrepreneur or Employee??.... 10K ++ a Month!✅</a>
+
+
+notest1
+https://austin.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890113662" href="https://austin.craigslist.org/cpg/d/austin-independent-online-gig-online/6890113662.html">Independent Online Gig - Online Product Tester ($108 - $248 + / Day)</a>
+
+
+notest1
+https://austin.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890052383" href="https://austin.craigslist.org/cpg/d/austin-austin-per-day-paid-daily-t-gig/6890052383.html">AUSTIN - ($295-$595+) PER DAY - Paid Daily - P/T GIG | ( NEW SMS TECHNOLOGY )</a>
+
+
+test1
+https://austin.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+test1
+https://austin.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+test1
+https://austin.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+notest
+https://austin.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+notest1
+https://austin.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890679955" href="https://austin.craigslist.org/crg/d/austin-austin-seeking-visual-artists/6890679955.html">AUSTIN: Seeking Visual Artists for PAID commercial</a>
+
+
+test1
+https://austin.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+notest
+https://austin.craigslist.org/search/web?postedToday=1
+
+notest1
+https://austin.craigslist.org/search/web?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890679955" href="https://austin.craigslist.org/crg/d/austin-austin-seeking-visual-artists/6890679955.html">AUSTIN: Seeking Visual Artists for PAID commercial</a>
+
+
+test1
+https://austin.craigslist.org/search/web?postedToday=1
+
+0
+notest
+https://austin.craigslist.org/search/med?postedToday=1
+
+notest1
+https://austin.craigslist.org/search/med?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890390276" href="https://austin.craigslist.org/med/d/round-rock-screen-printer/6890390276.html">Screen Printer</a>
+
+
+test1
+https://austin.craigslist.org/search/med?postedToday=1
+
+0
+1
+2
+notest
+https://austin.craigslist.org/search/sof?postedToday=1
+
+notest1
+https://austin.craigslist.org/search/sof?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890332116" href="https://austin.craigslist.org/sof/d/austin-multiple-technical-positions/6890332116.html">Multiple Technical Positions</a>
+
+
+0
+1
+2
+3
+4
+5
+6
+7
+test
+https://austin.craigslist.org/search/sad?postedToday=1
+
+0
+notest
+https://houston.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+notest1
+https://houston.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890406540" href="https://houston.craigslist.org/cpg/d/houston-looking-for-service/6890406540.html">Looking for Service Professionals for a paid research study</a>
+
+
+notest1
+https://houston.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890145862" href="https://houston.craigslist.org/cpg/d/houston-the-cbd-oil-business-record/6890145862.html">✅The CBD Oil Business / Record Growth Potential</a>
+
+
+0
+notest
+https://houston.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+notest1
+https://houston.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890389845" href="https://houston.craigslist.org/crg/d/houston-part-or-full-time/6890389845.html">Part or Full Time</a>
+
+
+0
+1
+test
+https://houston.craigslist.org/search/web?postedToday=1
+
+test
+https://houston.craigslist.org/search/med?postedToday=1
+
+0
+1
+2
+3
+4
+5
+6
+test
+https://houston.craigslist.org/search/sof?postedToday=1
+
+test
+https://houston.craigslist.org/search/sad?postedToday=1
+
+0
+1
+2
+notest
+https://tampa.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+notest1
+https://tampa.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890435559" href="https://tampa.craigslist.org/hil/cpg/d/gibsonton-yes-my-direct-deposits-from/6890435559.html">🔥🔥YES! My direct deposits from April 24th to May 17th = $5,753.31 with thi</a>
+
+
+notest1
+https://tampa.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890316336" href="https://tampa.craigslist.org/hil/cpg/d/tampa-lifestyle-entrepreneur-or/6890316336.html">✅ Lifestyle Entrepreneur or Employee??.... 10K ++ a Month!✅</a>
+
+
+test1
+https://tampa.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+test1
+https://tampa.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+0
+1
+test
+https://tampa.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+test
+https://tampa.craigslist.org/search/web?postedToday=1
+
+0
+test
+https://tampa.craigslist.org/search/med?postedToday=1
+
+0
+test
+https://tampa.craigslist.org/search/sof?postedToday=1
+
+0
+1
+2
+3
+4
+test
+https://tampa.craigslist.org/search/sad?postedToday=1
+
+0
+1
+2
+notest
+https://orlando.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+notest1
+https://orlando.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890037088" href="https://orlando.craigslist.org/cpg/d/orlando-paid-research-study/6890037088.html">Paid Research Study</a>
+
+
+test1
+https://orlando.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+test1
+https://orlando.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+test1
+https://orlando.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+test1
+https://orlando.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+0
+1
+test
+https://orlando.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+0
+1
+2
+test
+https://orlando.craigslist.org/search/web?postedToday=1
+
+0
+notest
+https://orlando.craigslist.org/search/med?postedToday=1
+
+notest1
+https://orlando.craigslist.org/search/med?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890123262" href="https://orlando.craigslist.org/med/d/windermere-personal-assistant/6890123262.html">Personal Assistant</a>
+
+
+0
+1
+2
+3
+4
+test
+https://orlando.craigslist.org/search/sof?postedToday=1
+
+test
+https://orlando.craigslist.org/search/sad?postedToday=1
+
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+notest
+https://newjersey.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+notest1
+https://newjersey.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890592682" href="https://newjersey.craigslist.org/cpg/d/elizabeth-creative-web-savvy-good-vibes/6890592682.html">Creative Web Savvy Good Vibes Intern</a>
+
+
+test1
+https://newjersey.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+test1
+https://newjersey.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+test1
+https://newjersey.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+test1
+https://newjersey.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+test1
+https://newjersey.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+test1
+https://newjersey.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+test1
+https://newjersey.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+test1
+https://newjersey.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+test1
+https://newjersey.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+test1
+https://newjersey.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+test1
+https://newjersey.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+test1
+https://newjersey.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+0
+1
+2
+3
+notest
+https://newjersey.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+notest1
+https://newjersey.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890683474" href="https://newjersey.craigslist.org/crg/d/south-hackensack-nj-ny-seeking-visual/6890683474.html">NJ &amp; NY: Seeking VISUAL ARTISTS for PAID commercial</a>
+
+
+notest1
+https://newjersey.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890455716" href="https://newjersey.craigslist.org/crg/d/newark-hiring-immediately-start-your/6890455716.html">$$$$$$$***Hiring Immediately Start Your Career Here***$$$$$$</a>
+
+
+notest1
+https://newjersey.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890167782" href="https://newjersey.craigslist.org/crg/d/madison-photo-assistant-needed-this-fall/6890167782.html">Photo Assistant needed this fall</a>
+
+
+test1
+https://newjersey.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+test1
+https://newjersey.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+test1
+https://newjersey.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+test1
+https://newjersey.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+test1
+https://newjersey.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+test1
+https://newjersey.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+test1
+https://newjersey.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+test1
+https://newjersey.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+test1
+https://newjersey.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+test1
+https://newjersey.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+test1
+https://newjersey.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+test1
+https://newjersey.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+test1
+https://newjersey.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+test1
+https://newjersey.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+test1
+https://newjersey.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+test1
+https://newjersey.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+test1
+https://newjersey.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+test1
+https://newjersey.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+test1
+https://newjersey.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+test1
+https://newjersey.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+test1
+https://newjersey.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+test1
+https://newjersey.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+test
+https://newjersey.craigslist.org/search/web?postedToday=1
+
+0
+notest
+https://newjersey.craigslist.org/search/med?postedToday=1
+
+notest1
+https://newjersey.craigslist.org/search/med?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890287664" href="https://newjersey.craigslist.org/med/d/kenvil-mixing-engineer-on-protools/6890287664.html">Mixing Engineer On ProTools</a>
+
+
+notest1
+https://newjersey.craigslist.org/search/med?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890247744" href="https://newjersey.craigslist.org/med/d/teterboro-2d-3d-technical-designer/6890247744.html">2D /3D Technical Designer</a>
+
+
+test1
+https://newjersey.craigslist.org/search/med?postedToday=1
+
+test1
+https://newjersey.craigslist.org/search/med?postedToday=1
+
+test1
+https://newjersey.craigslist.org/search/med?postedToday=1
+
+test1
+https://newjersey.craigslist.org/search/med?postedToday=1
+
+test1
+https://newjersey.craigslist.org/search/med?postedToday=1
+
+0
+test
+https://newjersey.craigslist.org/search/sof?postedToday=1
+
+0
+1
+2
+3
+4
+notest
+https://newjersey.craigslist.org/search/sad?postedToday=1
+
+notest1
+https://newjersey.craigslist.org/search/sad?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890167113" href="https://newjersey.craigslist.org/sad/d/lake-hiawatha-systems-administrator/6890167113.html">Systems Administrator</a>
+
+
+test1
+https://newjersey.craigslist.org/search/sad?postedToday=1
+
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+notest
+https://philadelphia.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+notest1
+https://philadelphia.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890207424" href="https://philadelphia.craigslist.org/cpg/d/philadelphia-great-business-opportunity/6890207424.html">A GREAT BUSINESS OPPORTUNITY AT NO COST TO YOU!!</a>
+
+
+notest1
+https://philadelphia.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890097036" href="https://philadelphia.craigslist.org/cpg/d/upper-darby-product-testing/6890097036.html">Product Testing</a>
+
+
+test1
+https://philadelphia.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+test1
+https://philadelphia.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+test1
+https://philadelphia.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+0
+1
+2
+3
+4
+notest
+https://philadelphia.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+notest1
+https://philadelphia.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890709920" href="https://philadelphia.craigslist.org/crg/d/darby-in-house-graphic-designer/6890709920.html">In House Graphic Designer</a>
+
+
+notest1
+https://philadelphia.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890684808" href="https://philadelphia.craigslist.org/crg/d/philadelphia-philly-seeking-visual/6890684808.html">Philly: Seeking VISUAL ARTISTS for a PAID commercial</a>
+
+
+notest1
+https://philadelphia.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6889961199" href="https://philadelphia.craigslist.org/crg/d/philadelphia-low-budget-photographer/6889961199.html">Low budget photographer needed to shoot soccer game this Saturday at 6</a>
+
+
+test1
+https://philadelphia.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+test1
+https://philadelphia.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+test1
+https://philadelphia.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+test1
+https://philadelphia.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+0
+1
+2
+3
+4
+5
+6
+7
+test
+https://philadelphia.craigslist.org/search/web?postedToday=1
+
+0
+1
+2
+3
+4
+5
+notest
+https://philadelphia.craigslist.org/search/med?postedToday=1
+
+notest1
+https://philadelphia.craigslist.org/search/med?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890126851" href="https://philadelphia.craigslist.org/med/d/westtown-prepress-graphic-designer/6890126851.html">Prepress/Graphic Designer/Printer Operator</a>
+
+
+0
+test
+https://philadelphia.craigslist.org/search/sof?postedToday=1
+
+0
+1
+2
+test
+https://philadelphia.craigslist.org/search/sad?postedToday=1
+
+0
+1
+notest
+https://lasvegas.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+notest1
+https://lasvegas.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890608882" href="https://lasvegas.craigslist.org/cpg/d/las-vegas-100-for-las-vegas-hotel/6890608882.html">$100 for Las Vegas Hotel Managers research video interviews</a>
+
+
+notest1
+https://lasvegas.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890316561" href="https://lasvegas.craigslist.org/cpg/d/las-vegas-inbound-marketing-ninja-t/6890316561.html">Inbound Marketing Ninja P/T</a>
+
+
+notest1
+https://lasvegas.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890311282" href="https://lasvegas.craigslist.org/cpg/d/las-vegas-lifestyle-entrepreneur-or/6890311282.html">✅ Lifestyle Entrepreneur or Employee??..... 10+K a Month!✅</a>
+
+
+notest1
+https://lasvegas.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890146289" href="https://lasvegas.craigslist.org/cpg/d/north-las-vegas-independent-online-gig/6890146289.html">Independent Online Gig - Online Product Tester ($107 - $247 + / Day)</a>
+
+
+test1
+https://lasvegas.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+0
+notest
+https://lasvegas.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+notest1
+https://lasvegas.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890418734" href="https://lasvegas.craigslist.org/crg/d/las-vegas-social-media-posting/6890418734.html">Social Media Posting Specialist (Telecomute) - Cannabis Company</a>
+
+
+notest1
+https://lasvegas.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890410227" href="https://lasvegas.craigslist.org/crg/d/miami-personal-videographer/6890410227.html">Personal videographer</a>
+
+
+notest1
+https://lasvegas.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890336898" href="https://lasvegas.craigslist.org/crg/d/las-vegas-200-day-part-time/6890336898.html">$200/Day Part Time</a>
+
+
+notest1
+https://lasvegas.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890187441" href="https://lasvegas.craigslist.org/crg/d/north-las-vegas-7-figure-lab-needs/6890187441.html">7 Figure Lab Needs Local Video Pros</a>
+
+
+test1
+https://lasvegas.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+notest
+https://lasvegas.craigslist.org/search/web?postedToday=1
+
+notest1
+https://lasvegas.craigslist.org/search/web?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890418734" href="https://lasvegas.craigslist.org/crg/d/las-vegas-social-media-posting/6890418734.html">Social Media Posting Specialist (Telecomute) - Cannabis Company</a>
+
+
+notest1
+https://lasvegas.craigslist.org/search/web?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890410227" href="https://lasvegas.craigslist.org/crg/d/miami-personal-videographer/6890410227.html">Personal videographer</a>
+
+
+notest1
+https://lasvegas.craigslist.org/search/web?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890336898" href="https://lasvegas.craigslist.org/crg/d/las-vegas-200-day-part-time/6890336898.html">$200/Day Part Time</a>
+
+
+notest1
+https://lasvegas.craigslist.org/search/web?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890187441" href="https://lasvegas.craigslist.org/crg/d/north-las-vegas-7-figure-lab-needs/6890187441.html">7 Figure Lab Needs Local Video Pros</a>
+
+
+test1
+https://lasvegas.craigslist.org/search/web?postedToday=1
+
+0
+1
+notest
+https://lasvegas.craigslist.org/search/med?postedToday=1
+
+notest1
+https://lasvegas.craigslist.org/search/med?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890676785" href="https://lasvegas.craigslist.org/med/d/las-vegas-photographer-sales-wedding/6890676785.html">Photographer/Sales Wedding Chapel</a>
+
+
+notest1
+https://lasvegas.craigslist.org/search/med?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890669463" href="https://lasvegas.craigslist.org/med/d/las-vegas-picture-framer/6890669463.html">Picture Framer</a>
+
+
+test1
+https://lasvegas.craigslist.org/search/med?postedToday=1
+
+test1
+https://lasvegas.craigslist.org/search/med?postedToday=1
+
+test1
+https://lasvegas.craigslist.org/search/med?postedToday=1
+
+0
+1
+2
+test
+https://lasvegas.craigslist.org/search/sof?postedToday=1
+
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+test
+https://lasvegas.craigslist.org/search/sad?postedToday=1
+
+0
+notest
+https://detroit.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+notest1
+https://detroit.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890235901" href="https://detroit.craigslist.org/okl/cpg/d/farmington-paid-market-research/6890235901.html">Paid Market Research - Nutrition Study ($25)</a>
+
+
+notest1
+https://detroit.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890140263" href="https://detroit.craigslist.org/wyn/cpg/d/westland-work-today-get-paid-today-cash/6890140263.html">Work Today. Get Paid Today. CASH MONEY</a>
+
+
+notest1
+https://detroit.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890036752" href="https://detroit.craigslist.org/mcb/cpg/d/detroit-paid-research-study/6890036752.html">Paid Research Study</a>
+
+
+test1
+https://detroit.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+0
+1
+2
+3
+4
+5
+6
+7
+notest
+https://detroit.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+notest1
+https://detroit.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890447922" href="https://detroit.craigslist.org/mcb/crg/d/detroit-want-to-make-money/6890447922.html">Want to Make MoneY</a>
+
+
+notest1
+https://detroit.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890387627" href="https://detroit.craigslist.org/wyn/crg/d/taylor-photographer-wanted-southland/6890387627.html">Photographer Wanted: Southland Center</a>
+
+
+0
+1
+2
+3
+4
+5
+6
+7
+test
+https://detroit.craigslist.org/search/web?postedToday=1
+
+test
+https://detroit.craigslist.org/search/med?postedToday=1
+
+test
+https://detroit.craigslist.org/search/sof?postedToday=1
+
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+test
+https://detroit.craigslist.org/search/sad?postedToday=1
+
+0
+notest
+https://cnj.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+notest1
+https://cnj.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890392078" href="https://cnj.craigslist.org/cpg/d/princeton-paid-opinion-study-new-jersey/6890392078.html">Paid Opinion Study - New Jersey Residents Needed</a>
+
+
+notest1
+https://cnj.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890324121" href="https://cnj.craigslist.org/cpg/d/matawan-virtual-recruiter-wanted/6890324121.html">Virtual Recruiter Wanted</a>
+
+
+test1
+https://cnj.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+test1
+https://cnj.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+test1
+https://cnj.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+test1
+https://cnj.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+test1
+https://cnj.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+test1
+https://cnj.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+test1
+https://cnj.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+test1
+https://cnj.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+test1
+https://cnj.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+test1
+https://cnj.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+test1
+https://cnj.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+test1
+https://cnj.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+test1
+https://cnj.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+0
+1
+2
+3
+notest
+https://cnj.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+notest1
+https://cnj.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890479223" href="https://cnj.craigslist.org/crg/d/newark-freelance-photographer/6890479223.html">Freelance Photographer - Commercial Buildings</a>
+
+
+test1
+https://cnj.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+test1
+https://cnj.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+test1
+https://cnj.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+test1
+https://cnj.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+test1
+https://cnj.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+test1
+https://cnj.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+test1
+https://cnj.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+test1
+https://cnj.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+test1
+https://cnj.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+test1
+https://cnj.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+test1
+https://cnj.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+test1
+https://cnj.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+test1
+https://cnj.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+test1
+https://cnj.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+test1
+https://cnj.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+test1
+https://cnj.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+test1
+https://cnj.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+test1
+https://cnj.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+test1
+https://cnj.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+test1
+https://cnj.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+test1
+https://cnj.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+test1
+https://cnj.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+test1
+https://cnj.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+test1
+https://cnj.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+test1
+https://cnj.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+test1
+https://cnj.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+test
+https://cnj.craigslist.org/search/web?postedToday=1
+
+0
+1
+test
+https://cnj.craigslist.org/search/med?postedToday=1
+
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+test
+https://cnj.craigslist.org/search/sof?postedToday=1
+
+test
+https://cnj.craigslist.org/search/sad?postedToday=1
+
+0
+1
+2
+3
+test
+https://raleigh.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+0
+1
+2
+3
+4
+test
+https://raleigh.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+test
+https://raleigh.craigslist.org/search/web?postedToday=1
+
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+notest
+https://raleigh.craigslist.org/search/med?postedToday=1
+
+notest1
+https://raleigh.craigslist.org/search/med?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890177952" href="https://raleigh.craigslist.org/med/d/durham-graphic-designer/6890177952.html">Graphic Designer</a>
+
+
+test1
+https://raleigh.craigslist.org/search/med?postedToday=1
+
+0
+1
+notest
+https://raleigh.craigslist.org/search/sof?postedToday=1
+
+notest1
+https://raleigh.craigslist.org/search/sof?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890426889" href="https://raleigh.craigslist.org/sof/d/durham-mutiple-technical-positions/6890426889.html">Mutiple Technical Positions</a>
+
+
+0
+1
+2
+3
+4
+test
+https://raleigh.craigslist.org/search/sad?postedToday=1
+
+0
+1
+2
+test
+https://baltimore.craigslist.org/search/cpg?is_paid=all&postedToday=1
+
+test
+https://baltimore.craigslist.org/search/crg?is_paid=all&postedToday=1
+
+test
+https://baltimore.craigslist.org/search/web?postedToday=1
+
+0
+1
+test
+https://baltimore.craigslist.org/search/med?postedToday=1
+
+0
+1
+2
+3
+4
+5
+6
+7
+8
+notest
+https://baltimore.craigslist.org/search/sof?postedToday=1
+
+notest1
+https://baltimore.craigslist.org/search/sof?postedToday=1
+
+<a class="result-title hdrlnk" data-id="6890389865" href="https://baltimore.craigslist.org/sof/d/fulton-software-engineer/6890389865.html">Software Engineer</a>
+
+
+test1
+https://baltimore.craigslist.org/search/sof?postedToday=1
+
+test1
+https://baltimore.craigslist.org/search/sof?postedToday=1
+
+test1
+https://baltimore.craigslist.org/search/sof?postedToday=1
+
+test1
+https://baltimore.craigslist.org/search/sof?postedToday=1
+
+notest
+https://baltimore.craigslist.org/search/sad?postedToday=1
+notest1
+https://baltimore.craigslist.org/search/sad?postedToday=1
+<a class="result-title hdrlnk" data-id="6890389865" href="https://baltimore.craigslist.org/sof/d/fulton-software-engineer/6890389865.html">Software Engineer</a>
+
+
+test1
+https://baltimore.craigslist.org/search/sad?postedToday=1
+test1
+https://baltimore.craigslist.org/search/sad?postedToday=1
+test1
+https://baltimore.craigslist.org/search/sad?postedToday=1
+test1
+https://baltimore.craigslist.org/search/sad?postedToday=1
+Total output = 0 
+The script took 5605.47361708 second !

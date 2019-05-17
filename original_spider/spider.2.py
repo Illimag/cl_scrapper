@@ -35,7 +35,7 @@ if loop:
     i = 0
     # all_today.txt is a list of all the today files.
     # To get an updated all_today.txt run the get_urls/get_urls.py
-    for current_url in open("get_urls/all_today2.txt"):
+    for current_url in open("urls_traffic_based/HT_Urls.txt"):
             # Current URL that the spider is searching through
 
             # Rotate User Agents

@@ -1,3 +1,4 @@
+# High Traffic
 sfbay.craigslist.org	7.65%
 losangeles.craigslist.org	6.37%
 newyork.craigslist.org	5.00%
@@ -27,6 +28,8 @@ detroit.craigslist.org	1.29%
 cnj.craigslist.org	1.26%
 raleigh.craigslist.org	1.19%
 baltimore.craigslist.org	1.10%
+
+# Medium Traffic
 stlouis.craigslist.org	0.98%
 charlotte.craigslist.org	0.98%
 sanantonio.craigslist.org	0.96%
@@ -138,6 +141,8 @@ fortwayne.craigslist.org	0.30%
 memphis.craigslist.org	0.30%
 kpr.craigslist.org	0.30%
 medford.craigslist.org	0.30%
+
+# Low Traffic
 fayetteville.craigslist.org	0.29%
 eastnc.craigslist.org	0.29%
 wichita.craigslist.org	0.28%
