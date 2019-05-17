@@ -124,7 +124,7 @@ if loop:
                 print current_url
 
                 # table is the full list of posts on the current url html page
-                table = s_content.find_all("li", attrs={'class': "result-row"})
+                table = s_content.find_all("a", attrs={'class': "result-title"})
 
                 # Now we iterate through all the posts in the table
                 for post in table:
@@ -146,7 +146,10 @@ if loop:
                         # No nearby tag in current post of table 
                         print("notest1")
                         print current_url
-                        print post.find("a", {"class":"result-title hdrlnk"})
+
+                        
+                        print(post.text)
+                        print(post.get('href'))
 
                         print('\n')
 
