@@ -93,7 +93,7 @@ if loop:
             for i in range(100):
                 try:
                     search = requests.get(current_url,headers=headers,proxies=proxyDict)
-                    print(i)
+                    # print(i)
                 except:
                     break
             else:
@@ -112,22 +112,22 @@ if loop:
             if zero_results:
 
                 # If there are no results
-                print("test")
-                print current_url
+                # print("test")
+                # print current_url
 
                 exit # Exit the current loop and goes to next URL
             # This will reduce the number of duplicate posts
             else:
 
                 # If there are results
-                print("notest")
-                print current_url
+                # print("notest")
+                # print current_url
 
                 # table is the full list of posts on the current url html page
-                table = s_content.find_all("a", attrs={'class': "result-title"})
+                remove_nearby = s_content.find_all("li", attrs={'class': "result-row"})
 
                 # Now we iterate through all the posts in the table
-                for post in table:
+                for post in remove_nearby:
 
                     # In the current post of the table if there is a specific tag
                     # <span class="nearby"></span>
@@ -136,23 +136,23 @@ if loop:
                     if nearby_results:
 
                         # If there are nearby results posts which are duplcates
-                        print("test1")
-                        print current_url
+                        # print("test1")
+                        # print current_url
                         # print post
 
                         exit # Exit loop and look at next post in table
                     else:
+                        table = post.find("a", attrs={'class': "result-title"})
 
                         # No nearby tag in current post of table 
-                        print("notest1")
-                        print current_url
+                        # print("notest1")
+                        # print current_url
 
-                        
-                        print(post.text)
-                        print(post.get('href'))
+                        # print(current_url)
+                        print(table.text)
+                        print(table.get('href'))
 
                         print('\n')
-
 
     print "Total output =", i, ""
     print ('The script took {0} second !'.format(time.time() - startTime))

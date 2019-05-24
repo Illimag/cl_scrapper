@@ -1,0 +1,35 @@
+# Get emails from leads.
+
+This is how I plan to get the emails from the leads.
+
+The problem is that I don't know if it's possible to get the html page to show the email with software running on my side.
+
+So instead, have a local machine that has a macro or somekind of desktop automation software.
+
+Send it a txt file with all the URL leads.
+
+It will get the first URL lead.
+
+the macro will start.
+
+Open a browser.
+
+Enter the proxy.
+
+Open the url.
+
+macro will go to the button based on image or mointor mouse location.
+
+automated click
+
+then the email will show.
+
+click the email.
+
+copy and paste to another text file.
+
+No captias because new IP address each time.
+
+Loop through all the urls.
+
+This is how we will convert the leads which are URLS into emails.
