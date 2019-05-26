@@ -14,6 +14,10 @@ import sys
 reload(sys)
 sys.setdefaultencoding('utf8')
 
+import array as arr
+
+import json
+
 import requests
 
 from bs4 import BeautifulSoup as soup
@@ -29,11 +33,12 @@ import random
 # with ghost.start() as session:
 
 loop = True
+leads = {}
 
 if loop:
 
     startTime = time.time()
-    i = 0
+    current_lead_number = 0
     # all_today.txt is a list of all the today files.
     # To get an updated all_today.txt run the get_urls/get_urls.py
     for current_url in open("urls_traffic_based/HT_Urls.txt"):
@@ -149,12 +154,22 @@ if loop:
                         # print current_url
 
                         # print(current_url)
-                        print(table.text)
-                        print(table.get('href'))
+                        # print(table.text)
+                        # print(table.get('href'))
 
-                        print('\n')
+                        lead_title = table.text
+                        lead_url = table.get('href')
 
-    print "Total output =", i, ""
-    print ('The script took {0} second !'.format(time.time() - startTime))
+                        leads[current_lead_number] = []
+
+                        leads[current_lead_number].append({'title':lead_title})
+                        leads[current_lead_number].append({'url':lead_url})
+
+                        current_lead_number+=1
+
+    # print "Total output =", i, ""
+    # print ('The script took {0} second !'.format(time.time() - startTime))
+    with open('leads.json', 'w') as outfile:  
+        json.dump(leads, outfile)
     exit
     
