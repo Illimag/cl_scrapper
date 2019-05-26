@@ -9,6 +9,7 @@ keywords = ["web", "Cloud", "Desktop","Mobile","Tablet","Server","Router","Switc
 
 leads_with_keywords = {}
 current_lead_number = 0
+current_url_number = 0
 
 with open("../test_run/data.json", 'r') as json_file:
     data = json.load(json_file)
@@ -25,7 +26,19 @@ with open("../test_run/data.json", 'r') as json_file:
 
         for keyword in keywords:
             if keyword in text_in_title:
-                print(text_in_title)
+                lead = (data[turn_into_string])
+                #print lead
+                url = lead[1]
+                #print url
+                this_url = url["url"]
+                #print this_url
+                leads_with_keywords[current_url_number] = []
+
+                leads_with_keywords[current_url_number].append({'url':this_url})
+                current_url_number+=1
                 break
 
         current_lead_number+=1
+with open('urls.json', 'w') as outfile:  
+    json.dump(leads_with_keywords, outfile)
+exit

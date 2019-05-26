@@ -1,4 +1,6 @@
-with open("../test_run/duplicates_test.txt", "r") as f:
+import json
+
+with open("urls.json", "r") as json_file: 
 
     a=list(set(f))
 
