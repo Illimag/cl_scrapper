@@ -1,56 +1,28 @@
 # Craglist Scrapper
 
-The scrapper currently does the following.
+This is my Craigslist Lead Generator.
 
-All the URLS are from Craiglist with only today listing selected.
+It is made up of specific parts.
 
-So first if there are no listing then it will go to next URL.
+- Craiglist Scraper
 
-If there is listing then it looks to see if it is a nearby type.
+Rotating IP Addresses and User Agents to spoof Craiglist. 
+The URLS are organized based on traffic.
 
-Nearby types are going to be a duplicate eventually so we remove it.
+- Filters
 
-If it is not a nearby then we will print out the post.
+First, filter leads based on keywords. Then filter based on duplicates.
 
-# Current issue
+-  URLS to EMAIL conversion
 
-Currrently I have run into a problem where Craiglist after maybe 300 URLS it does a temporary block to my IP address maybe even related to MAC Address. 
+Currently using Ubot Studio to get EMAILS from the URLS. 
+Need something that will click the button, because without it the <div></div> with the emails won't show. 
+Sever-side Javascript?
 
-The temporary block is because of things such as not having a user agent.
+- EMAIL campaign load and send
 
-So to solve this problem I will need to use a headless brower.
+With Mail for Good automailer and AWS SES, we can send the emails.
 
-There will also need to be additional things added to the script to make it seem more like a human user.
+## Basic Overview
 
-For example things such as images not being downloaded, page resources not downloaded in normal order, Pages being downloade faster than a human can read them, cookies not being set properly. Also things like mouse movements not human like.
-
-To start just having the headless browser to trick Craiglist into thinking it is a browser will be nessessary.
-
-We can also try to fake a user agent for example here is a header field.
-
-A good idea maybe to rotate my user agents and VPNS.
-
-headers = { 'User-Agent': 'Mozilla/5.0 (Windows NT 6.0; WOW64; rv:24.0) Gecko/20100101 Firefox/24.0' }
-r = requests.get(url, headers=headers)
-
-# NEED TO DO THIS
-
-## Rotate user agents
-
-- User agents need to be rotated so it can seem like it is using a different browser each time.
-
-Here is a full list of User Agents
-
-    https://developers.whatismybrowser.com/useragents/explore/
-
-## Rotate VPN/Proxies
-
-- Need to rotate VPNs or Proxies to change the IP Addresses. This way it is will always be using a different IP address.
-
-## Make sure to have the cookies removed
-
-- Reset cookies each time.
-
-# DONT NEED THIS
-
-## MAC Addresses do not need to be rotated.
+CL Scrapper > data.json(titles,lead urls) > Filter > Conversion to Emails(Keep titles, and desciption for reference) > Email campaign load and sender 
