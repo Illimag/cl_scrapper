@@ -1,5 +1,7 @@
 # Craglist Scrapper
 
+![lead_generator](docs/leads_generator.png)
+
 This is my Craigslist Lead Generator.
 
 It is made up of specific parts.
@@ -26,3 +28,7 @@ With Mail for Good automailer and AWS SES, we can send the emails.
 ## Basic Overview
 
 CL Scrapper > data.json(titles,lead urls) > Filter > Conversion to Emails(Keep titles, and desciption for reference) > Email campaign load and sender 
+
+## Infastructure Needs
+
+We need to setup 
