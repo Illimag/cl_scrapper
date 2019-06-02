@@ -1,0 +1,6 @@
+https://sfbay.craigslist.org/search/cpg?is_paid=all&postedToday=1
+https://sfbay.craigslist.org/search/crg?is_paid=all&postedToday=1
+https://sfbay.craigslist.org/search/web?postedToday=1
+https://sfbay.craigslist.org/search/med?postedToday=1
+https://sfbay.craigslist.org/search/sof?postedToday=1
+https://sfbay.craigslist.org/search/sad?postedToday=1
