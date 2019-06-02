@@ -20,6 +20,7 @@ class MyEventHandler(FileSystemEventHandler):
         if not event.is_directory and event.src_path.endswith(self.filename):
             print "file created"
             self.observer.stop()
+        
 
 def main(argv=None):
     path = "test"
