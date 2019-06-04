@@ -176,4 +176,3 @@ if loop:
     with open('527_leads.json', 'w') as outfile:  
         json.dump(leads, outfile)
     exit
-    

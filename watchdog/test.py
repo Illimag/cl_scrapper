@@ -21,6 +21,10 @@ class MyEventHandler(FileSystemEventHandler):
             print "file created"
             self.observer.stop()
         
+        for test in open("C:\Users\\thinkpad_User\Desktop\N_DRIVE\git\github\cl_scrapper\watchdog\\test\\ty.txt"):
+            print test
+        exit
+        
 
 def main(argv=None):
     path = "test"
