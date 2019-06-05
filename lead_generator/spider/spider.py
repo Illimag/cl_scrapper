@@ -13,16 +13,10 @@ from bs4 import BeautifulSoup as soup
 
 import time
 
-# get current time function
-ts = time.time()
-
-
 # from ghost import Ghost
 
 import random
 
-import datetime
-st = datetime.datetime.fromtimestamp(ts).strftime('%Y-%m-%d %H:%M:%S')
 
 # ghost = Ghost()  
 
@@ -170,7 +164,7 @@ while True:
     # print "Total output =", i, ""
     # print ('The script took {0} second !'.format(time.time() - startTime))
 
-    with open("test_leads/" + st + 'leads' + current_cycle + ".json", 'w') as outfile:  
+    with open("test_leads/lead.json", 'w') as outfile:  
         json.dump(leads, outfile)
     exit
 
