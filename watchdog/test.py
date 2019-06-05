@@ -1,9 +1,12 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
+import os
 import logging
 import sys
 import time
+import subprocess
+
 
 from watchdog.events import FileSystemEventHandler
 from watchdog.observers import Observer
@@ -16,14 +19,22 @@ class MyEventHandler(FileSystemEventHandler):
         self.filename = filename
 
     def on_created(self, event):
-        print "e=", event
+        #print "e=", event
         if not event.is_directory and event.src_path.endswith(self.filename):
             print "file created"
             self.observer.stop()
-        
-        for test in open("C:\Users\\thinkpad_User\Desktop\N_DRIVE\git\github\cl_scrapper\watchdog\\test\\ty.txt"):
-            print test
+
+        #cwd = os.getcwd()  # Get the current working directory (cwd)
+        #files = os.listdir(cwd)  # Get all the files in that directory
+        #print("Files in '%s': %s" % (cwd, files))
+
+        for test in open("ty.json"):
+            ok = test
         exit
+
+        print ok
+        os.system('python pass.py')
+
         
 
 def main(argv=None):
