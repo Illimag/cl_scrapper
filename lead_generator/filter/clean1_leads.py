@@ -13,15 +13,8 @@ leads_with_keywords = {}
 current_lead_number = 0
 current_url_number = 0
 
-# Watchdog runs the clean_leads.py with os.system.
-# Because the run_watchdog.py file is located in test_leads
-# When clean_leads.py is run
-# All files paths are relative to the run_watchdog.py file.
 
-
-time.sleep(1)
-
-with open("lead.json", 'r') as json_file:
+with open("lead1.json", 'r') as json_file:
     data = json.load(json_file)
     total_number_of_items_in_data = len(data)
     #print total_number_of_items_in_data
@@ -49,33 +42,19 @@ with open("lead.json", 'r') as json_file:
                 break
 
         current_lead_number+=1
-with open('out_lead.json', 'w') as outfile:  
+with open('out1_lead.json', 'w') as outfile:  
     json.dump(leads_with_keywords, outfile)
 exit
-
-time.sleep(1)
 
 ftp=FTP_TLS()
 ftp.set_debuglevel(2)
 ftp.connect('192.168.0.105', 36891)
 ftp.sendcmd("USER user")
 ftp.sendcmd("PASS test")
-file = open('out_lead.json','rb')     
-ftp.storbinary('STOR out_lead.json', file) 
+file = open('out1_lead.json','rb')     
+ftp.storbinary('STOR out1_lead.json', file) 
 file.close()  
 ftp.close()
 
-time.sleep(1)
-
-os.remove("lead.json")
-os.remove("out_lead.json")
-
-# Because another file is created which is out_lead.json
-# Watchdog runs the clean_leads script again.
-# But because there is no lead.json because spider.py hasen't
-# It throws a missing file error.
-# Currently this is fine for now.
-# But eventually a solution should be for Watchdog to watch 
-# For specific file.
-
-time.sleep(1)
+os.remove("lead1.json")
+os.remove("out1_lead.json")

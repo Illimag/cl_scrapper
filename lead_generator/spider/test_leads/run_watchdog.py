@@ -30,7 +30,18 @@ class MyEventHandler(FileSystemEventHandler):
 
         os.system('python ../../filter/clean_leads.py')
 
-        
+        # Because another file is created which is out_lead.json
+        # Watchdog runs the clean_leads script again.
+        # But because there is no lead.json because spider.py hasen't
+        # It throws a missing file error.
+        # Currently this is fine for now.
+        # But eventually a solution should be for Watchdog to watch 
+        # For specific file.
+
+        # Watchdog runs the clean_leads.py with os.system.
+        # Because the run_watchdog.py file is located in test_leads
+        # When clean_leads.py is run
+        # All files paths are relative to the run_watchdog.py file.
 
 def main(argv=None):
     path = "."

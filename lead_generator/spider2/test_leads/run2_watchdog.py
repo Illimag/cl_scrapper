@@ -28,7 +28,7 @@ class MyEventHandler(FileSystemEventHandler):
         #files = os.listdir(cwd)  # Get all the files in that directory
         #print("Files in '%s': %s" % (cwd, files))
 
-        os.system('python ../../filter/clean_leads.py')
+        os.system('python ../../filter/clean2_leads.py')
 
         
 
