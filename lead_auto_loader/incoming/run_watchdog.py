@@ -28,7 +28,13 @@ class MyEventHandler(FileSystemEventHandler):
         #files = os.listdir(cwd)  # Get all the files in that directory
         #print("Files in '%s': %s" % (cwd, files))
 
-        os.system('py -2 ../check_master.py')
+        if (self == "test.txt"):
+            print "test"
+        if (self == "test1.txt"):
+            print "test1"
+        if (self == "test2.txt"):
+            print "test2"
+        #os.system('python ../check_master.py')
 
         # Because another file is created which is out_lead.json
         # Watchdog runs the clean_leads script again.

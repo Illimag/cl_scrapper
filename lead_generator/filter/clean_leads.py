@@ -19,7 +19,6 @@ current_url_number = 0
 # All files paths are relative to the run_watchdog.py file.
 
 
-time.sleep(1)
 
 with open("lead.json", 'r') as json_file:
     data = json.load(json_file)
@@ -53,8 +52,6 @@ with open('out_lead.json', 'w') as outfile:
     json.dump(leads_with_keywords, outfile)
 exit
 
-time.sleep(1)
-
 ftp=FTP_TLS()
 ftp.set_debuglevel(2)
 ftp.connect('192.168.0.105', 36891)
@@ -65,7 +62,6 @@ ftp.storbinary('STOR out_lead.json', file)
 file.close()  
 ftp.close()
 
-time.sleep(1)
 
 os.remove("lead.json")
 os.remove("out_lead.json")
@@ -77,5 +73,3 @@ os.remove("out_lead.json")
 # Currently this is fine for now.
 # But eventually a solution should be for Watchdog to watch 
 # For specific file.
-
-time.sleep(1)
