@@ -1,5 +1,6 @@
 import json
 import os
+import portalocker
 
 current_lead_number = 0
 current_lead_number1 = 0
@@ -17,7 +18,8 @@ os.remove("out2_lead.json")
 # Get master json file
 # put json object into var
 # Get length of the dict
-with open("../master.json",'r') as master_json:
+with open("../master.json",'r+') as master_json:
+    portalocker.lock(master_json, portalocker.LOCK_EX)
     master = json.load(master_json)
     total_number_of_items_in_data_master_json = len(master)
 
@@ -88,6 +90,5 @@ for key, value in data.iteritems():
     add_to_end+=1
 
 # update master.json
-with open("../master.json", 'w') as outfile:  
-    json.dump(master, outfile)
-    exit
+json.dump(master, master_json)
+portalocker.unlock(master_json)
