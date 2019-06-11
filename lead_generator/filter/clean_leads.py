@@ -54,8 +54,8 @@ exit
 
 ftp=FTP_TLS()
 ftp.set_debuglevel(2)
-ftp.connect('192.168.0.105', 36891)
-ftp.sendcmd("USER user")
+ftp.connect('192.168.0.109', 36891)
+ftp.sendcmd("USER spider_user")
 ftp.sendcmd("PASS test")
 file = open('out_lead.json','rb')     
 ftp.storbinary('STOR out_lead.json', file) 

@@ -8,11 +8,11 @@ current_url_number = 0
 # Get outputted leads
 # put json object into var
 # Get length of the dict
-with open("out_lead.json", 'r') as json_file:
+with open("out1_lead.json", 'r') as json_file:
     data = json.load(json_file)
     total_number_of_items_in_data_out_lead = len(data)
 
-os.remove("out_lead.json")
+os.remove("out1_lead.json")
 
 # Get master json file
 # put json object into var

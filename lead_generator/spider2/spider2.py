@@ -19,6 +19,9 @@ import time
 
 import random
 
+import os
+import os.path
+
 # ghost = Ghost()  
 
 # with ghost.start() as session:
@@ -168,6 +171,11 @@ while True:
 
         # print "Total output =", i, ""
         # print ('The script took {0} second !'.format(time.time() - startTime))
+
+        if (os.path.isfile("test_leads/lead2.json") == True):
+            os.remove("test_leads/lead2.json")
+        if (os.path.isfile("test_leads/out2_lead.json") == True):
+            os.remove("test_leads/out2_lead.json")
 
         with open("test_leads/lead2.json", 'w') as outfile:  
             json.dump(leads, outfile)
