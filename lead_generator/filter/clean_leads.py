@@ -38,11 +38,14 @@ with open("lead.json", 'r') as json_file:
                 lead = (data[turn_into_string])
                 #print lead
                 url = lead[1]
+                title = lead[0]
                 #print url
+                this_title = title["title"]
                 this_url = url["url"]
                 #print this_url
                 leads_with_keywords[current_url_number] = []
 
+                leads_with_keywords[current_url_number].append({'title':this_title})
                 leads_with_keywords[current_url_number].append({'url':this_url})
                 current_url_number+=1
                 break
