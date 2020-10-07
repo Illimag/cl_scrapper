@@ -28,7 +28,7 @@ public==2019.4.13
 pycparser==2.19
 Pygments==2.1
 pyOpenSSL==19.0.0
-PyYAML==3.12
+PyYAML==4.2b1
 query-string==2019.4.13
 ranger==1.7.1
 request==2019.4.13
@@ -40,7 +40,7 @@ soupsieve==1.9.1
 texttable==0.9.1
 tinydb==3.13.0
 ttystatus==0.32
-urllib3==1.24.3
+urllib3==1.25.9
 vboxapi==1.0
 virtualenv==15.2.0
 websocket-client==0.47.0
