@@ -40,7 +40,7 @@ soupsieve==1.9.1
 texttable==0.9.1
 tinydb==3.13.0
 ttystatus==0.32
-urllib3==1.24.3
+urllib3==1.26.5
 vboxapi==1.0
 virtualenv==15.2.0
 websocket-client==0.47.0
