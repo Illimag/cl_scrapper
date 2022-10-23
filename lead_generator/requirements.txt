@@ -8,7 +8,7 @@ cffi==1.12.3
 chardet==3.0.4
 cliapp==1.20160109
 Click==7.0
-cryptography==2.6.1
+cryptography==3.2
 docker==3.1.4
 docker-compose==1.20.1
 docker-pycreds==0.2.2
